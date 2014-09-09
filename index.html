@@ -1,0 +1,15 @@
+---
+layout: default
+title: Repaircafé
+---
+{% for post in site.posts %}
+<div class="column-group gutters">
+	<div class="all-100">
+		<h1>{{ post.title }}</h1>
+		<span class="post-meta">Von {{ post.author }} am {{ post.date }}</span>
+		<div class="content">
+			{{ post.content }}
+		</div>
+	</div>
+</div>
+{% endfor %}

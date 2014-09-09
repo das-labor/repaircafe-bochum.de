@@ -1,0 +1,56 @@
+---
+---
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Repaircafé Bochum</title>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="description" content="">
+		<meta name="author" content="">
+		<link rel="icon" type="image/x-icon" href="{{ site.url }}/assets/favicon.ico">
+		<link rel="shortcut icon" type="image/x-icon" href="{{ site.url }}/assets/favicon.ico">
+		<link type="image/x-icon" href="{{ site.url }}/assets/favicon.ico">
+
+		<link rel="stylesheet" href="{{ site.url }}/assets/ink/css/ink.css">
+		<link rel="stylesheet" href="{{ site.url }}/assets/site.css">
+		<script type="text/javascript" src="{{ site.url }}/assets/ink/js/ink-all.min.js"></script>
+		<script type="text/javascript" src="{{ site.url }}/assets/ink/js/autoload.js"></script>
+	</head>
+	<body>
+		<div id="wrapper">
+			<img src="{{ site.url }}/assets/banner.jpg" alt="Repaircafé Bochum">
+			<nav class="ink-navigation ink-grid large">
+				<ul class="menu horizontal black">
+					<li class="heading">
+						<a href="{{ site.url }}/" id="small-brand" title="Repaircafé Bochum">
+							Repaircafé Bochum
+						</a>
+					</li>
+					<li><a href="{{ site.url }}/labor.html">Das Labor e.V.</a></li>
+					<li><a href="{{ site.url }}/presse.html">Presse</a></li>
+					<li><a href="{{ site.url }}/repaircafe.html">Repaircafé</a></li>
+					<li><a href="{{ site.url }}/gaestebuch.php">Gästebuch</a></li>
+				</ul>
+			</nav>
+			<div class="vertical-space ink-grid">
+				<div class="column-group gutters">
+					<div class="all-70">
+						{{ content }}
+					</div>
+					<div class="all-30">
+						<h2>Nächste Termine</h2>
+						<ul>
+							<li><b>20. September in der Alsenstraße.</b></li>
+							<li><strike>26. Juli im Labor.</strike></li>
+							<li><strike>25. Mai in der Alsenstraße.</strike></li>
+							<li><strike>20. Mai in der Alsenstraße.</strike></li>
+							<li><strike>26. April in der Hochschule Bochum.</strike></li>
+						</ul>
+						<div class="repaircounter">Erfolgreiche Reperaturen: <a href="{{ site.url }}/reperaturen.html"><em>1337</em></a></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
