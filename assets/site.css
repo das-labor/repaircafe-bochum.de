@@ -43,3 +43,14 @@ body {
 .guestbook-form {
 	padding-top: 3em;
 }
+
+.post-meta {
+	font-size: 90%;
+	padding-bottom: 20pt;
+	padding-top: 5pt;
+	display: block;
+}
+
+.post-title {
+	margin-bottom: 0pt;
+}

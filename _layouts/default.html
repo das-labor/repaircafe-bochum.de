@@ -35,6 +35,7 @@
 			</nav>
 			<div class="vertical-space ink-grid">
 				<div class="column-group gutters">
+					{% if not nosidebar %}
 					<div class="all-70">
 						{{ content }}
 					</div>
@@ -49,8 +50,29 @@
 						</ul>
 						<div class="repaircounter">Erfolgreiche Reperaturen: <a href="{{ site.url }}/reperaturen.html"><em>1337</em></a></div>
 					</div>
+					{% else %}
+					<div class="all-100">
+						{{ content }}
+					</div>
+					{% endif %}
 				</div>
 			</div>
 		</div>
+
+		<!-- Piwik -->
+		<script type="text/javascript">
+			var _paq = _paq || [];
+			_paq.push(['trackPageView']);
+			_paq.push(['enableLinkTracking']);
+			(function() {
+				var u=(("https:" == document.location.protocol) ? "https" : "http") + "://elektroporn.com/analytics/";
+				_paq.push(['setTrackerUrl', u+'piwik.php']);
+				_paq.push(['setSiteId', 1]);
+				var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
+				g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+			})();
+		</script>
+		<noscript><p><img src="http://elektroporn.com/analytics/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+		<!-- End Piwik Code -->
 	</body>
 </html>

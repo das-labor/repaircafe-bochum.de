@@ -1,12 +1,31 @@
 ---
 title: Reperaturen
 layout: default
+nosidebar: true
 ---
 <table class="ink-table alternating">
 	<thead>
-		<tr><th>Head1</th><th>Head2</th><th>Head3</th></tr>
+		<tr>
+			<th>Nummer</th>
+			<th>Datum</th>
+			<th>Alter</th>
+			<th>Gerätebeschreibung</th>
+			<th>Fehlerbeschreibung</th>
+			<th>Informationsquelle</th>
+			<th>Geschlecht</th>
+		</tr>
 	</thead>
 	<tbody>
-		<tr><td>Row1</td><td>Row2</td><td>Row3</td></tr>
+		{% for ent in site.data.reparaturen %}
+		<tr>
+			<td>{{ ent.nummer }}</td>
+			<td>{{ ent.datum }}</td>
+			<td>{{ ent.alter }}</td>
+			<td>{{ ent.geraetebeschreibung }}</td>
+			<td>{{ ent.fehlerbeschreibung }}</td>
+			<td>{{ ent.informationsquelle }}</td>
+			<td>{{ ent.geschlecht }}</td>
+		</tr>
+		{% endfor %}
 	</tbody>
 </table>
