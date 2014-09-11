@@ -1,4 +1,6 @@
 <?php
+include 'php-liquid/Liquid.class.php';
+
 define("GAESTEBUCH_DATEI","../_gaestebuch/gaestebuch.yml");
 define("LAYOUT_DATEI","../_layouts/default.html");
 define("CAPTCHA_DATEI","../_gaestebuch/captchas.yml");
@@ -7,9 +9,6 @@ $index = file_get_contents(LAYOUT_DATEI);
 $book = yaml_parse_file(GAESTEBUCH_DATEI);
 $captchas = yaml_parse_file(CAPTCHA_DATEI);
 
-
-$index = preg_replace("/---/","",$index);
-$index = preg_replace("/\{\{ site.url \}\}/","http://repaircafe-bochum.de",$index);
 $body = "";
 
 if($_SERVER['REQUEST_METHOD'] === "POST")
@@ -109,6 +108,14 @@ $body .=
 		'</form>' .
 	'</div>';
 
-$index = preg_replace("/\{\{ content \}\}/",$body,$index);
+$liquid = new LiquidTemplate();
+$ctx = array(
+	'content' => $body,
+	'page' => array(
+		'nosidebar' => false
+	)
+);
+
+$index = preg_replace("/---/","",$liquid->parse($index)->render($ctx));
 echo $index;
 ?>

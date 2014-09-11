@@ -35,10 +35,14 @@
 			</nav>
 			<div class="vertical-space ink-grid">
 				<div class="column-group gutters">
-					{% if not nosidebar %}
-					<div class="all-70">
+					{% if page.nosidebar %}
+					<div class="all-100">
 						{{ content }}
 					</div>
+					{% else %}
+				<div class="all-70">
+					{{ content }}
+				</div>
 					<div class="all-30">
 						<h2>Nächste Termine</h2>
 						<ul>
@@ -49,10 +53,6 @@
 							<li><strike>26. April in der Hochschule Bochum.</strike></li>
 						</ul>
 						<div class="repaircounter">Erfolgreiche Reperaturen: <a href="{{ site.url }}/reperaturen.html"><em>1337</em></a></div>
-					</div>
-					{% else %}
-					<div class="all-100">
-						{{ content }}
 					</div>
 					{% endif %}
 				</div>
