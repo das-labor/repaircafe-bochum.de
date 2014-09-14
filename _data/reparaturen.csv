@@ -1,4 +1,4 @@
-nummer,datum,alter,geschlecht,geraetebeschreibung,fehlerbeschreibung,erfolgreich,informationsquelle
+datum,nummer,alter,geschlecht,geraetebeschreibung,fehlerbeschreibung,erfolgreich,informationsquelle
 23.11.13,1,60+,m,Drehmel,Triac defekt,,
 23.11.13,2,61+,,Staubsauger,Steckter defekt,ja,
 23.11.13,4,61+,m,kassetten spielgerät,Zahnrad defekt,nein,
