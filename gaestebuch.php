@@ -1,4 +1,28 @@
 <?php
+/**
+* @link http://gist.github.com/385876
+*/
+function csv_to_array($filename='', $delimiter=',')
+{
+    if(!file_exists($filename) || !is_readable($filename))
+        return FALSE;
+
+    $header = NULL;
+    $data = array();
+    if (($handle = fopen($filename, 'r')) !== FALSE)
+    {
+        while (($row = fgetcsv($handle, 1000, $delimiter)) !== FALSE)
+        {
+            if(!$header)
+                $header = $row;
+            else
+                $data[] = array_combine($header, $row);
+        }
+        fclose($handle);
+    }
+    return $data;
+}
+
 include 'php-liquid/Liquid.class.php';
 
 define("GAESTEBUCH_DATEI","../_gaestebuch/gaestebuch.yml");
@@ -8,6 +32,8 @@ define("CAPTCHA_DATEI","../_gaestebuch/captchas.yml");
 $index = file_get_contents(LAYOUT_DATEI);
 $book = yaml_parse_file(GAESTEBUCH_DATEI);
 $captchas = yaml_parse_file(CAPTCHA_DATEI);
+$reparaturen = csv_to_array("../_data/reparaturen.csv");
+$termine = csv_to_array("../_data/termine.csv");
 
 $body = "";
 
@@ -113,6 +139,12 @@ $ctx = array(
 	'content' => $body,
 	'page' => array(
 		'nosidebar' => false
+	),
+	'site' => array(
+		'data' => array(
+			'reparaturen' => $reparaturen,
+			'termine' => $termine
+		)
 	)
 );
 
