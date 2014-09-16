@@ -8,11 +8,10 @@ layout: default
 		<tr>
 			<th>Nummer</th>
 			<th>Datum</th>
-			<th>Alter</th>
+			<th>Alter / Geschlecht</th>
 			<th>Gerätebeschreibung</th>
 			<th>Fehlerbeschreibung</th>
 			<th>Informationsquelle</th>
-			<th>Geschlecht</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -20,11 +19,18 @@ layout: default
 		<tr>
 			<td>{{ ent.nummer }}</td>
 			<td>{{ ent.datum }}</td>
-			<td>{{ ent.alter }}</td>
+			<td>
+				{{ ent.alter }}
+				{% if ent.geschlecht == "w" or ent.geschlecht == "W" %}
+				<span class="extralarge">♀</span>
+				{% endif %}
+				{% if ent.geschlecht == "m" or ent.geschlecht == "M" %}
+				<span class="extralarge">♂</span>
+				{% endif %}
+			</td>
 			<td>{{ ent.geraetebeschreibung }}</td>
 			<td>{{ ent.fehlerbeschreibung }}</td>
 			<td>{{ ent.informationsquelle }}</td>
-			<td>{{ ent.geschlecht }}</td>
 		</tr>
 		{% endfor %}
 	</tbody>
