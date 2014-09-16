@@ -47,11 +47,20 @@
 					<div class="all-30">
 						<h2>Nächste Termine</h2>
 						<ul>
-							<li><b>20. September in der Alsenstraße.</b></li>
-							<li><strike>26. Juli im Labor.</strike></li>
-							<li><strike>25. Mai in der Alsenstraße.</strike></li>
-							<li><strike>20. Mai in der Alsenstraße.</strike></li>
-							<li><strike>26. April in der Hochschule Bochum.</strike></li>
+							{% for ent in site.data.termine reversed %}
+								{% capture d1 %}{{ ent.datum | date:"%F" }}{% endcapture %}
+								{% capture d2 %}{{ "now" | date:"%F" }}{% endcapture %}
+								{% capture d3 %}{{ "tomorrow" | date:"%F" }}{% endcapture %}
+								{% if d1 > d3 %}
+									<li>Am {{ ent.datum | date:"%d. %b %Y" }} {{ ent.ort }}</li>
+								{% else %}
+									{% if d1 < d2  %}
+										<li><strike>Am {{ ent.datum | date:"%d. %b %Y" }} {{ ent.ort }}</strike></li>
+									{% else %}
+										<li><b>Am {{ ent.datum | date:"%d. %b %Y" }} {{ ent.ort }}</b></li>
+									{% endif %}
+								{%endif%}
+							{% endfor %}
 						</ul>
 						<div class="repaircounter">Erfolgreiche Reperaturen: <a href="{{ site.url }}/reperaturen.html"><em>{{ site.data.reparaturen | size | times:0.7 | replace_first:'.0','' }}</em></a></div>
 					</div>
