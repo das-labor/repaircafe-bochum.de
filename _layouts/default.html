@@ -12,7 +12,8 @@
 		<link rel="shortcut icon" type="image/x-icon" href="{{ site.url }}/assets/favicon.ico">
 		<link type="image/x-icon" href="{{ site.url }}/assets/favicon.ico">
 
-		<link rel="stylesheet" href="{{ site.url }}/assets/ink/css/ink.css">
+		<link rel="stylesheet" href="{{ site.url }}/assets/ink/css/ink.min.css">
+		<link rel="stylesheet" href="{{ site.url }}/assets/ink/css/font-awesome.min.css">
 		<link rel="stylesheet" href="{{ site.url }}/assets/site.css">
 		<script type="text/javascript" src="{{ site.url }}/assets/ink/js/ink-all.min.js"></script>
 		<script type="text/javascript" src="{{ site.url }}/assets/ink/js/autoload.js"></script>
@@ -52,7 +53,7 @@
 							<li><strike>20. Mai in der Alsenstraße.</strike></li>
 							<li><strike>26. April in der Hochschule Bochum.</strike></li>
 						</ul>
-						<div class="repaircounter">Erfolgreiche Reperaturen: <a href="{{ site.url }}/reperaturen.html"><em>1337</em></a></div>
+						<div class="repaircounter">Erfolgreiche Reperaturen: <a href="{{ site.url }}/reperaturen.html"><em>{{ site.data.reparaturen | size | times:0.7 | replace_first:'.0','' }}</em></a></div>
 					</div>
 					{% endif %}
 				</div>
