@@ -1,2 +1,2 @@
-[Repaircafe Bochum](repaircafe-bochum.de)
+[Repaircafe Bochum](http://repaircafe-bochum.de)
 =========================================
