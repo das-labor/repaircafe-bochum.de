@@ -138,7 +138,9 @@ $liquid = new LiquidTemplate();
 $ctx = array(
 	'content' => $body,
 	'page' => array(
-		'nosidebar' => false,
+		'nosidebar' => false
+	),
+	'site' => array(
 		'data' => array(
 			'reparaturen' => $reparaturen,
 			'termine' => $termine
