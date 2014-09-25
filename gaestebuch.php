@@ -1,26 +1,53 @@
 <?php
+function check_if_file_is_accessable($filename)
+{
+	if(!file_exists($filename))
+	{
+		error_log("Can't open " . $filename);
+		return FALSE;
+	}
+
+	if(!is_readable($filename))
+	{
+		error_log("Can't read " . $filename);
+		return FALSE;
+	}
+	return TRUE;
+}
+
+
 /**
 * @link http://gist.github.com/385876
 */
 function csv_to_array($filename='', $delimiter=',')
 {
-    if(!file_exists($filename) || !is_readable($filename))
-        return FALSE;
+	if(!check_if_file_is_accessable($filename))
+		return FALSE;
 
-    $header = NULL;
-    $data = array();
-    if (($handle = fopen($filename, 'r')) !== FALSE)
-    {
-        while (($row = fgetcsv($handle, 1000, $delimiter)) !== FALSE)
-        {
-            if(!$header)
-                $header = $row;
-            else
-                $data[] = array_combine($header, $row);
-        }
-        fclose($handle);
-    }
-    return $data;
+	$header = NULL;
+	$data = array();
+	if (($handle = fopen($filename, 'r')) !== FALSE)
+	{
+		while (($row = fgetcsv($handle, 1000, $delimiter)) !== FALSE)
+		{
+			if(!$header)
+			{
+				$header = $row;
+			}
+			else
+			{
+				if(count($row) > count($header))
+					error_log(var_dump($row));
+				while(count($row) < count($header))
+				{
+					array_push($row,"");
+				}
+				$data[] = array_combine($header, $row);
+			}
+		}
+		fclose($handle);
+	}
+	return $data;
 }
 
 include 'php-liquid/Liquid.class.php';
@@ -28,6 +55,12 @@ include 'php-liquid/Liquid.class.php';
 define("GAESTEBUCH_DATEI","../_gaestebuch/gaestebuch.yml");
 define("LAYOUT_DATEI","../_layouts/default.html");
 define("CAPTCHA_DATEI","../_gaestebuch/captchas.yml");
+
+date_default_timezone_set("Europe/Berlin");
+
+check_if_file_is_accessable(LAYOUT_DATEI);
+check_if_file_is_accessable(GAESTEBUCH_DATEI);
+check_if_file_is_accessable(CAPTCHA_DATEI);
 
 $index = file_get_contents(LAYOUT_DATEI);
 $book = yaml_parse_file(GAESTEBUCH_DATEI);
@@ -144,7 +177,8 @@ $ctx = array(
 		'data' => array(
 			'reparaturen' => $reparaturen,
 			'termine' => $termine
-		)
+		),
+		'erfolgreich' => sprintf("%0.0f",floor((count($reparaturen)) * 0.7))
 	)
 );
 
