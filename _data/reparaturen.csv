@@ -71,7 +71,7 @@ datum,nummer,alter,geschlecht,geraetebeschreibung,fehlerbeschreibung,erfolgreich
 29.03.14,75,39,w,Lampe,Leuchtmittel defekt,kein ersatzteil vorhanden,
 29.03.14,76,49,m,Drucker,Fehlermeldung 5100,,Nachhaltigkeitstreff
 29.03.14,77,29,w,Radio kassettenplayer,Kassettendeck funktioniert nicht,Kein Antriebsriehmen vorhanden,Suche übers internet
-29.03.14,78,63,m,Rasierer,,ja,,
+29.03.14,78,63,m,Rasierer,,ja,
 29.03.14,79,63,m,Wasserkocher,,nein
 29.03.14,80,23,w,Fahrrad,Licht+ Gangschaltung,ja,Zeitung
 29.03.14,81,,,Kassettenrecoder,Kassettenfach öffnet nicht,Ja,
@@ -100,7 +100,7 @@ datum,nummer,alter,geschlecht,geraetebeschreibung,fehlerbeschreibung,erfolgreich
 29.03.14,104,,w,Videorecorder,,ja,Zeitung
 29.03.14,105,,w,AEG Radio,Keine Geräusche,ja,Laufkundschaft
 29.03.14,106,,,Handkreissäge,,kein ersatzteil,Zeitung
-29.03.14,107,,m,Trockenhaube,geht nicht an,Entstörglied defekt,ja,
+29.03.14,107,,m,Trockenhaube,"geht nicht an, Entstörglied defekt",ja,
 29.03.14,108,58,w,Handy Sony,Steuerknopf defekt,nein,Zeitung
 29.03.14,109,26,w,Fahrrad,Reifen platt,ja,Verteiler
 29.03.14,110,,,Tischkreissäge,Geht nicht an,ja,Verteiler
