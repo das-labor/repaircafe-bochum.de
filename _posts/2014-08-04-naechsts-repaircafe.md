@@ -1,6 +1,6 @@
 ---
-title: Nächstes Repaircafé
+title: Nächstes Repair Café
 layout: default
 author: Laurenz
 ---
-Das nächste Repaircafe findet am Samstag, den 22. November 2014 in den Räumlichkeiten des Labor e.V. statt.
+Das nächste Repair Café findet am Samstag, den 22. November 2014 in den Räumlichkeiten des Alsenwohnzimmers und des Umwetzentrums statt.
