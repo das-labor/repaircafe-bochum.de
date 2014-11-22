@@ -112,7 +112,6 @@ if($_SERVER['REQUEST_METHOD'] === "POST")
 			);
 
 		$unique = true;
-		var_dump($book);
 			foreach($book as $ent)
 			{
 				$unique = $unique && !($ent['autor'] == $new['autor'] && $ent['kommentar'] == $new['kommentar']);
