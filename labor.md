@@ -5,7 +5,7 @@ layout: default
 Das Labor e.V.
 ==============
 
-![Borg3D](http://www.das-labor.org/wp-content/uploads/2014/02/450px-Borg3d-1-225x300.jpg)
+![Bastelraum](./assets/loetkolbenNahaufnahme1.JPG)
 
 Die Community
 -------------
