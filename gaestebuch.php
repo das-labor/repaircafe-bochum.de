@@ -68,6 +68,17 @@ $captchas = yaml_parse_file(CAPTCHA_DATEI);
 $reparaturen = csv_to_array("../_data/reparaturen.csv");
 $termine = csv_to_array("../_data/termine.csv");
 
+
+if($book === NULL)
+{
+	$book = array();
+}
+
+if($captchas === NULL)
+{
+	$captchas = array();
+}
+
 $body = "";
 
 if($_SERVER['REQUEST_METHOD'] === "POST")
@@ -85,7 +96,7 @@ if($_SERVER['REQUEST_METHOD'] === "POST")
 		$cap_answer = (int)($_POST['captcha']);
 		$cap_index = (int)($_POST['answer']);
 
-		if($cap_index < 0 || $cap_index > 100 || $captchas[$cap_index] !== $cap_answer)
+		/*if($cap_index < 0 || $cap_index > 100 || $captchas[$cap_index] !== $cap_answer)
 		{
 			$body =
 				'<div class="ink-alert block" role="alert">' .
@@ -94,13 +105,14 @@ if($_SERVER['REQUEST_METHOD'] === "POST")
 				'</div>';
 		}
 		else
-		{
+		{*/
 			$new = array(
 				'autor' => htmlentities($_POST['name']),
 				'kommentar' => htmlentities($_POST['comment'])
 			);
 
-			$unique = true;
+		$unique = true;
+		var_dump($book);
 			foreach($book as $ent)
 			{
 				$unique = $unique && !($ent['autor'] == $new['autor'] && $ent['kommentar'] == $new['kommentar']);
@@ -119,7 +131,7 @@ if($_SERVER['REQUEST_METHOD'] === "POST")
 					'<p>Dieser Eintrag existiert bereits.</p>' .
 					'</div>';
 			}
-		}
+		//}
 
 		unset($captchas[$cap_index]);
 		yaml_emit_file(CAPTCHA_DATEI,$captchas,YAML_UTF8_ENCODING);
