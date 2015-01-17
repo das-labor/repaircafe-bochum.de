@@ -52,19 +52,19 @@ function csv_to_array($filename='', $delimiter=',')
 
 include 'php-liquid/Liquid.class.php';
 
-define("GAESTEBUCH_DATEI","../_gaestebuch/gaestebuch.yml");
-define("LAYOUT_DATEI","../_layouts/default.html");
-define("CAPTCHA_DATEI","../_gaestebuch/captchas.yml");
+define("GUESTBOOK_FILE","../_guestbook/guestbook.yml");
+define("LAYOUT_FILE","../_layouts/default.html");
+define("CAPTCHA_FILE","../_guestbook/captchas.yml");
 
 date_default_timezone_set("Europe/Berlin");
 
-check_if_file_is_accessable(LAYOUT_DATEI);
-check_if_file_is_accessable(GAESTEBUCH_DATEI);
-check_if_file_is_accessable(CAPTCHA_DATEI);
+check_if_file_is_accessable(LAYOUT_FILE);
+check_if_file_is_accessable(GUESTBOOK_FILE);
+check_if_file_is_accessable(CAPTCHA_FILE);
 
-$index = file_get_contents(LAYOUT_DATEI);
-$book = yaml_parse_file(GAESTEBUCH_DATEI);
-$captchas = yaml_parse_file(CAPTCHA_DATEI);
+$index = file_get_contents(LAYOUT_FILE);
+$book = yaml_parse_file(GUESTBOOK_FILE);
+$captchas = yaml_parse_file(CAPTCHA_FILE);
 $reparaturen = csv_to_array("../_data/reparaturen.csv");
 $termine = csv_to_array("../_data/termine.csv");
 
@@ -107,20 +107,20 @@ if($_SERVER['REQUEST_METHOD'] === "POST")
 		else
 		{*/
 			$new = array(
-				'autor' => htmlentities($_POST['name']),
-				'kommentar' => htmlentities($_POST['comment'])
+				'author' => htmlentities($_POST['name']),
+				'comment' => htmlentities($_POST['comment'])
 			);
 
 		$unique = true;
 			foreach($book as $ent)
 			{
-				$unique = $unique && !($ent['autor'] == $new['autor'] && $ent['kommentar'] == $new['kommentar']);
+				$unique = $unique && !($ent['author'] == $new['author'] && $ent['comment'] == $new['comment']);
 			}
 
 			if($unique)
 			{
 				array_push($book,$new);
-				yaml_emit_file(GAESTEBUCH_DATEI,$book,YAML_UTF8_ENCODING);
+				yaml_emit_file(GUESTBOOK_FILE,$book,YAML_UTF8_ENCODING);
 			}
 			else
 			{
@@ -133,15 +133,15 @@ if($_SERVER['REQUEST_METHOD'] === "POST")
 		//}
 
 		unset($captchas[$cap_index]);
-		yaml_emit_file(CAPTCHA_DATEI,$captchas,YAML_UTF8_ENCODING);
+		yaml_emit_file(CAPTCHA_FILE,$captchas,YAML_UTF8_ENCODING);
 	}
 }
 
 foreach(array_reverse($book) as $ent)
 {
 	$body .= '<div class="guestbook-entry">' .
-					 '<div class="guestbook-head">' . $ent['autor'] . ' sagte:</div>' .
-					 '<p class="guestbook-body">' . $ent['kommentar'] . '</p>' .
+					 '<div class="guestbook-head">' . $ent['author'] . ' sagte:</div>' .
+					 '<p class="guestbook-body">' . $ent['comment'] . '</p>' .
 					 '</div>';
 }
 
@@ -149,7 +149,7 @@ $cap_a = rand(1,10);
 $cap_b = rand(1,10);
 $cap_index = rand(0,100);
 $captchas[$cap_index] = $cap_a + $cap_b;
-yaml_emit_file(CAPTCHA_DATEI,$captchas,YAML_UTF8_ENCODING);
+yaml_emit_file(CAPTCHA_FILE,$captchas,YAML_UTF8_ENCODING);
 
 $body .=
 	'<div class="guestbook-form">' .
