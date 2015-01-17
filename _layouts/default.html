@@ -31,6 +31,7 @@
 					<li><a href="{{ site.url }}/labor.html">Das Labor e.V.</a></li>
 					<li><a href="{{ site.url }}/presse.html">Presse</a></li>
 					<li><a href="{{ site.url }}/faq.html">FAQ</a></li>
+					<li><a href="{{ site.url }}/guestbook.php">Gästebuch</a></li>
 				</ul>
 			</nav>
 			<div class="vertical-space ink-grid">
@@ -46,10 +47,10 @@
 					<div class="all-30">
 						<h2>Nächste Termine</h2>
 						<ul>
-							{% for ent in site.data.termine reversed %}
+							{% for ent in site.data.termine %}
 								{% capture d1 %}{{ ent.datum | date:"%F" }}{% endcapture %}
-								{% capture d2 %}{{ "now" | date:"%F" }}{% endcapture %}
-								{% capture d3 %}{{ "tomorrow" | date:"%F" }}{% endcapture %}
+								{% capture d2 %}{{ site.time | date:"%F" }}{% endcapture %}
+								{% capture d3 %}{{ site.time + 60 * 60 * 24 | date:"%F" }}{% endcapture %}
 								{% if d1 > d3 %}
 									<li>Am {{ ent.datum | date:"%d. %b %Y" }} {{ ent.ort }}</li>
 								{% else %}
