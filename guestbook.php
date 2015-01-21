@@ -83,7 +83,7 @@ $body = "";
 
 if($_SERVER['REQUEST_METHOD'] === "POST")
 {
-	if($_POST['name'] == "" || $_POST['comment'] == "")// || $_POST['captcha'] == "" || $_POST['answer'] == "")
+	if($_POST['name'] == "" || $_POST['comment'] == "" || $_POST['captcha'] == "" || $_POST['answer'] == "")
 	{
 		$body =
 		 	'<div class="ink-alert block" role="alert">' .
@@ -93,10 +93,10 @@ if($_SERVER['REQUEST_METHOD'] === "POST")
 	}
 	else
 	{
-		//$cap_answer = (int)($_POST['captcha']);
-		//$cap_index = (int)($_POST['answer']);
+		$cap_answer = (int)($_POST['captcha']);
+		$cap_index = (int)($_POST['answer']);
 
-		/*if($cap_index < 0 || $cap_index > 100 || $captchas[$cap_index] !== $cap_answer)
+		if($cap_index < 0 || $cap_index > 100 || $captchas[$cap_index] !== $cap_answer)
 		{
 			$body =
 				'<div class="ink-alert block" role="alert">' .
@@ -105,7 +105,7 @@ if($_SERVER['REQUEST_METHOD'] === "POST")
 				'</div>';
 		}
 		else
-		{*/
+		{
 			$new = array(
 				'author' => htmlentities($_POST['name']),
 				'comment' => htmlentities($_POST['comment'])
@@ -130,9 +130,9 @@ if($_SERVER['REQUEST_METHOD'] === "POST")
 					'<p>Dieser Eintrag existiert bereits.</p>' .
 					'</div>';
 			}
-		//}
+		}
 
-		//unset($captchas[$cap_index]);
+		unset($captchas[$cap_index]);
 		yaml_emit_file(CAPTCHA_FILE,$captchas,YAML_UTF8_ENCODING);
 	}
 }
@@ -167,12 +167,12 @@ $body .=
 					'<textarea id="comment" name="comment"></textarea>' .
 				'</div>' .
 			'</div>' .
-			/*'<div class="control-group">' .
+			'<div class="control-group">' .
 				'<label for="captcha">Bitte trage hier ein was <em>'.(string)($cap_a).' + '.(string)($cap_b).'</em> ist um zu zeigen, dass du ein Mensch bist</label>' .
 				'<div class="control">' .
 					'<input type="text" id="captcha" name="captcha" />' .
 				'</div>' .
-				'</div>' .*/
+				'</div>' .
 			'<input type="hidden" name="answer" value="' . $cap_index . '" />' .
 			'<input type="submit" class="ink-button" value="Abschicken" />' .
 		'</form>' .
