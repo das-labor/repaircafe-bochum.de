@@ -52,12 +52,12 @@
 								{% capture d2 %}{{ site.time | date:"%F" }}{% endcapture %}
 								{% capture d3 %}{{ site.time + 60 * 60 * 24 | date:"%F" }}{% endcapture %}
 								{% if d1 > d3 %}
-									<li>Am {{ ent.datum | date:"%d. %b %Y" }} {{ ent.ort }}</li>
+									<li>Am {{ ent.datum | localize:"%d. %b %Y" }} {{ ent.ort }}</li>
 								{% else %}
 									{% if d1 < d2  %}
-										<li><strike>Am {{ ent.datum | date:"%d. %b %Y" }} {{ ent.ort }}</strike></li>
+										<li><strike>Am {{ ent.datum | localize:"%d. %b %Y" }} {{ ent.ort }}</strike></li>
 									{% else %}
-										<li><b>Am {{ ent.datum | date:"%d. %b %Y" }} {{ ent.ort }}</b></li>
+										<li><b>Am {{ ent.datum | localize:"%d. %b %Y" }} {{ ent.ort }}</b></li>
 									{% endif %}
 								{%endif%}
 							{% endfor %}
@@ -67,7 +67,7 @@
 						{% else %}
 							<div class="repaircounter">Erfolgreiche Reparaturen: <a href="{{ site.url }}/reparaturen.html"><em>{{ site.data.reparaturen | size | times:0.7 | replace_first:'.0','' | replace_first:'.1','' | replace_first:'.2','' | replace_first:'.3','' | replace_first:'.4','' | replace_first:'.5','' | replace_first:'.6','' | replace_first:'.7','' | replace_first:'.8','' | replace_first:'.9','' }}</em></a></div>
 						{% endif %}
-						<h4>repaircafe@das-labor.org</h4>
+						<h2><a href='mailto:repaircafe@das-labor.org'>repaircafe@das-labor.org</a></h2>
 					</div>
 					{% endif %}
 				</div>
