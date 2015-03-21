@@ -62,12 +62,12 @@
 								{%endif%}
 							{% endfor %}
 						</ul>
+						Das Repair Café findet von 12 - 17Uhr statt.<br>
 						{% if site.erfolgreich %}
 							<div class="repaircounter">Erfolgreiche Reparaturen: <a href="{{ site.url }}/reparaturen.html"><em>{{ site.erfolgreich }}</em></a></div>
 						{% else %}
 							<div class="repaircounter">Erfolgreiche Reparaturen: <a href="{{ site.url }}/reparaturen.html"><em>{{ site.data.reparaturen | size | times:0.7 | replace_first:'.0','' | replace_first:'.1','' | replace_first:'.2','' | replace_first:'.3','' | replace_first:'.4','' | replace_first:'.5','' | replace_first:'.6','' | replace_first:'.7','' | replace_first:'.8','' | replace_first:'.9','' }}</em></a></div>
 						{% endif %}
-						Das Repair Café findet von 12 - 17Uhr statt.<br>
 						<h2><a href='mailto:repaircafe@das-labor.org'>repaircafe@das-labor.org</a></h2>
 					</div>
 					{% endif %}
