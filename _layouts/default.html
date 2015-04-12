@@ -62,13 +62,12 @@
 								{%endif%}
 							{% endfor %}
 						</ul>
-						Das Repair Café findet von 12 - 17Uhr statt.<br>
 						{% if site.erfolgreich %}
 							<div class="repaircounter">Erfolgreiche Reparaturen: <a href="{{ site.url }}/reparaturen.html"><em>{{ site.erfolgreich }}</em></a></div>
 						{% else %}
 							<div class="repaircounter">Erfolgreiche Reparaturen: <a href="{{ site.url }}/reparaturen.html"><em>{{ site.data.reparaturen | size | times:0.7 | replace_first:'.0','' | replace_first:'.1','' | replace_first:'.2','' | replace_first:'.3','' | replace_first:'.4','' | replace_first:'.5','' | replace_first:'.6','' | replace_first:'.7','' | replace_first:'.8','' | replace_first:'.9','' }}</em></a></div>
 						{% endif %}
-						<h2><a href='mailto:repaircafe@das-labor.org'>repaircafe@das-labor.org</a></h2>
+												<h2><a href='mailto:repaircafe@das-labor.org'>repaircafe@das-labor.org</a></h2>
 					</div>
 					{% endif %}
 				</div>
@@ -79,21 +78,20 @@
 				</div>
 			</footer>
 		</div>
-
-		<!-- Piwik -->
+			<!-- Piwik -->
 		<script type="text/javascript">
-			var _paq = _paq || [];
-			_paq.push(['trackPageView']);
-			_paq.push(['enableLinkTracking']);
-			(function() {
-				var u=(("https:" == document.location.protocol) ? "https" : "http") + "://elektroporn.com/analytics/";
-				_paq.push(['setTrackerUrl', u+'piwik.php']);
-				_paq.push(['setSiteId', 1]);
-				var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
-				g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-			})();
+		  var _paq = _paq || [];
+		  _paq.push(['trackPageView']);
+		  _paq.push(['enableLinkTracking']);
+		  (function() {
+		    var u="//elektroporn.com/analytics/";
+		    _paq.push(['setTrackerUrl', u+'piwik.php']);
+		    _paq.push(['setSiteId', 1]);
+		    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+		    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+		  })();
 		</script>
-		<noscript><p><img src="http://elektroporn.com/analytics/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+		<noscript><p><img src="//elektroporn.com/analytics/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
 		<!-- End Piwik Code -->
-	</body>
+		</body>
 </html>
