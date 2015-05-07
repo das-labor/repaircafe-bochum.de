@@ -430,3 +430,1067 @@ datum,nummer,alter,geschlecht,geraeteart,fehlerbeschreibung,erfolgreich,
 17.01.2015,435,,,Drucker,Papierstau,nein
 17.01.2015,436,,,Kaffeemaschine,Wasserschaden,ja
 17.01.2015,437,,,Alarmanlage,Kurzschluss,nein
+21.03.2015,438,,,Videorekorder,Auswurf defekt,ja
+21.03.2015,439,,,Kaffeemaschine,Heizelement defekt,ja
+21.03.2015,440,,,Fernsehr,Kondensator,ja
+21.03.2015,441,,,Brotmaschine,,nein
+21.03.2015,442,,,Lampe,Transistor defekt,ja
+21.03.2015,443,,,Kinderspielzeug,Dauerton,ja
+21.03.2015,444,,,Lampe,Dimmer defekt,nein
+21.03.2015,445,,,CD-Spieler,Riemen,ja
+21.03.2015,446,,,Kaffeemaschine,Kalkprogramm beendet nicht,ja
+21.03.2015,447,,,Kassetten Spieler,Riemen,ja
+21.03.2015,448,,,Fernsehr,Farbe fehlt,nein
+21.03.2015,449,,,Föhn,Heizelement defekt,nein
+21.03.2015,450,,,Föhn,Kabel defekt,ja
+21.03.2015,451,,,Verstrker,Sicherung defekt,ja
+21.03.2015,452,,,Steuergerät,Schalter defekt,nein
+21.03.2015,453,,,Staubsauger,Kohlen abgenutzt,nein
+21.03.2015,454,,,Körperwage,Fehler nicht gefunden,nein
+21.03.2015,455,,,Kassetten Spieler,Riemen ,nein
+21.03.2015,456,,,Rassierer,Akku defekt,ja
+21.03.2015,457,,,Fernsehr,Kalte Ltstelle,ja
+21.03.2015,458,,,Kaffeemaschine,Tasten defekt,ja
+21.03.2015,459,,,Verstrker,Wackelkontakt,ja
+21.03.2015,460,,,Plattenspieler,Tonabnehmer defekt,nein
+21.03.2015,461,,,Telefon,Kabel defekt,ja
+21.03.2015,462,,,Fernsehr,Tasten defekt,ja
+21.03.2015,463,,,Staubsauger,Motor defekt,ja
+21.03.2015,464,,,Staubsauger,Filter Verstopft,ja
+21.03.2015,465,,,Fernsehr,Bild zu breit,ja
+21.03.2015,466,,,Radio,Display defekt,nein
+21.03.2015,467,,,CD-Spieler,Tasten de
+21.03.2015,438,,,Videorekorder,Auswurf defekt,ja
+21.03.2015,439,,,Kaffeemaschine,Heizelement defekt,ja
+21.03.2015,440,,,Fernsehr,Kondensator,ja
+21.03.2015,441,,,Brotmaschine,,nein
+21.03.2015,442,,,Lampe,Transistor defekt,ja
+21.03.2015,443,,,Kinderspielzeug,Dauerton,ja
+21.03.2015,444,,,Lampe,Dimmer defekt,nein
+21.03.2015,445,,,CD-Spieler,Riemen,ja
+21.03.2015,446,,,Kaffeemaschine,Kalkprogramm beendet nicht,ja
+21.03.2015,447,,,Kassetten Spieler,Riemen,ja
+21.03.2015,448,,,Fernsehr,Farbe fehlt,nein
+21.03.2015,449,,,Föhn,Heizelement defekt,nein
+21.03.2015,450,,,Föhn,Kabel defekt,ja
+21.03.2015,451,,,Verstrker,Sicherung defekt,ja
+21.03.2015,452,,,Steuergerät,Schalter defekt,nein
+21.03.2015,453,,,Staubsauger,Kohlen abgenutzt,nein
+21.03.2015,454,,,Körperwage,Fehler nicht gefunden,nein
+21.03.2015,455,,,Kassetten Spieler,Riemen ,nein
+21.03.2015,456,,,Rassierer,Akku defekt,ja
+21.03.2015,457,,,Fernsehr,Kalte Ltstelle,ja
+21.03.2015,458,,,Kaffeemaschine,Tasten defekt,ja
+21.03.2015,459,,,Verstrker,Wackelkontakt,ja
+21.03.2015,460,,,Plattenspieler,Tonabnehmer defekt,nein
+21.03.2015,461,,,Telefon,Kabel defekt,ja
+21.03.2015,462,,,Fernsehr,Tasten defekt,ja
+21.03.2015,463,,,Staubsauger,Motor defekt,ja
+21.03.2015,464,,,Staubsauger,Filter Verstopft,ja
+21.03.2015,465,,,Fernsehr,Bild zu breit,ja
+21.03.2015,466,,,Radio,Display defekt,nein
+21.03.2015,467,,,CD-Spieler,Tasten defekt,ja
+21.03.2015,468,,,Videorekorder,Kurzschluss,nein
+21.03.2015,469,,,Lampe,kein Schalter,ja
+21.03.2015,470,,,Zahnbürste,IC defekt,nein
+21.03.2015,471,,,Handy,Display defekt,nein
+21.03.2015,472,,,Wage,Kabel lose,ja
+21.03.2015,473,,,Staubsauger,Kein kabel,ja
+21.03.2015,474,,,Lichterkette,Wackelkontakt,ja
+21.03.2015,475,,,Taschenlampe,Schalter defekt,ja
+21.03.2015,476,,,CD-Spieler,Linse dreckig,ja
+21.03.2015,477,,,Küchengerät,Getriebe defekt,nein
+21.03.2015,478,,,Lampe,Leuchtmittel,ja
+21.03.2015,438,,,Videorekorder,Auswurf defekt,ja
+21.03.2015,439,,,Kaffeemaschine,Heizelement defekt,ja
+21.03.2015,440,,,Fernsehr,Kondensator,ja
+21.03.2015,441,,,Brotmaschine,,nein
+21.03.2015,442,,,Lampe,Transistor defekt,ja
+21.03.2015,443,,,Kinderspielzeug,Dauerton,ja
+21.03.2015,444,,,Lampe,Dimmer defekt,nein
+21.03.2015,445,,,CD-Spieler,Riemen,ja
+21.03.2015,446,,,Kaffeemaschine,Kalkprogramm beendet nicht,ja
+21.03.2015,447,,,Kassetten Spieler,Riemen,ja
+21.03.2015,448,,,Fernsehr,Farbe fehlt,nein
+21.03.2015,449,,,Föhn,Heizelement defekt,nein
+21.03.2015,450,,,Föhn,Kabel defekt,ja
+21.03.2015,451,,,Verstrker,Sicherung defekt,ja
+21.03.2015,452,,,Steuergerät,Schalter defekt,nein
+21.03.2015,453,,,Staubsauger,Kohlen abgenutzt,nein
+21.03.2015,454,,,Körperwage,Fehler nicht gefunden,nein
+21.03.2015,455,,,Kassetten Spieler,Riemen ,nein
+21.03.2015,456,,,Rassierer,Akku defekt,ja
+21.03.2015,457,,,Fernsehr,Kalte Ltstelle,ja
+21.03.2015,458,,,Kaffeemaschine,Tasten defekt,ja
+21.03.2015,459,,,Verstrker,Wackelkontakt,ja
+21.03.2015,460,,,Plattenspieler,Tonabnehmer defekt,nein
+21.03.2015,461,,,Telefon,Kabel defekt,ja
+21.03.2015,462,,,Fernsehr,Tasten defekt,ja
+21.03.2015,463,,,Staubsauger,Motor defekt,ja
+21.03.2015,464,,,Staubsauger,Filter Verstopft,ja
+21.03.2015,465,,,Fernsehr,Bild zu breit,ja
+21.03.2015,466,,,Radio,Display defekt,nein
+21.03.2015,467,,,CD-Spieler,Tasten defekt,ja
+21.03.2015,468,,,Videorekorder,Kurzschluss,nein
+21.03.2015,469,,,Lampe,kein Schalter,ja
+21.03.2015,470,,,Zahnbürste,IC defekt,nein
+21.03.2015,471,,,Handy,Display defekt,nein
+21.03.2015,472,,,Wage,Kabel lose,ja
+21.03.2015,473,,,Staubsauger,Kein kabel,ja
+21.03.2015,474,,,Lichterkette,Wackelkontakt,ja
+21.03.2015,475,,,Taschenlampe,Schalter defekt,ja
+21.03.2015,476,,,CD-Spieler,Linse dreckig,ja
+21.03.2015,477,,,Küchengerät,Getriebe defekt,nein
+21.03.2015,478,,,Lampe,Leuchtmittel,ja
+21.03.2015,438,,,Videorekorder,Auswurf defekt,ja
+21.03.2015,439,,,Kaffeemaschine,Heizelement defekt,ja
+21.03.2015,440,,,Fernsehr,Kondensator,ja
+21.03.2015,441,,,Brotmaschine,,nein
+21.03.2015,442,,,Lampe,Transistor defekt,ja
+21.03.2015,443,,,Kinderspielzeug,Dauerton,ja
+21.03.2015,444,,,Lampe,Dimmer defekt,nein
+21.03.2015,445,,,CD-Spieler,Riemen,ja
+21.03.2015,446,,,Kaffeemaschine,Kalkprogramm beendet nicht,ja
+21.03.2015,447,,,Kassetten Spieler,Riemen,ja
+21.03.2015,448,,,Fernsehr,Farbe fehlt,nein
+21.03.2015,449,,,Föhn,Heizelement defekt,nein
+21.03.2015,450,,,Föhn,Kabel defekt,ja
+21.03.2015,451,,,Verstrker,Sicherung defekt,ja
+21.03.2015,452,,,Steuergerät,Schalter defekt,nein
+21.03.2015,453,,,Staubsauger,Kohlen abgenutzt,nein
+21.03.2015,454,,,Körperwage,Fehler nicht gefunden,nein
+21.03.2015,455,,,Kassetten Spieler,Riemen ,nein
+21.03.2015,456,,,Rassierer,Akku defekt,ja
+21.03.2015,457,,,Fernsehr,Kalte Ltstelle,ja
+21.03.2015,458,,,Kaffeemaschine,Tasten defekt,ja
+21.03.2015,459,,,Verstrker,Wackelkontakt,ja
+21.03.2015,460,,,Plattenspieler,Tonabnehmer defekt,nein
+21.03.2015,461,,,Telefon,Kabel defekt,ja
+21.03.2015,462,,,Fernsehr,Tasten defekt,ja
+21.03.2015,463,,,Staubsauger,Motor defekt,ja
+21.03.2015,464,,,Staubsauger,Filter Verstopft,ja
+21.03.2015,465,,,Fernsehr,Bild zu breit,ja
+21.03.2015,466,,,Radio,Display defekt,nein
+21.03.2015,467,,,CD-Spieler,Tasten defekt,ja
+21.03.2015,468,,,Videorekorder,Kurzschluss,nein
+21.03.2015,469,,,Lampe,kein Schalter,ja
+21.03.2015,470,,,Zahnbürste,IC defekt,nein
+21.03.2015,471,,,Handy,Display defekt,nein
+21.03.2015,472,,,Wage,Kabel lose,ja
+21.03.2015,473,,,Staubsauger,Kein kabel,ja
+21.03.2015,474,,,Lichterkette,Wackelkontakt,ja
+21.03.2015,475,,,Taschenlampe,Schalter defekt,ja
+21.03.2015,476,,,CD-Spieler,Linse dreckig,ja
+21.03.2015,477,,,Küchengerät,Getriebe defekt,nein
+21.03.2015,478,,,Lampe,Leuchtmittel,ja
+21.03.2015,438,,,Videorekorder,Auswurf defekt,ja
+21.03.2015,439,,,Kaffeemaschine,Heizelement defekt,ja
+21.03.2015,440,,,Fernsehr,Kondensator,ja
+21.03.2015,441,,,Brotmaschine,,nein
+21.03.2015,442,,,Lampe,Transistor defekt,ja
+21.03.2015,443,,,Kinderspielzeug,Dauerton,ja
+21.03.2015,444,,,Lampe,Dimmer defekt,nein
+21.03.2015,445,,,CD-Spieler,Riemen,ja
+21.03.2015,446,,,Kaffeemaschine,Kalkprogramm beendet nicht,ja
+21.03.2015,447,,,Kassetten Spieler,Riemen,ja
+21.03.2015,448,,,Fernsehr,Farbe fehlt,nein
+21.03.2015,449,,,Föhn,Heizelement defekt,nein
+21.03.2015,450,,,Föhn,Kabel defekt,ja
+21.03.2015,451,,,Verstrker,Sicherung defekt,ja
+21.03.2015,452,,,Steuergerät,Schalter defekt,nein
+21.03.2015,453,,,Staubsauger,Kohlen abgenutzt,nein
+21.03.2015,454,,,Körperwage,Fehler nicht gefunden,nein
+21.03.2015,455,,,Kassetten Spieler,Riemen ,nein
+21.03.2015,456,,,Rassierer,Akku defekt,ja
+21.03.2015,457,,,Fernsehr,Kalte Ltstelle,ja
+21.03.2015,458,,,Kaffeemaschine,Tasten defekt,ja
+21.03.2015,459,,,Verstrker,Wackelkontakt,ja
+21.03.2015,460,,,Plattenspieler,Tonabnehmer defekt,nein
+21.03.2015,461,,,Telefon,Kabel defekt,ja
+21.03.2015,462,,,Fernsehr,Tasten defekt,ja
+21.03.2015,463,,,Staubsauger,Motor defekt,ja
+21.03.2015,464,,,Staubsauger,Filter Verstopft,ja
+21.03.2015,465,,,Fernsehr,Bild zu breit,ja
+21.03.2015,466,,,Radio,Display defekt,nein
+21.03.2015,467,,,CD-Spieler,Tasten defekt,ja
+21.03.2015,468,,,Videorekorder,Kurzschluss,nein
+21.03.2015,469,,,Lampe,kein Schalter,ja
+21.03.2015,470,,,Zahnbürste,IC defekt,nein
+21.03.2015,471,,,Handy,Display defekt,nein
+21.03.2015,472,,,Wage,Kabel lose,ja
+21.03.2015,473,,,Staubsauger,Kein kabel,ja
+21.03.2015,474,,,Lichterkette,Wackelkontakt,ja
+21.03.2015,475,,,Taschenlampe,Schalter defekt,ja
+21.03.2015,476,,,CD-Spieler,Linse dreckig,ja
+21.03.2015,477,,,Küchengerät,Getriebe defekt,nein
+21.03.2015,478,,,Lampe,Leuchtmittel,ja
+21.03.2015,438,,,Videorekorder,Auswurf defekt,ja
+21.03.2015,439,,,Kaffeemaschine,Heizelement defekt,ja
+21.03.2015,440,,,Fernsehr,Kondensator,ja
+21.03.2015,441,,,Brotmaschine,,nein
+21.03.2015,442,,,Lampe,Transistor defekt,ja
+21.03.2015,443,,,Kinderspielzeug,Dauerton,ja
+21.03.2015,444,,,Lampe,Dimmer defekt,nein
+21.03.2015,445,,,CD-Spieler,Riemen,ja
+21.03.2015,446,,,Kaffeemaschine,Kalkprogramm beendet nicht,ja
+21.03.2015,447,,,Kassetten Spieler,Riemen,ja
+21.03.2015,448,,,Fernsehr,Farbe fehlt,nein
+21.03.2015,449,,,Föhn,Heizelement defekt,nein
+21.03.2015,450,,,Föhn,Kabel defekt,ja
+21.03.2015,451,,,Verstrker,Sicherung defekt,ja
+21.03.2015,452,,,Steuergerät,Schalter defekt,nein
+21.03.2015,453,,,Staubsauger,Kohlen abgenutzt,nein
+21.03.2015,454,,,Körperwage,Fehler nicht gefunden,nein
+21.03.2015,455,,,Kassetten Spieler,Riemen ,nein
+21.03.2015,456,,,Rassierer,Akku defekt,ja
+21.03.2015,457,,,Fernsehr,Kalte Ltstelle,ja
+21.03.2015,458,,,Kaffeemaschine,Tasten defekt,ja
+21.03.2015,459,,,Verstrker,Wackelkontakt,ja
+21.03.2015,460,,,Plattenspieler,Tonabnehmer defekt,nein
+21.03.2015,461,,,Telefon,Kabel defekt,ja
+21.03.2015,462,,,Fernsehr,Tasten defekt,ja
+21.03.2015,463,,,Staubsauger,Motor defekt,ja
+21.03.2015,464,,,Staubsauger,Filter Verstopft,ja
+21.03.2015,465,,,Fernsehr,Bild zu breit,ja
+21.03.2015,466,,,Radio,Display defekt,nein
+21.03.2015,467,,,CD-Spieler,Tasten defekt,ja
+21.03.2015,468,,,Videorekorder,Kurzschluss,nein
+21.03.2015,469,,,Lampe,kein Schalter,ja
+21.03.2015,470,,,Zahnbürste,IC defekt,nein
+21.03.2015,471,,,Handy,Display defekt,nein
+21.03.2015,472,,,Wage,Kabel lose,ja
+21.03.2015,473,,,Staubsauger,Kein kabel,ja
+21.03.2015,474,,,Lichterkette,Wackelkontakt,ja
+21.03.2015,475,,,Taschenlampe,Schalter defekt,ja
+21.03.2015,476,,,CD-Spieler,Linse dreckig,ja
+21.03.2015,477,,,Küchengerät,Getriebe defekt,nein
+21.03.2015,478,,,Lampe,Leuchtmittel,ja
+21.03.2015,438,,,Videorekorder,Auswurf defekt,ja
+21.03.2015,439,,,Kaffeemaschine,Heizelement defekt,ja
+21.03.2015,440,,,Fernsehr,Kondensator,ja
+21.03.2015,441,,,Brotmaschine,,nein
+21.03.2015,442,,,Lampe,Transistor defekt,ja
+21.03.2015,443,,,Kinderspielzeug,Dauerton,ja
+21.03.2015,444,,,Lampe,Dimmer defekt,nein
+21.03.2015,445,,,CD-Spieler,Riemen,ja
+21.03.2015,446,,,Kaffeemaschine,Kalkprogramm beendet nicht,ja
+21.03.2015,447,,,Kassetten Spieler,Riemen,ja
+21.03.2015,448,,,Fernsehr,Farbe fehlt,nein
+21.03.2015,449,,,Föhn,Heizelement defekt,nein
+21.03.2015,450,,,Föhn,Kabel defekt,ja
+21.03.2015,451,,,Verstrker,Sicherung defekt,ja
+21.03.2015,452,,,Steuergerät,Schalter defekt,nein
+21.03.2015,453,,,Staubsauger,Kohlen abgenutzt,nein
+21.03.2015,454,,,Körperwage,Fehler nicht gefunden,nein
+21.03.2015,455,,,Kassetten Spieler,Riemen ,nein
+21.03.2015,456,,,Rassierer,Akku defekt,ja
+21.03.2015,457,,,Fernsehr,Kalte Ltstelle,ja
+21.03.2015,458,,,Kaffeemaschine,Tasten defekt,ja
+21.03.2015,459,,,Verstrker,Wackelkontakt,ja
+21.03.2015,460,,,Plattenspieler,Tonabnehmer defekt,nein
+21.03.2015,461,,,Telefon,Kabel defekt,ja
+21.03.2015,462,,,Fernsehr,Tasten defekt,ja
+21.03.2015,463,,,Staubsauger,Motor defekt,ja
+21.03.2015,464,,,Staubsauger,Filter Verstopft,ja
+21.03.2015,465,,,Fernsehr,Bild zu breit,ja
+21.03.2015,466,,,Radio,Display defekt,nein
+21.03.2015,467,,,CD-Spieler,Tasten defekt,ja
+21.03.2015,468,,,Videorekorder,Kurzschluss,nein
+21.03.2015,469,,,Lampe,kein Schalter,ja
+21.03.2015,470,,,Zahnbürste,IC defekt,nein
+21.03.2015,471,,,Handy,Display defekt,nein
+21.03.2015,472,,,Wage,Kabel lose,ja
+21.03.2015,473,,,Staubsauger,Kein kabel,ja
+21.03.2015,474,,,Lichterkette,Wackelkontakt,ja
+21.03.2015,475,,,Taschenlampe,Schalter defekt,ja
+21.03.2015,476,,,CD-Spieler,Linse dreckig,ja
+21.03.2015,477,,,Küchengerät,Getriebe defekt,nein
+21.03.2015,478,,,Lampe,Leuchtmittel,ja
+21.03.2015,438,,,Videorekorder,Auswurf defekt,ja
+21.03.2015,439,,,Kaffeemaschine,Heizelement defekt,ja
+21.03.2015,440,,,Fernsehr,Kondensator,ja
+21.03.2015,441,,,Brotmaschine,,nein
+21.03.2015,442,,,Lampe,Transistor defekt,ja
+21.03.2015,443,,,Kinderspielzeug,Dauerton,ja
+21.03.2015,444,,,Lampe,Dimmer defekt,nein
+21.03.2015,445,,,CD-Spieler,Riemen,ja
+21.03.2015,446,,,Kaffeemaschine,Kalkprogramm beendet nicht,ja
+21.03.2015,447,,,Kassetten Spieler,Riemen,ja
+21.03.2015,448,,,Fernsehr,Farbe fehlt,nein
+21.03.2015,449,,,Föhn,Heizelement defekt,nein
+21.03.2015,450,,,Föhn,Kabel defekt,ja
+21.03.2015,451,,,Verstrker,Sicherung defekt,ja
+21.03.2015,452,,,Steuergerät,Schalter defekt,nein
+21.03.2015,453,,,Staubsauger,Kohlen abgenutzt,nein
+21.03.2015,454,,,Körperwage,Fehler nicht gefunden,nein
+21.03.2015,455,,,Kassetten Spieler,Riemen ,nein
+21.03.2015,456,,,Rassierer,Akku defekt,ja
+21.03.2015,457,,,Fernsehr,Kalte Ltstelle,ja
+21.03.2015,458,,,Kaffeemaschine,Tasten defekt,ja
+21.03.2015,459,,,Verstrker,Wackelkontakt,ja
+21.03.2015,460,,,Plattenspieler,Tonabnehmer defekt,nein
+21.03.2015,461,,,Telefon,Kabel defekt,ja
+21.03.2015,462,,,Fernsehr,Tasten defekt,ja
+21.03.2015,463,,,Staubsauger,Motor defekt,ja
+21.03.2015,464,,,Staubsauger,Filter Verstopft,ja
+21.03.2015,465,,,Fernsehr,Bild zu breit,ja
+21.03.2015,466,,,Radio,Display defekt,nein
+21.03.2015,467,,,CD-Spieler,Tasten defekt,ja
+21.03.2015,468,,,Videorekorder,Kurzschluss,nein
+21.03.2015,469,,,Lampe,kein Schalter,ja
+21.03.2015,470,,,Zahnbürste,IC defekt,nein
+21.03.2015,471,,,Handy,Display defekt,nein
+21.03.2015,472,,,Wage,Kabel lose,ja
+21.03.2015,473,,,Staubsauger,Kein kabel,ja
+21.03.2015,474,,,Lichterkette,Wackelkontakt,ja
+21.03.2015,475,,,Taschenlampe,Schalter defekt,ja
+21.03.2015,476,,,CD-Spieler,Linse dreckig,ja
+21.03.2015,477,,,Küchengerät,Getriebe defekt,nein
+21.03.2015,478,,,Lampe,Leuchtmittel,ja
+21.03.2015,438,,,Videorekorder,Auswurf defekt,ja
+21.03.2015,439,,,Kaffeemaschine,Heizelement defekt,ja
+21.03.2015,440,,,Fernsehr,Kondensator,ja
+21.03.2015,441,,,Brotmaschine,,nein
+21.03.2015,442,,,Lampe,Transistor defekt,ja
+21.03.2015,443,,,Kinderspielzeug,Dauerton,ja
+21.03.2015,444,,,Lampe,Dimmer defekt,nein
+21.03.2015,445,,,CD-Spieler,Riemen,ja
+21.03.2015,446,,,Kaffeemaschine,Kalkprogramm beendet nicht,ja
+21.03.2015,447,,,Kassetten Spieler,Riemen,ja
+21.03.2015,448,,,Fernsehr,Farbe fehlt,nein
+21.03.2015,449,,,Föhn,Heizelement defekt,nein
+21.03.2015,450,,,Föhn,Kabel defekt,ja
+21.03.2015,451,,,Verstrker,Sicherung defekt,ja
+21.03.2015,452,,,Steuergerät,Schalter defekt,nein
+21.03.2015,453,,,Staubsauger,Kohlen abgenutzt,nein
+21.03.2015,454,,,Körperwage,Fehler nicht gefunden,nein
+21.03.2015,455,,,Kassetten Spieler,Riemen ,nein
+21.03.2015,456,,,Rassierer,Akku defekt,ja
+21.03.2015,457,,,Fernsehr,Kalte Ltstelle,ja
+21.03.2015,458,,,Kaffeemaschine,Tasten defekt,ja
+21.03.2015,459,,,Verstrker,Wackelkontakt,ja
+21.03.2015,460,,,Plattenspieler,Tonabnehmer defekt,nein
+21.03.2015,461,,,Telefon,Kabel defekt,ja
+21.03.2015,462,,,Fernsehr,Tasten defekt,ja
+21.03.2015,463,,,Staubsauger,Motor defekt,ja
+21.03.2015,464,,,Staubsauger,Filter Verstopft,ja
+21.03.2015,465,,,Fernsehr,Bild zu breit,ja
+21.03.2015,466,,,Radio,Display defekt,nein
+21.03.2015,467,,,CD-Spieler,Tasten defekt,ja
+21.03.2015,468,,,Videorekorder,Kurzschluss,nein
+21.03.2015,469,,,Lampe,kein Schalter,ja
+21.03.2015,470,,,Zahnbürste,IC defekt,nein
+21.03.2015,471,,,Handy,Display defekt,nein
+21.03.2015,472,,,Wage,Kabel lose,ja
+21.03.2015,473,,,Staubsauger,Kein kabel,ja
+21.03.2015,474,,,Lichterkette,Wackelkontakt,ja
+21.03.2015,475,,,Taschenlampe,Schalter defekt,ja
+21.03.2015,476,,,CD-Spieler,Linse dreckig,ja
+21.03.2015,477,,,Küchengerät,Getriebe defekt,nein
+21.03.2015,478,,,Lampe,Leuchtmittel,ja
+21.03.2015,438,,,Videorekorder,Auswurf defekt,ja
+21.03.2015,439,,,Kaffeemaschine,Heizelement defekt,ja
+21.03.2015,440,,,Fernsehr,Kondensator,ja
+21.03.2015,441,,,Brotmaschine,,nein
+21.03.2015,442,,,Lampe,Transistor defekt,ja
+21.03.2015,443,,,Kinderspielzeug,Dauerton,ja
+21.03.2015,444,,,Lampe,Dimmer defekt,nein
+21.03.2015,445,,,CD-Spieler,Riemen,ja
+21.03.2015,446,,,Kaffeemaschine,Kalkprogramm beendet nicht,ja
+21.03.2015,447,,,Kassetten Spieler,Riemen,ja
+21.03.2015,448,,,Fernsehr,Farbe fehlt,nein
+21.03.2015,449,,,Föhn,Heizelement defekt,nein
+21.03.2015,450,,,Föhn,Kabel defekt,ja
+21.03.2015,451,,,Verstrker,Sicherung defekt,ja
+21.03.2015,452,,,Steuergerät,Schalter defekt,nein
+21.03.2015,453,,,Staubsauger,Kohlen abgenutzt,nein
+21.03.2015,454,,,Körperwage,Fehler nicht gefunden,nein
+21.03.2015,455,,,Kassetten Spieler,Riemen ,nein
+21.03.2015,456,,,Rassierer,Akku defekt,ja
+21.03.2015,457,,,Fernsehr,Kalte Ltstelle,ja
+21.03.2015,458,,,Kaffeemaschine,Tasten defekt,ja
+21.03.2015,459,,,Verstrker,Wackelkontakt,ja
+21.03.2015,460,,,Plattenspieler,Tonabnehmer defekt,nein
+21.03.2015,461,,,Telefon,Kabel defekt,ja
+21.03.2015,462,,,Fernsehr,Tasten defekt,ja
+21.03.2015,463,,,Staubsauger,Motor defekt,ja
+21.03.2015,464,,,Staubsauger,Filter Verstopft,ja
+21.03.2015,465,,,Fernsehr,Bild zu breit,ja
+21.03.2015,466,,,Radio,Display defekt,nein
+21.03.2015,467,,,CD-Spieler,Tasten defekt,ja
+21.03.2015,468,,,Videorekorder,Kurzschluss,nein
+21.03.2015,469,,,Lampe,kein Schalter,ja
+21.03.2015,470,,,Zahnbürste,IC defekt,nein
+21.03.2015,471,,,Handy,Display defekt,nein
+21.03.2015,472,,,Wage,Kabel lose,ja
+21.03.2015,473,,,Staubsauger,Kein kabel,ja
+21.03.2015,474,,,Lichterkette,Wackelkontakt,ja
+21.03.2015,475,,,Taschenlampe,Schalter defekt,ja
+21.03.2015,476,,,CD-Spieler,Linse dreckig,ja
+21.03.2015,477,,,Küchengerät,Getriebe defekt,nein
+21.03.2015,478,,,Lampe,Leuchtmittel,ja
+21.03.2015,438,,,Videorekorder,Auswurf defekt,ja
+21.03.2015,439,,,Kaffeemaschine,Heizelement defekt,ja
+21.03.2015,440,,,Fernsehr,Kondensator,ja
+21.03.2015,441,,,Brotmaschine,,nein
+21.03.2015,442,,,Lampe,Transistor defekt,ja
+21.03.2015,443,,,Kinderspielzeug,Dauerton,ja
+21.03.2015,444,,,Lampe,Dimmer defekt,nein
+21.03.2015,445,,,CD-Spieler,Riemen,ja
+21.03.2015,446,,,Kaffeemaschine,Kalkprogramm beendet nicht,ja
+21.03.2015,447,,,Kassetten Spieler,Riemen,ja
+21.03.2015,448,,,Fernsehr,Farbe fehlt,nein
+21.03.2015,449,,,Föhn,Heizelement defekt,nein
+21.03.2015,450,,,Föhn,Kabel defekt,ja
+21.03.2015,451,,,Verstrker,Sicherung defekt,ja
+21.03.2015,452,,,Steuergerät,Schalter defekt,nein
+21.03.2015,453,,,Staubsauger,Kohlen abgenutzt,nein
+21.03.2015,454,,,Körperwage,Fehler nicht gefunden,nein
+21.03.2015,455,,,Kassetten Spieler,Riemen ,nein
+21.03.2015,456,,,Rassierer,Akku defekt,ja
+21.03.2015,457,,,Fernsehr,Kalte Ltstelle,ja
+21.03.2015,458,,,Kaffeemaschine,Tasten defekt,ja
+21.03.2015,459,,,Verstrker,Wackelkontakt,ja
+21.03.2015,460,,,Plattenspieler,Tonabnehmer defekt,nein
+21.03.2015,461,,,Telefon,Kabel defekt,ja
+21.03.2015,462,,,Fernsehr,Tasten defekt,ja
+21.03.2015,463,,,Staubsauger,Motor defekt,ja
+21.03.2015,464,,,Staubsauger,Filter Verstopft,ja
+21.03.2015,465,,,Fernsehr,Bild zu breit,ja
+21.03.2015,466,,,Radio,Display defekt,nein
+21.03.2015,467,,,CD-Spieler,Tasten defekt,ja
+21.03.2015,468,,,Videorekorder,Kurzschluss,nein
+21.03.2015,469,,,Lampe,kein Schalter,ja
+21.03.2015,470,,,Zahnbürste,IC defekt,nein
+21.03.2015,471,,,Handy,Display defekt,nein
+21.03.2015,472,,,Wage,Kabel lose,ja
+21.03.2015,473,,,Staubsauger,Kein kabel,ja
+21.03.2015,474,,,Lichterkette,Wackelkontakt,ja
+21.03.2015,475,,,Taschenlampe,Schalter defekt,ja
+21.03.2015,476,,,CD-Spieler,Linse dreckig,ja
+21.03.2015,477,,,Küchengerät,Getriebe defekt,nein
+21.03.2015,478,,,Lampe,Leuchtmittel,ja
+21.03.2015,438,,,Videorekorder,Auswurf defekt,ja
+21.03.2015,439,,,Kaffeemaschine,Heizelement defekt,ja
+21.03.2015,440,,,Fernsehr,Kondensator,ja
+21.03.2015,441,,,Brotmaschine,,nein
+21.03.2015,442,,,Lampe,Transistor defekt,ja
+21.03.2015,443,,,Kinderspielzeug,Dauerton,ja
+21.03.2015,444,,,Lampe,Dimmer defekt,nein
+21.03.2015,445,,,CD-Spieler,Riemen,ja
+21.03.2015,446,,,Kaffeemaschine,Kalkprogramm beendet nicht,ja
+21.03.2015,447,,,Kassetten Spieler,Riemen,ja
+21.03.2015,448,,,Fernsehr,Farbe fehlt,nein
+21.03.2015,449,,,Föhn,Heizelement defekt,nein
+21.03.2015,450,,,Föhn,Kabel defekt,ja
+21.03.2015,451,,,Verstrker,Sicherung defekt,ja
+21.03.2015,452,,,Steuergerät,Schalter defekt,nein
+21.03.2015,453,,,Staubsauger,Kohlen abgenutzt,nein
+21.03.2015,454,,,Körperwage,Fehler nicht gefunden,nein
+21.03.2015,455,,,Kassetten Spieler,Riemen ,nein
+21.03.2015,456,,,Rassierer,Akku defekt,ja
+21.03.2015,457,,,Fernsehr,Kalte Ltstelle,ja
+21.03.2015,458,,,Kaffeemaschine,Tasten defekt,ja
+21.03.2015,459,,,Verstrker,Wackelkontakt,ja
+21.03.2015,460,,,Plattenspieler,Tonabnehmer defekt,nein
+21.03.2015,461,,,Telefon,Kabel defekt,ja
+21.03.2015,462,,,Fernsehr,Tasten defekt,ja
+21.03.2015,463,,,Staubsauger,Motor defekt,ja
+21.03.2015,464,,,Staubsauger,Filter Verstopft,ja
+21.03.2015,465,,,Fernsehr,Bild zu breit,ja
+21.03.2015,466,,,Radio,Display defekt,nein
+21.03.2015,467,,,CD-Spieler,Tasten defekt,ja
+21.03.2015,468,,,Videorekorder,Kurzschluss,nein
+21.03.2015,469,,,Lampe,kein Schalter,ja
+21.03.2015,470,,,Zahnbürste,IC defekt,nein
+21.03.2015,471,,,Handy,Display defekt,nein
+21.03.2015,472,,,Wage,Kabel lose,ja
+21.03.2015,473,,,Staubsauger,Kein kabel,ja
+21.03.2015,474,,,Lichterkette,Wackelkontakt,ja
+21.03.2015,475,,,Taschenlampe,Schalter defekt,ja
+21.03.2015,476,,,CD-Spieler,Linse dreckig,ja
+21.03.2015,477,,,Küchengerät,Getriebe defekt,nein
+21.03.2015,478,,,Lampe,Leuchtmittel,ja
+21.03.2015,438,,,Videorekorder,Auswurf defekt,ja
+21.03.2015,439,,,Kaffeemaschine,Heizelement defekt,ja
+21.03.2015,440,,,Fernsehr,Kondensator,ja
+21.03.2015,441,,,Brotmaschine,,nein
+21.03.2015,442,,,Lampe,Transistor defekt,ja
+21.03.2015,443,,,Kinderspielzeug,Dauerton,ja
+21.03.2015,444,,,Lampe,Dimmer defekt,nein
+21.03.2015,445,,,CD-Spieler,Riemen,ja
+21.03.2015,446,,,Kaffeemaschine,Kalkprogramm beendet nicht,ja
+21.03.2015,447,,,Kassetten Spieler,Riemen,ja
+21.03.2015,448,,,Fernsehr,Farbe fehlt,nein
+21.03.2015,449,,,Föhn,Heizelement defekt,nein
+21.03.2015,450,,,Föhn,Kabel defekt,ja
+21.03.2015,451,,,Verstrker,Sicherung defekt,ja
+21.03.2015,452,,,Steuergerät,Schalter defekt,nein
+21.03.2015,453,,,Staubsauger,Kohlen abgenutzt,nein
+21.03.2015,454,,,Körperwage,Fehler nicht gefunden,nein
+21.03.2015,455,,,Kassetten Spieler,Riemen ,nein
+21.03.2015,456,,,Rassierer,Akku defekt,ja
+21.03.2015,457,,,Fernsehr,Kalte Ltstelle,ja
+21.03.2015,458,,,Kaffeemaschine,Tasten defekt,ja
+21.03.2015,459,,,Verstrker,Wackelkontakt,ja
+21.03.2015,460,,,Plattenspieler,Tonabnehmer defekt,nein
+21.03.2015,461,,,Telefon,Kabel defekt,ja
+21.03.2015,462,,,Fernsehr,Tasten defekt,ja
+21.03.2015,463,,,Staubsauger,Motor defekt,ja
+21.03.2015,464,,,Staubsauger,Filter Verstopft,ja
+21.03.2015,465,,,Fernsehr,Bild zu breit,ja
+21.03.2015,466,,,Radio,Display defekt,nein
+21.03.2015,467,,,CD-Spieler,Tasten defekt,ja
+21.03.2015,468,,,Videorekorder,Kurzschluss,nein
+21.03.2015,469,,,Lampe,kein Schalter,ja
+21.03.2015,470,,,Zahnbürste,IC defekt,nein
+21.03.2015,471,,,Handy,Display defekt,nein
+21.03.2015,472,,,Wage,Kabel lose,ja
+21.03.2015,473,,,Staubsauger,Kein kabel,ja
+21.03.2015,474,,,Lichterkette,Wackelkontakt,ja
+21.03.2015,475,,,Taschenlampe,Schalter defekt,ja
+21.03.2015,476,,,CD-Spieler,Linse dreckig,ja
+21.03.2015,477,,,Küchengerät,Getriebe defekt,nein
+21.03.2015,478,,,Lampe,Leuchtmittel,ja
+21.03.2015,438,,,Videorekorder,Auswurf defekt,ja
+21.03.2015,439,,,Kaffeemaschine,Heizelement defekt,ja
+21.03.2015,440,,,Fernsehr,Kondensator,ja
+21.03.2015,441,,,Brotmaschine,,nein
+21.03.2015,442,,,Lampe,Transistor defekt,ja
+21.03.2015,443,,,Kinderspielzeug,Dauerton,ja
+21.03.2015,444,,,Lampe,Dimmer defekt,nein
+21.03.2015,445,,,CD-Spieler,Riemen,ja
+21.03.2015,446,,,Kaffeemaschine,Kalkprogramm beendet nicht,ja
+21.03.2015,447,,,Kassetten Spieler,Riemen,ja
+21.03.2015,448,,,Fernsehr,Farbe fehlt,nein
+21.03.2015,449,,,Föhn,Heizelement defekt,nein
+21.03.2015,450,,,Föhn,Kabel defekt,ja
+21.03.2015,451,,,Verstrker,Sicherung defekt,ja
+21.03.2015,452,,,Steuergerät,Schalter defekt,nein
+21.03.2015,453,,,Staubsauger,Kohlen abgenutzt,nein
+21.03.2015,454,,,Körperwage,Fehler nicht gefunden,nein
+21.03.2015,455,,,Kassetten Spieler,Riemen ,nein
+21.03.2015,456,,,Rassierer,Akku defekt,ja
+21.03.2015,457,,,Fernsehr,Kalte Ltstelle,ja
+21.03.2015,458,,,Kaffeemaschine,Tasten defekt,ja
+21.03.2015,459,,,Verstrker,Wackelkontakt,ja
+21.03.2015,460,,,Plattenspieler,Tonabnehmer defekt,nein
+21.03.2015,461,,,Telefon,Kabel defekt,ja
+21.03.2015,462,,,Fernsehr,Tasten defekt,ja
+21.03.2015,463,,,Staubsauger,Motor defekt,ja
+21.03.2015,464,,,Staubsauger,Filter Verstopft,ja
+21.03.2015,465,,,Fernsehr,Bild zu breit,ja
+21.03.2015,466,,,Radio,Display defekt,nein
+21.03.2015,467,,,CD-Spieler,Tasten defekt,ja
+21.03.2015,468,,,Videorekorder,Kurzschluss,nein
+21.03.2015,469,,,Lampe,kein Schalter,ja
+21.03.2015,470,,,Zahnbürste,IC defekt,nein
+21.03.2015,471,,,Handy,Display defekt,nein
+21.03.2015,472,,,Wage,Kabel lose,ja
+21.03.2015,473,,,Staubsauger,Kein kabel,ja
+21.03.2015,474,,,Lichterkette,Wackelkontakt,ja
+21.03.2015,475,,,Taschenlampe,Schalter defekt,ja
+21.03.2015,476,,,CD-Spieler,Linse dreckig,ja
+21.03.2015,477,,,Küchengerät,Getriebe defekt,nein
+21.03.2015,478,,,Lampe,Leuchtmittel,ja
+21.03.2015,438,,,Videorekorder,Auswurf defekt,ja
+21.03.2015,439,,,Kaffeemaschine,Heizelement defekt,ja
+21.03.2015,440,,,Fernsehr,Kondensator,ja
+21.03.2015,441,,,Brotmaschine,,nein
+21.03.2015,442,,,Lampe,Transistor defekt,ja
+21.03.2015,443,,,Kinderspielzeug,Dauerton,ja
+21.03.2015,444,,,Lampe,Dimmer defekt,nein
+21.03.2015,445,,,CD-Spieler,Riemen,ja
+21.03.2015,446,,,Kaffeemaschine,Kalkprogramm beendet nicht,ja
+21.03.2015,447,,,Kassetten Spieler,Riemen,ja
+21.03.2015,448,,,Fernsehr,Farbe fehlt,nein
+21.03.2015,449,,,Föhn,Heizelement defekt,nein
+21.03.2015,450,,,Föhn,Kabel defekt,ja
+21.03.2015,451,,,Verstrker,Sicherung defekt,ja
+21.03.2015,452,,,Steuergerät,Schalter defekt,nein
+21.03.2015,453,,,Staubsauger,Kohlen abgenutzt,nein
+21.03.2015,454,,,Körperwage,Fehler nicht gefunden,nein
+21.03.2015,455,,,Kassetten Spieler,Riemen ,nein
+21.03.2015,456,,,Rassierer,Akku defekt,ja
+21.03.2015,457,,,Fernsehr,Kalte Ltstelle,ja
+21.03.2015,458,,,Kaffeemaschine,Tasten defekt,ja
+21.03.2015,459,,,Verstrker,Wackelkontakt,ja
+21.03.2015,460,,,Plattenspieler,Tonabnehmer defekt,nein
+21.03.2015,461,,,Telefon,Kabel defekt,ja
+21.03.2015,462,,,Fernsehr,Tasten defekt,ja
+21.03.2015,463,,,Staubsauger,Motor defekt,ja
+21.03.2015,464,,,Staubsauger,Filter Verstopft,ja
+21.03.2015,465,,,Fernsehr,Bild zu breit,ja
+21.03.2015,466,,,Radio,Display defekt,nein
+21.03.2015,467,,,CD-Spieler,Tasten defekt,ja
+21.03.2015,468,,,Videorekorder,Kurzschluss,nein
+21.03.2015,469,,,Lampe,kein Schalter,ja
+21.03.2015,470,,,Zahnbürste,IC defekt,nein
+21.03.2015,471,,,Handy,Display defekt,nein
+21.03.2015,472,,,Wage,Kabel lose,ja
+21.03.2015,473,,,Staubsauger,Kein kabel,ja
+21.03.2015,474,,,Lichterkette,Wackelkontakt,ja
+21.03.2015,475,,,Taschenlampe,Schalter defekt,ja
+21.03.2015,476,,,CD-Spieler,Linse dreckig,ja
+21.03.2015,477,,,Küchengerät,Getriebe defekt,nein
+21.03.2015,478,,,Lampe,Leuchtmittel,ja
+21.03.2015,438,,,Videorekorder,Auswurf defekt,ja
+21.03.2015,439,,,Kaffeemaschine,Heizelement defekt,ja
+21.03.2015,440,,,Fernsehr,Kondensator,ja
+21.03.2015,441,,,Brotmaschine,,nein
+21.03.2015,442,,,Lampe,Transistor defekt,ja
+21.03.2015,443,,,Kinderspielzeug,Dauerton,ja
+21.03.2015,444,,,Lampe,Dimmer defekt,nein
+21.03.2015,445,,,CD-Spieler,Riemen,ja
+21.03.2015,446,,,Kaffeemaschine,Kalkprogramm beendet nicht,ja
+21.03.2015,447,,,Kassetten Spieler,Riemen,ja
+21.03.2015,448,,,Fernsehr,Farbe fehlt,nein
+21.03.2015,449,,,Föhn,Heizelement defekt,nein
+21.03.2015,450,,,Föhn,Kabel defekt,ja
+21.03.2015,451,,,Verstrker,Sicherung defekt,ja
+21.03.2015,452,,,Steuergerät,Schalter defekt,nein
+21.03.2015,453,,,Staubsauger,Kohlen abgenutzt,nein
+21.03.2015,454,,,Körperwage,Fehler nicht gefunden,nein
+21.03.2015,455,,,Kassetten Spieler,Riemen ,nein
+21.03.2015,456,,,Rassierer,Akku defekt,ja
+21.03.2015,457,,,Fernsehr,Kalte Ltstelle,ja
+21.03.2015,458,,,Kaffeemaschine,Tasten defekt,ja
+21.03.2015,459,,,Verstrker,Wackelkontakt,ja
+21.03.2015,460,,,Plattenspieler,Tonabnehmer defekt,nein
+21.03.2015,461,,,Telefon,Kabel defekt,ja
+21.03.2015,462,,,Fernsehr,Tasten defekt,ja
+21.03.2015,463,,,Staubsauger,Motor defekt,ja
+21.03.2015,464,,,Staubsauger,Filter Verstopft,ja
+21.03.2015,465,,,Fernsehr,Bild zu breit,ja
+21.03.2015,466,,,Radio,Display defekt,nein
+21.03.2015,467,,,CD-Spieler,Tasten defekt,ja
+21.03.2015,468,,,Videorekorder,Kurzschluss,nein
+21.03.2015,469,,,Lampe,kein Schalter,ja
+21.03.2015,470,,,Zahnbürste,IC defekt,nein
+21.03.2015,471,,,Handy,Display defekt,nein
+21.03.2015,472,,,Wage,Kabel lose,ja
+21.03.2015,473,,,Staubsauger,Kein kabel,ja
+21.03.2015,474,,,Lichterkette,Wackelkontakt,ja
+21.03.2015,475,,,Taschenlampe,Schalter defekt,ja
+21.03.2015,476,,,CD-Spieler,Linse dreckig,ja
+21.03.2015,477,,,Küchengerät,Getriebe defekt,nein
+21.03.2015,478,,,Lampe,Leuchtmittel,ja
+21.03.2015,438,,,Videorekorder,Auswurf defekt,ja
+21.03.2015,439,,,Kaffeemaschine,Heizelement defekt,ja
+21.03.2015,440,,,Fernsehr,Kondensator,ja
+21.03.2015,441,,,Brotmaschine,,nein
+21.03.2015,442,,,Lampe,Transistor defekt,ja
+21.03.2015,443,,,Kinderspielzeug,Dauerton,ja
+21.03.2015,444,,,Lampe,Dimmer defekt,nein
+21.03.2015,445,,,CD-Spieler,Riemen,ja
+21.03.2015,446,,,Kaffeemaschine,Kalkprogramm beendet nicht,ja
+21.03.2015,447,,,Kassetten Spieler,Riemen,ja
+21.03.2015,448,,,Fernsehr,Farbe fehlt,nein
+21.03.2015,449,,,Föhn,Heizelement defekt,nein
+21.03.2015,450,,,Föhn,Kabel defekt,ja
+21.03.2015,451,,,Verstrker,Sicherung defekt,ja
+21.03.2015,452,,,Steuergerät,Schalter defekt,nein
+21.03.2015,453,,,Staubsauger,Kohlen abgenutzt,nein
+21.03.2015,454,,,Körperwage,Fehler nicht gefunden,nein
+21.03.2015,455,,,Kassetten Spieler,Riemen ,nein
+21.03.2015,456,,,Rassierer,Akku defekt,ja
+21.03.2015,457,,,Fernsehr,Kalte Ltstelle,ja
+21.03.2015,458,,,Kaffeemaschine,Tasten defekt,ja
+21.03.2015,459,,,Verstrker,Wackelkontakt,ja
+21.03.2015,460,,,Plattenspieler,Tonabnehmer defekt,nein
+21.03.2015,461,,,Telefon,Kabel defekt,ja
+21.03.2015,462,,,Fernsehr,Tasten defekt,ja
+21.03.2015,463,,,Staubsauger,Motor defekt,ja
+21.03.2015,464,,,Staubsauger,Filter Verstopft,ja
+21.03.2015,465,,,Fernsehr,Bild zu breit,ja
+21.03.2015,466,,,Radio,Display defekt,nein
+21.03.2015,467,,,CD-Spieler,Tasten defekt,ja
+21.03.2015,468,,,Videorekorder,Kurzschluss,nein
+21.03.2015,469,,,Lampe,kein Schalter,ja
+21.03.2015,470,,,Zahnbürste,IC defekt,nein
+21.03.2015,471,,,Handy,Display defekt,nein
+21.03.2015,472,,,Wage,Kabel lose,ja
+21.03.2015,473,,,Staubsauger,Kein kabel,ja
+21.03.2015,474,,,Lichterkette,Wackelkontakt,ja
+21.03.2015,475,,,Taschenlampe,Schalter defekt,ja
+21.03.2015,476,,,CD-Spieler,Linse dreckig,ja
+21.03.2015,477,,,Küchengerät,Getriebe defekt,nein
+21.03.2015,478,,,Lampe,Leuchtmittel,ja
+21.03.2015,438,,,Videorekorder,Auswurf defekt,ja
+21.03.2015,439,,,Kaffeemaschine,Heizelement defekt,ja
+21.03.2015,440,,,Fernsehr,Kondensator,ja
+21.03.2015,441,,,Brotmaschine,,nein
+21.03.2015,442,,,Lampe,Transistor defekt,ja
+21.03.2015,443,,,Kinderspielzeug,Dauerton,ja
+21.03.2015,444,,,Lampe,Dimmer defekt,nein
+21.03.2015,445,,,CD-Spieler,Riemen,ja
+21.03.2015,446,,,Kaffeemaschine,Kalkprogramm beendet nicht,ja
+21.03.2015,447,,,Kassetten Spieler,Riemen,ja
+21.03.2015,448,,,Fernsehr,Farbe fehlt,nein
+21.03.2015,449,,,Föhn,Heizelement defekt,nein
+21.03.2015,450,,,Föhn,Kabel defekt,ja
+21.03.2015,451,,,Verstrker,Sicherung defekt,ja
+21.03.2015,452,,,Steuergerät,Schalter defekt,nein
+21.03.2015,453,,,Staubsauger,Kohlen abgenutzt,nein
+21.03.2015,454,,,Körperwage,Fehler nicht gefunden,nein
+21.03.2015,455,,,Kassetten Spieler,Riemen ,nein
+21.03.2015,456,,,Rassierer,Akku defekt,ja
+21.03.2015,457,,,Fernsehr,Kalte Ltstelle,ja
+21.03.2015,458,,,Kaffeemaschine,Tasten defekt,ja
+21.03.2015,459,,,Verstrker,Wackelkontakt,ja
+21.03.2015,460,,,Plattenspieler,Tonabnehmer defekt,nein
+21.03.2015,461,,,Telefon,Kabel defekt,ja
+21.03.2015,462,,,Fernsehr,Tasten defekt,ja
+21.03.2015,463,,,Staubsauger,Motor defekt,ja
+21.03.2015,464,,,Staubsauger,Filter Verstopft,ja
+21.03.2015,465,,,Fernsehr,Bild zu breit,ja
+21.03.2015,466,,,Radio,Display defekt,nein
+21.03.2015,467,,,CD-Spieler,Tasten defekt,ja
+21.03.2015,468,,,Videorekorder,Kurzschluss,nein
+21.03.2015,469,,,Lampe,kein Schalter,ja
+21.03.2015,470,,,Zahnbürste,IC defekt,nein
+21.03.2015,471,,,Handy,Display defekt,nein
+21.03.2015,472,,,Wage,Kabel lose,ja
+21.03.2015,473,,,Staubsauger,Kein kabel,ja
+21.03.2015,474,,,Lichterkette,Wackelkontakt,ja
+21.03.2015,475,,,Taschenlampe,Schalter defekt,ja
+21.03.2015,476,,,CD-Spieler,Linse dreckig,ja
+21.03.2015,477,,,Küchengerät,Getriebe defekt,nein
+21.03.2015,478,,,Lampe,Leuchtmittel,ja
+21.03.2015,438,,,Videorekorder,Auswurf defekt,ja
+21.03.2015,439,,,Kaffeemaschine,Heizelement defekt,ja
+21.03.2015,440,,,Fernsehr,Kondensator,ja
+21.03.2015,441,,,Brotmaschine,,nein
+21.03.2015,442,,,Lampe,Transistor defekt,ja
+21.03.2015,443,,,Kinderspielzeug,Dauerton,ja
+21.03.2015,444,,,Lampe,Dimmer defekt,nein
+21.03.2015,445,,,CD-Spieler,Riemen,ja
+21.03.2015,446,,,Kaffeemaschine,Kalkprogramm beendet nicht,ja
+21.03.2015,447,,,Kassetten Spieler,Riemen,ja
+21.03.2015,448,,,Fernsehr,Farbe fehlt,nein
+21.03.2015,449,,,Föhn,Heizelement defekt,nein
+21.03.2015,450,,,Föhn,Kabel defekt,ja
+21.03.2015,451,,,Verstrker,Sicherung defekt,ja
+21.03.2015,452,,,Steuergerät,Schalter defekt,nein
+21.03.2015,453,,,Staubsauger,Kohlen abgenutzt,nein
+21.03.2015,454,,,Körperwage,Fehler nicht gefunden,nein
+21.03.2015,455,,,Kassetten Spieler,Riemen ,nein
+21.03.2015,456,,,Rassierer,Akku defekt,ja
+21.03.2015,457,,,Fernsehr,Kalte Ltstelle,ja
+21.03.2015,458,,,Kaffeemaschine,Tasten defekt,ja
+21.03.2015,459,,,Verstrker,Wackelkontakt,ja
+21.03.2015,460,,,Plattenspieler,Tonabnehmer defekt,nein
+21.03.2015,461,,,Telefon,Kabel defekt,ja
+21.03.2015,462,,,Fernsehr,Tasten defekt,ja
+21.03.2015,463,,,Staubsauger,Motor defekt,ja
+21.03.2015,464,,,Staubsauger,Filter Verstopft,ja
+21.03.2015,465,,,Fernsehr,Bild zu breit,ja
+21.03.2015,466,,,Radio,Display defekt,nein
+21.03.2015,467,,,CD-Spieler,Tasten defekt,ja
+21.03.2015,468,,,Videorekorder,Kurzschluss,nein
+21.03.2015,469,,,Lampe,kein Schalter,ja
+21.03.2015,470,,,Zahnbürste,IC defekt,nein
+21.03.2015,471,,,Handy,Display defekt,nein
+21.03.2015,472,,,Wage,Kabel lose,ja
+21.03.2015,473,,,Staubsauger,Kein kabel,ja
+21.03.2015,474,,,Lichterkette,Wackelkontakt,ja
+21.03.2015,475,,,Taschenlampe,Schalter defekt,ja
+21.03.2015,476,,,CD-Spieler,Linse dreckig,ja
+21.03.2015,477,,,Küchengerät,Getriebe defekt,nein
+21.03.2015,478,,,Lampe,Leuchtmittel,ja
+21.03.2015,438,,,Videorekorder,Auswurf defekt,ja
+21.03.2015,439,,,Kaffeemaschine,Heizelement defekt,ja
+21.03.2015,440,,,Fernsehr,Kondensator,ja
+21.03.2015,441,,,Brotmaschine,,nein
+21.03.2015,442,,,Lampe,Transistor defekt,ja
+21.03.2015,443,,,Kinderspielzeug,Dauerton,ja
+21.03.2015,444,,,Lampe,Dimmer defekt,nein
+21.03.2015,445,,,CD-Spieler,Riemen,ja
+21.03.2015,446,,,Kaffeemaschine,Kalkprogramm beendet nicht,ja
+21.03.2015,447,,,Kassetten Spieler,Riemen,ja
+21.03.2015,448,,,Fernsehr,Farbe fehlt,nein
+21.03.2015,449,,,Föhn,Heizelement defekt,nein
+21.03.2015,450,,,Föhn,Kabel defekt,ja
+21.03.2015,451,,,Verstrker,Sicherung defekt,ja
+21.03.2015,452,,,Steuergerät,Schalter defekt,nein
+21.03.2015,453,,,Staubsauger,Kohlen abgenutzt,nein
+21.03.2015,454,,,Körperwage,Fehler nicht gefunden,nein
+21.03.2015,455,,,Kassetten Spieler,Riemen ,nein
+21.03.2015,456,,,Rassierer,Akku defekt,ja
+21.03.2015,457,,,Fernsehr,Kalte Ltstelle,ja
+21.03.2015,458,,,Kaffeemaschine,Tasten defekt,ja
+21.03.2015,459,,,Verstrker,Wackelkontakt,ja
+21.03.2015,460,,,Plattenspieler,Tonabnehmer defekt,nein
+21.03.2015,461,,,Telefon,Kabel defekt,ja
+21.03.2015,462,,,Fernsehr,Tasten defekt,ja
+21.03.2015,463,,,Staubsauger,Motor defekt,ja
+21.03.2015,464,,,Staubsauger,Filter Verstopft,ja
+21.03.2015,465,,,Fernsehr,Bild zu breit,ja
+21.03.2015,466,,,Radio,Display defekt,nein
+21.03.2015,467,,,CD-Spieler,Tasten defekt,ja
+21.03.2015,468,,,Videorekorder,Kurzschluss,nein
+21.03.2015,469,,,Lampe,kein Schalter,ja
+21.03.2015,470,,,Zahnbürste,IC defekt,nein
+21.03.2015,471,,,Handy,Display defekt,nein
+21.03.2015,472,,,Wage,Kabel lose,ja
+21.03.2015,473,,,Staubsauger,Kein kabel,ja
+21.03.2015,474,,,Lichterkette,Wackelkontakt,ja
+21.03.2015,475,,,Taschenlampe,Schalter defekt,ja
+21.03.2015,476,,,CD-Spieler,Linse dreckig,ja
+21.03.2015,477,,,Küchengerät,Getriebe defekt,nein
+21.03.2015,478,,,Lampe,Leuchtmittel,ja
+21.03.2015,438,,,Videorekorder,Auswurf defekt,ja
+21.03.2015,439,,,Kaffeemaschine,Heizelement defekt,ja
+21.03.2015,440,,,Fernsehr,Kondensator,ja
+21.03.2015,441,,,Brotmaschine,,nein
+21.03.2015,442,,,Lampe,Transistor defekt,ja
+21.03.2015,443,,,Kinderspielzeug,Dauerton,ja
+21.03.2015,444,,,Lampe,Dimmer defekt,nein
+21.03.2015,445,,,CD-Spieler,Riemen,ja
+21.03.2015,446,,,Kaffeemaschine,Kalkprogramm beendet nicht,ja
+21.03.2015,447,,,Kassetten Spieler,Riemen,ja
+21.03.2015,448,,,Fernsehr,Farbe fehlt,nein
+21.03.2015,449,,,Föhn,Heizelement defekt,nein
+21.03.2015,450,,,Föhn,Kabel defekt,ja
+21.03.2015,451,,,Verstrker,Sicherung defekt,ja
+21.03.2015,452,,,Steuergerät,Schalter defekt,nein
+21.03.2015,453,,,Staubsauger,Kohlen abgenutzt,nein
+21.03.2015,454,,,Körperwage,Fehler nicht gefunden,nein
+21.03.2015,455,,,Kassetten Spieler,Riemen ,nein
+21.03.2015,456,,,Rassierer,Akku defekt,ja
+21.03.2015,457,,,Fernsehr,Kalte Ltstelle,ja
+21.03.2015,458,,,Kaffeemaschine,Tasten defekt,ja
+21.03.2015,459,,,Verstrker,Wackelkontakt,ja
+21.03.2015,460,,,Plattenspieler,Tonabnehmer defekt,nein
+21.03.2015,461,,,Telefon,Kabel defekt,ja
+21.03.2015,462,,,Fernsehr,Tasten defekt,ja
+21.03.2015,463,,,Staubsauger,Motor defekt,ja
+21.03.2015,464,,,Staubsauger,Filter Verstopft,ja
+21.03.2015,465,,,Fernsehr,Bild zu breit,ja
+21.03.2015,466,,,Radio,Display defekt,nein
+21.03.2015,467,,,CD-Spieler,Tasten defekt,ja
+21.03.2015,468,,,Videorekorder,Kurzschluss,nein
+21.03.2015,469,,,Lampe,kein Schalter,ja
+21.03.2015,470,,,Zahnbürste,IC defekt,nein
+21.03.2015,471,,,Handy,Display defekt,nein
+21.03.2015,472,,,Wage,Kabel lose,ja
+21.03.2015,473,,,Staubsauger,Kein kabel,ja
+21.03.2015,474,,,Lichterkette,Wackelkontakt,ja
+21.03.2015,475,,,Taschenlampe,Schalter defekt,ja
+21.03.2015,476,,,CD-Spieler,Linse dreckig,ja
+21.03.2015,477,,,Küchengerät,Getriebe defekt,nein
+21.03.2015,478,,,Lampe,Leuchtmittel,ja
+21.03.2015,438,,,Videorekorder,Auswurf defekt,ja
+21.03.2015,439,,,Kaffeemaschine,Heizelement defekt,ja
+21.03.2015,440,,,Fernsehr,Kondensator,ja
+21.03.2015,441,,,Brotmaschine,,nein
+21.03.2015,442,,,Lampe,Transistor defekt,ja
+21.03.2015,443,,,Kinderspielzeug,Dauerton,ja
+21.03.2015,444,,,Lampe,Dimmer defekt,nein
+21.03.2015,445,,,CD-Spieler,Riemen,ja
+21.03.2015,446,,,Kaffeemaschine,Kalkprogramm beendet nicht,ja
+21.03.2015,447,,,Kassetten Spieler,Riemen,ja
+21.03.2015,448,,,Fernsehr,Farbe fehlt,nein
+21.03.2015,449,,,Föhn,Heizelement defekt,nein
+21.03.2015,450,,,Föhn,Kabel defekt,ja
+21.03.2015,451,,,Verstrker,Sicherung defekt,ja
+21.03.2015,452,,,Steuergerät,Schalter defekt,nein
+21.03.2015,453,,,Staubsauger,Kohlen abgenutzt,nein
+21.03.2015,454,,,Körperwage,Fehler nicht gefunden,nein
+21.03.2015,455,,,Kassetten Spieler,Riemen ,nein
+21.03.2015,456,,,Rassierer,Akku defekt,ja
+21.03.2015,457,,,Fernsehr,Kalte Ltstelle,ja
+21.03.2015,458,,,Kaffeemaschine,Tasten defekt,ja
+21.03.2015,459,,,Verstrker,Wackelkontakt,ja
+21.03.2015,460,,,Plattenspieler,Tonabnehmer defekt,nein
+21.03.2015,461,,,Telefon,Kabel defekt,ja
+21.03.2015,462,,,Fernsehr,Tasten defekt,ja
+21.03.2015,463,,,Staubsauger,Motor defekt,ja
+21.03.2015,464,,,Staubsauger,Filter Verstopft,ja
+21.03.2015,465,,,Fernsehr,Bild zu breit,ja
+21.03.2015,466,,,Radio,Display defekt,nein
+21.03.2015,467,,,CD-Spieler,Tasten defekt,ja
+21.03.2015,468,,,Videorekorder,Kurzschluss,nein
+21.03.2015,469,,,Lampe,kein Schalter,ja
+21.03.2015,470,,,Zahnbürste,IC defekt,nein
+21.03.2015,471,,,Handy,Display defekt,nein
+21.03.2015,472,,,Wage,Kabel lose,ja
+21.03.2015,473,,,Staubsauger,Kein kabel,ja
+21.03.2015,474,,,Lichterkette,Wackelkontakt,ja
+21.03.2015,475,,,Taschenlampe,Schalter defekt,ja
+21.03.2015,476,,,CD-Spieler,Linse dreckig,ja
+21.03.2015,477,,,Küchengerät,Getriebe defekt,nein
+
+21.03.2015,438,,,Videorekorder,Auswurf defekt,ja
+21.03.2015,439,,,Kaffeemaschine,Heizelement defekt,ja
+21.03.2015,440,,,Fernsehr,Kondensator,ja
+21.03.2015,441,,,Brotmaschine,,nein
+21.03.2015,442,,,Lampe,Transistor defekt,ja
+21.03.2015,443,,,Kinderspielzeug,Dauerton,ja
+21.03.2015,444,,,Lampe,Dimmer defekt,nein
+21.03.2015,445,,,CD-Spieler,Riemen,ja
+21.03.2015,446,,,Kaffeemaschine,Kalkprogramm beendet nicht,ja
+21.03.2015,447,,,Kassetten Spieler,Riemen,ja
+21.03.2015,448,,,Fernsehr,Farbe fehlt,nein
+21.03.2015,449,,,Föhn,Heizelement defekt,nein
+21.03.2015,450,,,Föhn,Kabel defekt,ja
+21.03.2015,451,,,Verstrker,Sicherung defekt,ja
+21.03.2015,452,,,Steuergerät,Schalter defekt,nein
+21.03.2015,453,,,Staubsauger,Kohlen abgenutzt,nein
+21.03.2015,454,,,Körperwage,Fehler nicht gefunden,nein
+21.03.2015,455,,,Kassetten Spieler,Riemen ,nein
+21.03.2015,456,,,Rassierer,Akku defekt,ja
+21.03.2015,457,,,Fernsehr,Kalte Ltstelle,ja
+21.03.2015,458,,,Kaffeemaschine,Tasten defekt,ja
+21.03.2015,459,,,Verstrker,Wackelkontakt,ja
+21.03.2015,460,,,Plattenspieler,Tonabnehmer defekt,nein
+21.03.2015,461,,,Telefon,Kabel defekt,ja
+21.03.2015,462,,,Fernsehr,Tasten defekt,ja
+21.03.2015,463,,,Staubsauger,Motor defekt,ja
+21.03.2015,464,,,Staubsauger,Filter Verstopft,ja
+21.03.2015,465,,,Fernsehr,Bild zu breit,ja
+21.03.2015,466,,,Radio,Display defekt,nein
+21.03.2015,467,,,CD-Spieler,Tasten defekt,ja
+21.03.2015,468,,,Videorekorder,Kurzschluss,nein
+21.03.2015,469,,,Lampe,kein Schalter,ja
+21.03.2015,470,,,Zahnbürste,IC defekt,nein
+21.03.2015,471,,,Handy,Display defekt,nein
+21.03.2015,472,,,Wage,Kabel lose,ja
+21.03.2015,473,,,Staubsauger,Kein kabel,ja
+21.03.2015,474,,,Lichterkette,Wackelkontakt,ja
+21.03.2015,475,,,Taschenlampe,Schalter defekt,ja
+21.03.2015,476,,,CD-Spieler,Linse dreckig,ja
+21.03.2015,477,,,Küchengerät,Getriebe defekt,nein
+21.03.2015,478,,,Lampe,Leuchtmittel,ja
+21.03.2015,438,,,Videorekorder,Auswurf defekt,ja
+21.03.2015,439,,,Kaffeemaschine,Heizelement defekt,ja
+21.03.2015,440,,,Fernsehr,Kondensator,ja
+21.03.2015,441,,,Brotmaschine,,nein
+21.03.2015,442,,,Lampe,Transistor defekt,ja
+21.03.2015,443,,,Kinderspielzeug,Dauerton,ja
+21.03.2015,444,,,Lampe,Dimmer defekt,nein
+21.03.2015,445,,,CD-Spieler,Riemen,ja
+21.03.2015,446,,,Kaffeemaschine,Kalkprogramm beendet nicht,ja
+21.03.2015,447,,,Kassetten Spieler,Riemen,ja
+21.03.2015,448,,,Fernsehr,Farbe fehlt,nein
+21.03.2015,449,,,Föhn,Heizelement defekt,nein
+21.03.2015,450,,,Föhn,Kabel defekt,ja
+21.03.2015,451,,,Verstrker,Sicherung defekt,ja
+21.03.2015,452,,,Steuergerät,Schalter defekt,nein
+21.03.2015,453,,,Staubsauger,Kohlen abgenutzt,nein
+21.03.2015,454,,,Körperwage,Fehler nicht gefunden,nein
+21.03.2015,455,,,Kassetten Spieler,Riemen ,nein
+21.03.2015,456,,,Rassierer,Akku defekt,ja
+21.03.2015,457,,,Fernsehr,Kalte Ltstelle,ja
+21.03.2015,458,,,Kaffeemaschine,Tasten defekt,ja
+21.03.2015,459,,,Verstrker,Wackelkontakt,ja
+21.03.2015,460,,,Plattenspieler,Tonabnehmer defekt,nein
+21.03.2015,461,,,Telefon,Kabel defekt,ja
+21.03.2015,462,,,Fernsehr,Tasten defekt,ja
+21.03.2015,463,,,Staubsauger,Motor defekt,ja
+21.03.2015,464,,,Staubsauger,Filter Verstopft,ja
+21.03.2015,465,,,Fernsehr,Bild zu breit,ja
+21.03.2015,466,,,Radio,Display defekt,nein
+21.03.2015,467,,,CD-Spieler,Tasten defekt,ja
+21.03.2015,468,,,Videorekorder,Kurzschluss,nein
+21.03.2015,469,,,Lampe,kein Schalter,ja
+21.03.2015,470,,,Zahnbürste,IC defekt,nein
+21.03.2015,471,,,Handy,Display defekt,nein
+21.03.2015,472,,,Wage,Kabel lose,ja
+21.03.2015,473,,,Staubsauger,Kein kabel,ja
+21.03.2015,474,,,Lichterkette,Wackelkontakt,ja
+21.03.2015,475,,,Taschenlampe,Schalter defekt,ja
+21.03.2015,476,,,CD-Spieler,Linse dreckig,ja
+21.03.2015,477,,,Küchengerät,Getriebe defekt,nein
+21.03.2015,478,,,Lampe,Leuchtmittel,ja
+21.03.2015,438,,,Videorekorder,Auswurf defekt,ja
+21.03.2015,439,,,Kaffeemaschine,Heizelement defekt,ja
+21.03.2015,440,,,Fernsehr,Kondensator,ja
+21.03.2015,441,,,Brotmaschine,,nein
+21.03.2015,442,,,Lampe,Transistor defekt,ja
+21.03.2015,443,,,Kinderspielzeug,Dauerton,ja
+21.03.2015,444,,,Lampe,Dimmer defekt,nein
+21.03.2015,445,,,CD-Spieler,Riemen,ja
+21.03.2015,446,,,Kaffeemaschine,Kalkprogramm beendet nicht,ja
+21.03.2015,447,,,Kassetten Spieler,Riemen,ja
+21.03.2015,448,,,Fernsehr,Farbe fehlt,nein
+21.03.2015,449,,,Föhn,Heizelement defekt,nein
+21.03.2015,450,,,Föhn,Kabel defekt,ja
+21.03.2015,451,,,Verstrker,Sicherung defekt,ja
+21.03.2015,452,,,Steuergerät,Schalter defekt,nein
+21.03.2015,453,,,Staubsauger,Kohlen abgenutzt,nein
+21.03.2015,454,,,Körperwage,Fehler nicht gefunden,nein
+21.03.2015,455,,,Kassetten Spieler,Riemen ,nein
+21.03.2015,456,,,Rassierer,Akku defekt,ja
+21.03.2015,457,,,Fernsehr,Kalte Ltstelle,ja
+21.03.2015,458,,,Kaffeemaschine,Tasten defekt,ja
+21.03.2015,459,,,Verstrker,Wackelkontakt,ja
+21.03.2015,460,,,Plattenspieler,Tonabnehmer defekt,nein
+21.03.2015,461,,,Telefon,Kabel defekt,ja
+21.03.2015,462,,,Fernsehr,Tasten defekt,ja
+21.03.2015,463,,,Staubsauger,Motor defekt,ja
+21.03.2015,464,,,Staubsauger,Filter Verstopft,ja
+21.03.2015,465,,,Fernsehr,Bild zu breit,ja
+21.03.2015,466,,,Radio,Display defekt,nein
+21.03.2015,467,,,CD-Spieler,Tasten defekt,ja
+21.03.2015,468,,,Videorekorder,Kurzschluss,nein
+21.03.2015,469,,,Lampe,kein Schalter,ja
+21.03.2015,470,,,Zahnbürste,IC defekt,nein
+21.03.2015,471,,,Handy,Display defekt,nein
+21.03.2015,472,,,Wage,Kabel lose,ja
+21.03.2015,473,,,Staubsauger,Kein kabel,ja
+21.03.2015,474,,,Lichterkette,Wackelkontakt,ja
+21.03.2015,475,,,Taschenlampe,Schalter defekt,ja
+21.03.2015,476,,,CD-Spieler,Linse dreckig,ja
+21.03.2015,477,,,Küchengerät,Getriebe defekt,nein
+21.03.2015,439,,,Kaffeemaschine,Heizelement defekt,ja
+21.03.2015,440,,,Fernsehr,Kondensator,ja
+21.03.2015,441,,,Brotmaschine,,nein
+21.03.2015,442,,,Lampe,Transistor defekt,ja
+21.03.2015,443,,,Kinderspielzeug,Dauerton,ja
+21.03.2015,444,,,Lampe,Dimmer defekt,nein
+21.03.2015,445,,,CD-Spieler,Riemen,ja
+21.03.2015,446,,,Kaffeemaschine,Kalkprogramm beendet nicht,ja
+21.03.2015,447,,,Kassetten Spieler,Riemen,ja
+21.03.2015,448,,,Fernsehr,Farbe fehlt,nein
+21.03.2015,449,,,Föhn,Heizelement defekt,nein
+21.03.2015,450,,,Föhn,Kabel defekt,ja
+21.03.2015,451,,,Verstrker,Sicherung defekt,ja
+21.03.2015,452,,,Steuergerät,Schalter defekt,nein
+21.03.2015,453,,,Staubsauger,Kohlen abgenutzt,nein
+21.03.2015,454,,,Körperwage,Fehler nicht gefunden,nein
+21.03.2015,455,,,Kassetten Spieler,Riemen ,nein
+21.03.2015,456,,,Rassierer,Akku defekt,ja
+21.03.2015,457,,,Fernsehr,Kalte Ltstelle,ja
+21.03.2015,458,,,Kaffeemaschine,Tasten defekt,ja
+21.03.2015,459,,,Verstrker,Wackelkontakt,ja
+21.03.2015,460,,,Plattenspieler,Tonabnehmer defekt,nein
+21.03.2015,461,,,Telefon,Kabel defekt,ja
+21.03.2015,462,,,Fernsehr,Tasten defekt,ja
+21.03.2015,463,,,Staubsauger,Motor defekt,ja
+21.03.2015,464,,,Staubsauger,Filter Verstopft,ja
+21.03.2015,465,,,Fernsehr,Bild zu breit,ja
+21.03.2015,466,,,Radio,Display defekt,nein
+21.03.2015,467,,,CD-Spieler,Tasten defekt,ja
+21.03.2015,468,,,Videorekorder,Kurzschluss,nein
+21.03.2015,469,,,Lampe,kein Schalter,ja
+21.03.2015,470,,,Zahnbürste,IC defekt,nein
+21.03.2015,471,,,Handy,Display defekt,nein
+21.03.2015,472,,,Wage,Kabel lose,ja
+21.03.2015,473,,,Staubsauger,Kein kabel,ja
+21.03.2015,474,,,Lichterkette,Wackelkontakt,ja
+21.03.2015,475,,,Taschenlampe,Schalter defekt,ja
+21.03.2015,476,,,CD-Spieler,Linse dreckig,ja
+21.03.2015,477,,,Küchengerät,Getriebe defekt,nein
+21.03.2015,478,,,Lampe,Leuchtmittel,ja
+21.03.2015,468,,,Videorekorder,Kurzschluss,nein
+21.03.2015,469,,,Lampe,kein Schalter,ja
+21.03.2015,470,,,Zahnbürste,IC defekt,nein
+21.03.2015,471,,,Handy,Display defekt,nein
+21.03.2015,472,,,Wage,Kabel lose,ja
+21.03.2015,473,,,Staubsauger,Kein kabel,ja
+21.03.2015,474,,,Lichterkette,Wackelkontakt,ja
+21.03.2015,475,,,Taschenlampe,Schalter defekt,ja
+21.03.2015,476,,,CD-Spieler,Linse dreckig,ja
+21.03.2015,477,,,Küchengerät,Getriebe defekt,nein
+21.03.2015,478,,,Lampe,Leuchtmittel,ja
