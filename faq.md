@@ -23,7 +23,7 @@ Wir bitten Dich zu beachten, dass wir kein Dienstleister sind und unsere Hilfe e
 
 Was muss ich mitbringen?
 ------------------------
-Wir haben viel Werkzeug und Erfahrung vor Ort. Wenn Du aber schon Spezialwerkzeug besitzt oder Dokumentationen von Deinem Gerät beschaffen kannst, bringe diese am besten mit. Das kann die Reparaturzeit stark verkürzen.
+Wir haben viel Werkzeug und Erfahrung vor Ort. Wenn Du aber schon Spezialwerkzeug, Ersatzteile oder Dokumentationen von Deinem Gerät besitzt oder beschaffen kannst, bringe diese am besten mit. Das kann die Reparaturzeit stark verkürzen.
 Es ist außerdem für uns wichtig, dass Du den Fehler Deines Gerätes etwas genauer beschreiben kannst. 
 Hilfreich sind die Antworten auf folgende Fragen:
  
