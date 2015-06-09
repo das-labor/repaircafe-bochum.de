@@ -16,5 +16,4 @@ Am Abend gab es wieder ein gemeinsames Abendbrot für das Team und alle Gäste, 
 ![img3](/assets/pictures/2015-mai-5.jpg)
 ![img4](/assets/pictures/2015-mai-6.jpg)
 ![img5](/assets/pictures/2015-mai-9.jpg)
-![img6](/assets/pictures/2015-mai-10.jpg)
-![img7](/assets/pictures/2015-mai-11.jpg)
+![img6](/assets/pictures/2015-mai-11.jpg)
