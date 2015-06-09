@@ -11,9 +11,9 @@ Außerdem konnten wir ein kleines Jubiläum feiern. Die 500. Reparatur stand an.
 
 Am Abend gab es wieder ein gemeinsames Abendbrot für das Team und alle Gäste, die noch geblieben waren. Gekocht wurde wie immer mit Lebensmitteln, die vom Foodsharing Bochum vor der Mülltonne gerettet wurden. Als Belohnung für den anstrengenden Tag mit ca. 50 Reparaturen, spielten für uns zum Abschluss noch Tim und Toto von "Die Freedes", die mit ihrer Musik das Repair Cafe zum Wackeln brachten.
 
-![img1](/assets/pictures/2015-mai-3.jpg)
-![img2](/assets/pictures/2015-mai-4.jpg)
-![img3](/assets/pictures/2015-mai-5.jpg)
-![img4](/assets/pictures/2015-mai-6.jpg)
-![img5](/assets/pictures/2015-mai-9.jpg)
-![img6](/assets/pictures/2015-mai-11.jpg)
+![img1](/assets/pictures/2015-mai-01.jpg)
+![img2](/assets/pictures/2015-mai-02.jpg)
+![img3](/assets/pictures/2015-mai-02.jpg)
+![img4](/assets/pictures/2015-mai-04.jpg)
+![img5](/assets/pictures/2015-mai-05.jpg)
+![img6](/assets/pictures/2015-mai-06.jpg)
