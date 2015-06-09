@@ -54,10 +54,7 @@
 								{% if d1 > d3 %}
 									<li>Am {{ ent.datum | localize:"%d. %b %Y" }} {{ ent.ort }}</li>
 								{% else %}
-									{% if d1 < d2  %}
-										<li><strike>Am {{ ent.datum | localize:"%d. %b %Y" }} {{ ent.ort }}</strike></li>
-									{% else %}
-										<li><b>Am {{ ent.datum | localize:"%d. %b %Y" }} {{ ent.ort }}</b></li>
+									<li><b>Am {{ ent.datum | localize:"%d. %b %Y" }} {{ ent.ort }}</b></li>
 									{% endif %}
 								{%endif%}
 							{% endfor %}
