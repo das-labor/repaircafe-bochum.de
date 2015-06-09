@@ -52,10 +52,13 @@
 								{% capture d2 %}{{ site.time | date:"%F" }}{% endcapture %}
 								{% capture d3 %}{{ site.time + 60 * 60 * 24 | date:"%F" }}{% endcapture %}
 								{% if d1 > d3 %}
-									<li>Am {{ ent.datum | localize:"%d. %b %Y" }} {{ ent.ort }}</li>
-								{% else %}
-									<li><b>Am {{ ent.datum | localize:"%d. %b %Y" }} {{ ent.ort }}</b></li>
-								{%endif%}
+ 									<li>Am {{ ent.datum | localize:"%d. %b %Y" }} {{ ent.ort }}</li>
+ 								{% else %}
+									{% if d1 < d2  %}
+									{% else %}
+										<li><b>Am {{ ent.datum | localize:"%d. %b %Y" }} {{ ent.ort }}</b></li>
+ 									{% endif %}
+ 								{%endif%}
 							{% endfor %}
 						</ul>
 						{% if site.erfolgreich %}
