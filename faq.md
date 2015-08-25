@@ -21,6 +21,15 @@ Wenn Ihr ins Repair Café kommt, ist der erste Schritt die Anmeldung. Hierbei is
 
 Wir bitten Dich zu beachten, dass wir kein Dienstleister sind und unsere Hilfe ehrenamtlich ist.
 
+Wichtiger Hinweis:
+Aufgrund des großen Andrangs haben wir ein neues Anmeldesystem. Eure Geräte werden nun einer Kategorie zugeordnet,
+um so die Wartezeit zu verkürzen. Dadurch kann es jedoch zu Verschiebungen in der Reihenfolge kommen.
+
+Da die Zahl der Besucher unseres Repair Cafés jedoch immer größer wird kann es trotz des neuen Systems zu erheblichen
+Wartezeiten kommen. Unsere Kapazitäten reichen erfahrungsgemäß für ca. 50-60 Reparaturen pro Veranstaltung. Aus 
+verschiedenen organisatorischen Gründen ist es leider nicht möglich eine Voranmeldung per Internet oder Telefon 
+anzubieten. Darum bitten wir Sie genügend Zeit und Geduld mitzubringen, wenn Sie zum Repair Café Bochum kommen. 
+
 Was muss ich mitbringen?
 ------------------------
 Wir haben viel Werkzeug und Erfahrung vor Ort. Wenn Du aber schon Spezialwerkzeug, Ersatzteile oder Dokumentationen von Deinem Gerät besitzt oder beschaffen kannst, bringe diese am besten mit. Das kann die Reparaturzeit stark verkürzen.
