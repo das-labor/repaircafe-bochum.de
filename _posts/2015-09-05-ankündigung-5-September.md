@@ -1,5 +1,5 @@
 ---
-title: Nachstes Repair Café am 05.09.15- wieder im Labor e.V.
+title: Nachstes Repair Café am 05.09.15 wieder im Labor e.V.
 layout: default
 author: Mati
 ---
