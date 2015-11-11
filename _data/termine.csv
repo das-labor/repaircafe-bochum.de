@@ -1,23 +1,20 @@
-datum,ort
-2015-05-30, im <a href='http://alsenstrasse.com/wohnzimmer-alsenstrase-e-v/adresse-des-alsenwohnzimmers/'>Alsenwohnzimmer</a>
-2015-07-18, im <a href='http://www.das-labor.org/?page_id=1689'>Labor e.V.</a>
-2015-09-05, im <a href='http://www.das-labor.org/?page_id=1689'>Labor e.V.</a>
-2015-11-28, im <a href='http://alsenstrasse.com/wohnzimmer-alsenstrase-e-v/adresse-des-alsenwohnzimmers/'>Alsenwohnzimmer</a>
-2015-12-04, im <a href='http://www.caritas-bochum.de/73450.html'>Haus der Caritas</a>
-2016-01-08, im <a href='http://www.caritas-bochum.de/73450.html'>Haus der Caritas</a>
-2016-01-23, im <a href='http://www.das-labor.org/?page_id=1689'>Labor e.V.</a>
-2016-02-05, im <a href='http://www.caritas-bochum.de/73450.html'>Haus der Caritas</a>
-2016-03-04, im <a href='http://www.caritas-bochum.de/73450.html'>Haus der Caritas</a>
-2016-03-19, im <a href='http://alsenstrasse.com/wohnzimmer-alsenstrase-e-v/adresse-des-alsenwohnzimmers/'>Alsenwohnzimmer</a>
-2016-04-01, im <a href='http://www.caritas-bochum.de/73450.html'>Haus der Caritas</a>
-2016-05-06, im <a href='http://www.caritas-bochum.de/73450.html'>Haus der Caritas</a>
-2016-05-21, im <a href='http://www.das-labor.org/?page_id=1689'>Labor e.V.</a>
-2016-06-06, im <a href='http://www.caritas-bochum.de/73450.html'>Haus der Caritas</a>
-2016-07-01, im <a href='http://www.caritas-bochum.de/73450.html'>Haus der Caritas</a>
-2016-07-23, im <a href='http://alsenstrasse.com/wohnzimmer-alsenstrase-e-v/adresse-des-alsenwohnzimmers/'>Alsenwohnzimmer</a>
-2016-08-05, im <a href='http://www.caritas-bochum.de/73450.html'>Haus der Caritas</a>
-2016-09-02, im <a href='http://www.caritas-bochum.de/73450.html'>Haus der Caritas</a>
-2016-09-24, im <a href='http://www.das-labor.org/?page_id=1689'>Labor e.V.</a>
-2016-10-07, im <a href='http://www.caritas-bochum.de/73450.html'>Haus der Caritas</a>
-2016-11-04, im <a href='http://www.caritas-bochum.de/73450.html'>Haus der Caritas</a>
-2016-11-19, im <a href='http://alsenstrasse.com/wohnzimmer-alsenstrase-e-v/adresse-des-alsenwohnzimmers/'>Alsenwohnzimmer</a>
+datum,ort,uhrzeit
+2015-11-28, im <a href='http://alsenstrasse.com/wohnzimmer-alsenstrase-e-v/adresse-des-alsenwohnzimmers/'>Alsenwohnzimmer</a>, von 12-17Uhr
+2015-12-04, im <a href='http://www.caritas-bochum.de/73450.html'>Haus der Caritas</a>, von 14-17Uhr
+2016-01-08, im <a href='http://www.caritas-bochum.de/73450.html'>Haus der Caritas</a>, von 14-17Uhr
+2016-01-23, im <a href='http://www.das-labor.org/?page_id=1689'>Labor e.V.</a>, von 12-17Uhr
+2016-02-05, im <a href='http://www.caritas-bochum.de/73450.html'>Haus der Caritas</a>, von 14-17Uhr
+2016-03-04, im <a href='http://www.caritas-bochum.de/73450.html'>Haus der Caritas</a>, von 14-17Uhr
+2016-03-19, im <a href='http://alsenstrasse.com/wohnzimmer-alsenstrase-e-v/adresse-des-alsenwohnzimmers/'>Alsenwohnzimmer</a>, von 12-17Uhr
+2016-04-01, im <a href='http://www.caritas-bochum.de/73450.html'>Haus der Caritas</a>, von 14-17Uhr
+2016-05-06, im <a href='http://www.caritas-bochum.de/73450.html'>Haus der Caritas</a>, von 14-17Uhr
+2016-05-21, im <a href='http://www.das-labor.org/?page_id=1689'>Labor e.V.</a>, von 12-17Uhr
+2016-06-06, im <a href='http://www.caritas-bochum.de/73450.html'>Haus der Caritas</a>, von 14-17Uhr
+2016-07-01, im <a href='http://www.caritas-bochum.de/73450.html'>Haus der Caritas</a>, von 14-17Uhr
+2016-07-23, im <a href='http://alsenstrasse.com/wohnzimmer-alsenstrase-e-v/adresse-des-alsenwohnzimmers/'>Alsenwohnzimmer</a>, von 12-17Uhr
+2016-08-05, im <a href='http://www.caritas-bochum.de/73450.html'>Haus der Caritas</a>, von 14-17Uhr
+2016-09-02, im <a href='http://www.caritas-bochum.de/73450.html'>Haus der Caritas</a>, von 14-17Uhr
+2016-09-24, im <a href='http://www.das-labor.org/?page_id=1689'>Labor e.V.</a>, von 12-17Uhr
+2016-10-07, im <a href='http://www.caritas-bochum.de/73450.html'>Haus der Caritas</a>, von 14-17Uhr
+2016-11-04, im <a href='http://www.caritas-bochum.de/73450.html'>Haus der Caritas</a>, von 14-17Uhr
+2016-11-19, im <a href='http://alsenstrasse.com/wohnzimmer-alsenstrase-e-v/adresse-des-alsenwohnzimmers/'>Alsenwohnzimmer</a>, von 12-17Uhr
