@@ -2,8 +2,8 @@
 title: alle Termine
 layout: default
 ---
-Terminüberischt
-==============
+Terminübersicht
+===============
 <ul>
  {% for ent in site.data.termine %}
 	{% capture d1 %}{{ ent.datum | date: '%F' }}{% endcapture %}
