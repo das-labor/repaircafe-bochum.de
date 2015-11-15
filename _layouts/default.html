@@ -39,31 +39,55 @@
 					<div class="all-100">
 						{{ content }}
 					</div>
+					{% elsif page.paginate %}
+						<div class="all-70">
+							<!-- This loops through the paginated posts -->
+							{% for post in paginator.posts %}
+								<h1>{{ post.title }}</h1>
+								  <div class="content">
+								    {{ post.content }}
+								  </div>
+							{% endfor %}
+							
+							<!-- Pagination links -->
+							<div class="pagination">
+						  		{% if paginator.previous_page %}
+						    			<a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+							  	{% else %}
+							    		<span class="previous">Previous</span>
+							  	{% endif %}
+							  	<span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+							  	{% if paginator.next_page %}
+							    		<a href="{{ paginator.next_page_path }}" class="next">Next</a>
+						  		{% else %}
+							    		<span class="next ">Next</span>
+						  		{% endif %}
+							</div>
+						</div>
+						<div class="all-30">
+		                           		<h2>Nächste Termine</h2>
+                		                        <ul>
+		                                        	{% for ent in site.data.termine %}
+		                                                	{% capture d1 %}{{ ent.datum | date: '%F' }}{% endcapture %}<!-- Datum des Eintrags in termine.csv-->
+		                                                        {% capture d2 %}{{ site.time | date: '%F' }}{% endcapture %}<!--aktuelles Datum -->
+		                                                        {% capture d3 %}{{ site.time | date: '%s' | plus: 86400 | date: '%F' }}{% endcapture %}<!--Datum in 24 Stunden -->
+		                                                        {% capture d4 %}{{ site.time | date: '%s' | plus: 8640000 | date: '%F' }}{% endcapture %}<!--Datum 100tage in der Zukunft -->
+		                                                        {% if d1 >= d3 and d1 < d4 %}
+		                                                        	<li>Am {{ ent.datum | localize:"%d. %b %Y" }} {{ ent.ort }}</li>
+		                                                        {% elsif d1 >= d2 and d1 < d4 %}
+		                                                        	<li><b>Am {{ ent.datum | localize:"%d. %b %Y" }} {{ ent.ort }}</b></li>
+		                                                        {%endif%}
+		                                                {% endfor %}
+		                                 	</ul>
+		                                        <h4><a href="{{site.url}}/alleTermine.html">alle Termine und Uhrzeiten</a></h4>
+		                                        <div class="repaircounter">Reparaturversuche: <a href="{{ site.url }}/reparaturen.html"><em>{{ site.data.reparaturen | size }}</em></a></div>
+		                                        	<h2><a href='mailto:repaircafe@das-labor.org'>repaircafe@das-labor.org</a></h2>
+		                                        </div>
+						</div>
 					{% else %}
-				<div class="all-70">
-					<!-- This loops through the paginated posts -->
-					{% for post in paginator.posts %}
-						<h1>{{ post.title }}</h1>
-					  	<div class="content">
-					    	{{ post.content }}
-					  	</div>
-					{% endfor %}
-
-<!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-  {% else %}
-    <span class="previous">Previous</span>
-  {% endif %}
-  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-  {% else %}
-    <span class="next ">Next</span>
-  {% endif %}
-</div>
-				</div>
+						<div class="all-70">
+							{{ content }}
+						</div>
 					<div class="all-30">
 						<h2>Nächste Termine</h2>
 						<ul>
@@ -85,7 +109,6 @@
 					</div>
 					{% endif %}
 				</div>
-			</div>
 			<footer class="clearfix">
 				<div class="ink-grid vertical-space">
 					<p class="note align-center"><a href="http://www.das-labor.org/?page_id=1679">Impressum</a>&nbsp; <a href="{{site.url/disclaimer.html}}">Haftungsausschluss</a> &nbsp; <a href="http://repaircafe.org/de/">Repaircafe.org</a></p>
