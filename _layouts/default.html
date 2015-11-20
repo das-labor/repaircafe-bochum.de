@@ -44,9 +44,9 @@
 							<!-- This loops through the paginated posts -->
 							{% for post in paginator.posts %}
 								<h1>{{ post.title }}</h1>
-								  <div class="content">
-								    {{ post.content }}
-								  </div>
+								<div class="content">
+									{{ post.content }}
+								</div>
 							{% endfor %}
 							
 							<!-- Pagination links -->
@@ -76,6 +76,7 @@
 						</div>
 					{% endif %}
 				</div>
+			</div>
 				{% include footer.html %}
 		</div>
 		{% include piwik.html  %}
