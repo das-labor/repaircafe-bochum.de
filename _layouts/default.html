@@ -36,9 +36,9 @@
 			<div class="vertical-space ink-grid">
 				<div class="column-group gutters">
 					{% if page.nosidebar %}
-					<div class="all-100">
-						{{ content }}
-					</div>
+						<div class="all-100">
+							{{ content }}
+						</div>
 					{% elsif page.paginate %}
 						<div class="all-70">
 							<!-- This loops through the paginated posts -->
@@ -52,15 +52,15 @@
 							<!-- Pagination links -->
 							<div class="pagination">
 						  		{% if paginator.previous_page %}
-						    			<a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+						    			<a href="{{ paginator.previous_page_path }}" class="previous">zurück</a>
 							  	{% else %}
-							    		<span class="previous">Previous</span>
+							    		<span class="previous"></span>
 							  	{% endif %}
-							  	<span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+							  	<span class="page_number ">  Seite {{ paginator.page }} von {{ paginator.total_pages }} </span>
 							  	{% if paginator.next_page %}
-							    		<a href="{{ paginator.next_page_path }}" class="next">Next</a>
+							    		<a href="{{ paginator.next_page_path }}" class="next">weiter</a>
 						  		{% else %}
-							    		<span class="next ">Next</span>
+							    		<span class="next "></span>
 						  		{% endif %}
 							</div>
 						</div>
