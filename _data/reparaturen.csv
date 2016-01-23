@@ -6,7 +6,7 @@ datum,nummer,alter,geschlecht,geraeteart,fehlerbeschreibung,erfolgreich
 23.11.2013,8,,,Lampe,Wackelkontakt,ja
 23.11.2013,9,,,,,nein
 25.01.2014,10,,,E-Werkzeug,Motor defekt,ja
-<<<<<<< HEAD
+<<<<<<< HEAD,,,,,,
 23.11.2013,10,,,Verstaerker,Motor defekt,nein
 23.11.2013,11,,,Lampe,Kabel defekt,ja
 23.11.2013,12,,,Staubsauger,Schalter defekt,nein
@@ -18,7 +18,7 @@ datum,nummer,alter,geschlecht,geraeteart,fehlerbeschreibung,erfolgreich
 23.11.2013,18,,,E-Werkzeug,Laeuft nicht,ja
 23.11.2013,19,,,Stereoanlage,CD geht nicht,ja
 23.11.2013,20,,,Buegeleisen,Kabel Pors,ja
-=======
+Err:510,,,,,,
 23.11.2013,10,,,Verstärker,Motor defekt,nein
 23.11.2013,11,,,Lampe,Kabel Porös,ja
 23.11.2013,12,,,Staubsauger,Schalter defekt,nein
@@ -30,12 +30,12 @@ datum,nummer,alter,geschlecht,geraeteart,fehlerbeschreibung,erfolgreich
 23.11.2013,18,,,E-Werkzeug,Läuft nicht,ja
 23.11.2013,19,,,Stereoanlage,CD geht nicht,ja
 23.11.2013,20,,,Bügeleisen,Kabel Porös,ja
->>>>>>> 48af861680629450f51780d98e482841ff6fa275
+>>>>>>> 48af861680629450f51780d98e482841ff6fa275,,,,,,
 20.01.2014,22,,,Schallplattenspieler,Geht nicht,nein
 20.01.2014,23,,,CD-Spieler,Linse dreckig,ja
 20.01.2014,24,,,Lampe,klappert,ja
 20.01.2014,26,,,CD-Spieler,Linse dreckig,ja
-<<<<<<< HEAD
+<<<<<<< HEAD,,,,,,
 20.01.2014,27,,,Verstaerker,Wackelkontakt,nein
 25.01.2014,28,,,Toaster,,ja
 25.01.2014,29,,,Mixer,Kondensator,ja
@@ -44,7 +44,7 @@ datum,nummer,alter,geschlecht,geraeteart,fehlerbeschreibung,erfolgreich
 25.01.2014,32,,,Fernsehr,,nein
 25.01.2014,33,,,Messgeraet,kontakte dreckig,ja
 25.01.2014,34,,,Lederjacke,Riss im rmel,ja
-=======
+Err:510,,,,,,
 20.01.2014,27,,,Verstärker,Wackelkontakt,nein
 25.01.2014,28,,,Toaster,,ja
 25.01.2014,29,,,Mixer,Kondensator,ja
@@ -53,18 +53,18 @@ datum,nummer,alter,geschlecht,geraeteart,fehlerbeschreibung,erfolgreich
 25.01.2014,32,,,Fernsehr,,nein
 25.01.2014,33,,,Messgerät,kontakte dreckig,ja
 25.01.2014,34,,,Lederjacke,Riss im Dremel,ja
->>>>>>> 48af861680629450f51780d98e482841ff6fa275
+>>>>>>> 48af861680629450f51780d98e482841ff6fa275,,,,,,
 25.01.2014,35,,,CD-Spieler,Mechanik verdreckt,ja
 25.01.2014,36,,,Radio,Skalenband,ja
 25.01.2014,37,,,Fernsehr,Display gebrochen,nein
 25.01.2014,38,,,Ladestation,Kabel defekt,ja
 25.01.2014,39,,,,Kondensator,nein
 25.01.2014,40,,,Drucker,Schalter defekt,nein
-<<<<<<< HEAD
+<<<<<<< HEAD,,,,,,
 25.01.2014,41,,,Verstarrker,Transistor defekt,ja
-=======
+Err:510,,,,,,
 25.01.2014,41,,,Verstärker,Transistor defekt,ja
->>>>>>> 48af861680629450f51780d98e482841ff6fa275
+>>>>>>> 48af861680629450f51780d98e482841ff6fa275,,,,,,
 25.01.2014,42,,,Radio,Kurbel abgerissen,nein
 25.01.2014,43,,,DVD-Spieler,Wackelkontakt,ja
 25.01.2014,44,,,E-Werkzeug,Motor defekt,nein
@@ -73,11 +73,11 @@ datum,nummer,alter,geschlecht,geraeteart,fehlerbeschreibung,erfolgreich
 25.01.2014,47,,,Kaffeevollautomat,Verstopft,ja
 25.01.2014,49,,,Radio,Wackelkontakt,ja
 25.01.2014,50,,,Gasgriff,keine funktion,nein
-<<<<<<< HEAD
+<<<<<<< HEAD,,,,,,
 25.01.2014,51,,,Verstarrker,,nein
-=======
+Err:510,,,,,,
 25.01.2014,51,,,Verstärker,,nein
->>>>>>> 48af861680629450f51780d98e482841ff6fa275
+>>>>>>> 48af861680629450f51780d98e482841ff6fa275,,,,,,
 25.01.2014,52,,,Haartrockner,,ja
 25.01.2014,53,,,Staubsauger,Kabelbruch,ja
 25.01.2014,54,,,Mixer,Sicherung defekt,ja
@@ -91,7 +91,7 @@ datum,nummer,alter,geschlecht,geraeteart,fehlerbeschreibung,erfolgreich
 25.01.2014,62,,,Wetterstation,,ja
 25.01.2014,63,,,Laptop,W-Lan defekt,ja
 25.01.2014,64,,,Staubsauger,Kabelbruch,ja
-<<<<<<< HEAD
+<<<<<<< HEAD,,,,,,
 25.01.2014,65,,,Verstaerker,Potentiometer,ja
 25.01.2014,66,,,Lautsprecher,,ja
 25.01.2014,67,,,Ladestation,verbrand,nein
@@ -99,7 +99,7 @@ datum,nummer,alter,geschlecht,geraeteart,fehlerbeschreibung,erfolgreich
 25.01.2014,69,,,Lautsprecher,Wackelkontakt,ja
 25.01.2014,70,,,Staubsauger,Schlauch gebrochen,ja
 25.01.2014,71,,,Verstarrker,Schutzrellai dreckig,ja
-=======
+Err:510,,,,,,
 25.01.2014,65,,,Verstärker,Potentiometer,ja
 25.01.2014,66,,,Lautsprecher,,ja
 25.01.2014,67,,,Ladestation,verbrand,nein
@@ -107,7 +107,7 @@ datum,nummer,alter,geschlecht,geraeteart,fehlerbeschreibung,erfolgreich
 25.01.2014,69,,,Lautsprecher,Wackelkontakt,ja
 25.01.2014,70,,,Staubsauger,Schlauch gebrochen,ja
 25.01.2014,71,,,Verstärker,Schutzrellai dreckig,ja
->>>>>>> 48af861680629450f51780d98e482841ff6fa275
+>>>>>>> 48af861680629450f51780d98e482841ff6fa275,,,,,,
 25.01.2014,72,,,Radio,Kondensator,ja
 25.01.2014,73,,,Videorekorder,Geht nicht,nein
 29.03.2014,74,,,Fahrrad,,nein
@@ -130,11 +130,11 @@ datum,nummer,alter,geschlecht,geraeteart,fehlerbeschreibung,erfolgreich
 29.03.2014,92,,,Wasserkocher,verbrand,nein
 29.03.2014,93,,,Fernsehr,Kondensator,nein
 29.03.2014,94,,,E-Spielzeug,,nein
-<<<<<<< HEAD
+<<<<<<< HEAD,,,,,,
 29.03.2014,95,,,Fahrrad,Ruecklicht,ja
-=======
+Err:510,,,,,,
 29.03.2014,95,,,Fahrrad,Rücklicht,ja
->>>>>>> 48af861680629450f51780d98e482841ff6fa275
+>>>>>>> 48af861680629450f51780d98e482841ff6fa275,,,,,,
 29.03.2014,96,,,Wasserkocher,Heizelement defekt,nein
 29.03.2014,97,,,Fahrrad,Gangschaltung,ja
 29.03.2014,98,,,Fahrrad,Gangschaltung,ja
@@ -142,7 +142,7 @@ datum,nummer,alter,geschlecht,geraeteart,fehlerbeschreibung,erfolgreich
 29.03.2014,100,,,E-Werkzeug,Motor defekt,ja
 29.03.2014,101,,,Fahrrad,Gangschaltung,ja
 29.03.2014,102,,,Lampe,Arme abgebrochen,nein
-<<<<<<< HEAD
+<<<<<<< HEAD,,,,,,
 29.03.2014,103,,,Verstaerker,Leitung defekt,ja
 26.04.2014,104,,,Videorekorder,,ja
 29.04.2014,105,,,Radio,Kabel abgefallen,ja
@@ -152,7 +152,7 @@ datum,nummer,alter,geschlecht,geraeteart,fehlerbeschreibung,erfolgreich
 29.03.2014,109,,,Fahrrad,Reifen platt,ja
 29.03.2014,110,,,E-Werkzeug,,ja
 29.03.2014,111,,,Tonbandgeraet,Riemen defekt,nein
-=======
+Err:510,,,,,,
 29.03.2014,103,,,Verstärker,Leitung defekt,ja
 26.04.2014,104,,,Videorekorder,,ja
 29.04.2014,105,,,Radio,Kabel abgefallen,ja
@@ -162,16 +162,16 @@ datum,nummer,alter,geschlecht,geraeteart,fehlerbeschreibung,erfolgreich
 29.03.2014,109,,,Fahrrad,Reifen platt,ja
 29.03.2014,110,,,E-Werkzeug,,ja
 29.03.2014,111,,,Tonbandgerät,Riemen defekt,nein
->>>>>>> 48af861680629450f51780d98e482841ff6fa275
+>>>>>>> 48af861680629450f51780d98e482841ff6fa275,,,,,,
 29.03.2014,112,,,Kaffeevollautomat,Pumpt nicht,ja
 29.03.2014,113,,,Kassetten Spieler,Riemen dereckig,ja
 29.03.2014,114,,,Mikrowelle,Sicherung defekt,ja
 29.03.2014,115,,,Fahrrad,Bremsen,ja
-<<<<<<< HEAD
+<<<<<<< HEAD,,,,,,
 29.03.2014,116,,,Tonbandgeraet,Brummen,nein
-=======
+Err:510,,,,,,
 29.03.2014,116,,,Tonbandgerät,Brummen,nein
->>>>>>> 48af861680629450f51780d98e482841ff6fa275
+>>>>>>> 48af861680629450f51780d98e482841ff6fa275,,,,,,
 29.03.2014,117,,,Radio,Motor defekt,Ja
 29.03.2014,118,,,Uhr,Zeiger gebrochen,nein
 29.03.2014,119,,,Elektroroller,Reifen platt,ja
@@ -181,21 +181,21 @@ datum,nummer,alter,geschlecht,geraeteart,fehlerbeschreibung,erfolgreich
 29.03.2014,123,,,Bettbezug,,nein
 29.03.2014,124,,,Lampe,Kabel defekt,ja
 29.03.2014,125,,,Kassetten Spieler,Batterie leer,ja
-<<<<<<< HEAD
+<<<<<<< HEAD,,,,,,
 29.03.2014,126,,,Gitarrenstaender,loch zu klein,ja
 26.04.2014,127,,,Gitarrenstaender,Bindung gebrochen,ja
 26.04.2014,128,,,Gameboy,Tasten defekt,ja
 26.04.2014,129,,,Mixer,Schalter defekt,ja
 26.04.2014,130,,,Zitronenpresse,Feder defekt,ja
 26.04.2014,131,,,Verstaerker,Kondensator,ja
-=======
+Err:510,,,,,,
 29.03.2014,126,,,Gitarrenständer,loch zu klein,ja
 26.04.2014,127,,,Gitarrenständer,Bindung gebrochen,ja
 26.04.2014,128,,,Gameboy,Tasten defekt,ja
 26.04.2014,129,,,Mixer,Schalter defekt,ja
 26.04.2014,130,,,Zitronenpresse,Feder defekt,ja
 26.04.2014,131,,,Verstärker,Kondensator,ja
->>>>>>> 48af861680629450f51780d98e482841ff6fa275
+>>>>>>> 48af861680629450f51780d98e482841ff6fa275,,,,,,
 26.04.2014,132,,,Uhr,Feder defekt,nein
 26.04.2014,133,,,Handy,Ladebuchse defekt,ja
 26.04.2014,134,,,Netzteil,Gleichrichter defekt,nein
@@ -212,7 +212,7 @@ datum,nummer,alter,geschlecht,geraeteart,fehlerbeschreibung,erfolgreich
 26.04.2014,145,,,Handy,,nein
 26.04.2014,146,,,Kaffeevollautomat,Schalter defekt,ja
 26.04.2014,147,,,Lampe,Sicherung defekt,ja
-<<<<<<< HEAD
+<<<<<<< HEAD,,,,,,
 26.04.2014,148,,,Foehn,klappert,ja
 26.04.2014,149,,,Reiáverschluss,,nein
 26.04.2014,150,,,Tasche ,Naht genaeht,ja
@@ -224,7 +224,7 @@ datum,nummer,alter,geschlecht,geraeteart,fehlerbeschreibung,erfolgreich
 26.04.2014,156,,,Rucksack,,ja
 26.04.2014,157,,,Maus,Wackelkontakt,ja
 26.04.2014,158,,,Fahrrad,Ruecktritt,ja
-=======
+Err:510,,,,,,
 26.04.2014,148,,,Föhn,klappert,ja
 26.04.2014,149,,,Reiáverschluss,,nein
 26.04.2014,150,,,Tasche ,Naht genäht,ja
@@ -236,59 +236,59 @@ datum,nummer,alter,geschlecht,geraeteart,fehlerbeschreibung,erfolgreich
 26.04.2014,156,,,Rucksack,,ja
 26.04.2014,157,,,Maus,Wackelkontakt,ja
 26.04.2014,158,,,Fahrrad,Rücktritt,ja
->>>>>>> 48af861680629450f51780d98e482841ff6fa275
+>>>>>>> 48af861680629450f51780d98e482841ff6fa275,,,,,,
 26.04.2014,159,,,Jeanshose,loch in der hose,ja
 26.04.2014,160,,,Radio,Schalter defekt,nein
 26.04.2014,161,,,Schallplattenspieler,,nein
 26.04.2014,162,,,Toaster,,ja
 26.04.2014,163,,,CD-Spieler,Kabel gebrochen,ja
 26.04.2014,164,,,Kaffeemaschine,,nein
-<<<<<<< HEAD
+<<<<<<< HEAD,,,,,,
 24.05.2014,165,,,Foehn,Kohlen abgenutzt,ja
 24.05.2014,166,,,,Akku getauscht,ja
 24.05.2014,167,,,Videorekorder,Andrueckrolle abgenutzt,nein
 24.05.2014,168,,,Kaffeemuehle,Mahlwerk verdreckt,ja
 24.05.2014,169,,,Kaffeemuehle,auseinander gefallen,ja
-=======
+Err:510,,,,,,
 24.05.2014,165,,,Föhn,Kohlen abgenutzt,ja
 24.05.2014,166,,,,Akku getauscht,ja
 24.05.2014,167,,,Videorekorder,Andrückrolle abgenutzt,nein
 24.05.2014,168,,,Kaffeemühle,Mahlwerk verdreckt,ja
 24.05.2014,169,,,Kaffeemühle,auseinander gefallen,ja
->>>>>>> 48af861680629450f51780d98e482841ff6fa275
+>>>>>>> 48af861680629450f51780d98e482841ff6fa275,,,,,,
 24.05.2014,170,,,Toaster,,nein
 24.05.2014,171,,,Rassierer,Schalter defekt,nein
 24.05.2014,172,,,Wasserkocher,,nein
 24.05.2014,173,,,CD-Spieler,Motor defekt,nein
-<<<<<<< HEAD
+<<<<<<< HEAD,,,,,,
 24.05.2014,174,,,Verstaerker,Stecker defekt,ja
-=======
+Err:510,,,,,,
 24.05.2014,174,,,Verstärker,Stecker defekt,ja
->>>>>>> 48af861680629450f51780d98e482841ff6fa275
+>>>>>>> 48af861680629450f51780d98e482841ff6fa275,,,,,,
 24.05.2014,175,,,Kassetten Spieler,Kabel abgefallen,ja
 24.05.2014,176,,,Schallplattenspieler,Riemen defekt,ja
 24.05.2014,177,,,Kassetten Spieler,Riemen defekt,nein
 24.05.2014,178,,,Anrufbeantworter,Lautsprecher defekt,ja
-<<<<<<< HEAD
+<<<<<<< HEAD,,,,,,
 24.05.2014,179,,,Kopfhoerer,Buegel gebrochen,nein
 24.05.2014,180,,,Kopfhoerer,Kabel gebrochen,nein
 24.05.2014,181,,,Drucker,,nein
 24.05.2014,182,,,Toaster,Tasten defekt,ja
 24.05.2014,183,,,Waesche-Trockner,Platienenfehler,ja
 24.05.2014,184,,,Fahrrad,Pedal nicht gaengig,ja
-=======
+Err:510,,,,,,
 24.05.2014,179,,,Kopfhörer,Bügel gebrochen,nein
 24.05.2014,180,,,Kopfhörer,Kabel gebrochen,nein
 24.05.2014,181,,,Drucker,,nein
 24.05.2014,182,,,Toaster,Tasten defekt,ja
 24.05.2014,183,,,Wäsche-Trockner,Platienenfehler,ja
 24.05.2014,184,,,Fahrrad,Pedal nicht gängig,ja
->>>>>>> 48af861680629450f51780d98e482841ff6fa275
+>>>>>>> 48af861680629450f51780d98e482841ff6fa275,,,,,,
 24.05.2014,185,,,CD-Spieler,Potentiometer,ja
 24.05.2014,186,,,Lampe,Wackelkontakt,ja
 24.05.2014,187,,,DVD-Spieler,Wackelkontakt,ja
 24.05.2014,188,,,Kleidung,,ja
-<<<<<<< HEAD
+<<<<<<< HEAD,,,,,,
 24.05.2014,189,,,Funkschluessel,Akkutasche gebrochen,nein
 24.05.2014,190,,,Laptop,Display gebrochen,nein
 24.05.2014,191,,,Fahrrad,,nein
@@ -296,7 +296,7 @@ datum,nummer,alter,geschlecht,geraeteart,fehlerbeschreibung,erfolgreich
 24.05.2014,193,,,Fahrrad,Staender defekt,ja
 24.05.2014,194,,,Fotokamera,Display defekt,nein
 24.05.2014,195,,,Navigationsgeraet,,ja
-=======
+Err:510,,,,,,
 24.05.2014,189,,,Funkschlüssel,Akkutasche gebrochen,nein
 24.05.2014,190,,,Laptop,Display gebrochen,nein
 24.05.2014,191,,,Fahrrad,,nein
@@ -304,7 +304,7 @@ datum,nummer,alter,geschlecht,geraeteart,fehlerbeschreibung,erfolgreich
 24.05.2014,193,,,Fahrrad,Ständer defekt,ja
 24.05.2014,194,,,Fotokamera,Display defekt,nein
 24.05.2014,195,,,Navigationsgerät,,ja
->>>>>>> 48af861680629450f51780d98e482841ff6fa275
+>>>>>>> 48af861680629450f51780d98e482841ff6fa275,,,,,,
 24.05.2014,196,,,CD-Spieler,Wackelkontakt,nein
 24.05.2014,197,,,Radio,Nur Rauschen,ja
 24.05.2014,198,,,Toaster,Mechanik verklemmt,ja
@@ -434,13 +434,13 @@ datum,nummer,alter,geschlecht,geraeteart,fehlerbeschreibung,erfolgreich
 20.09.2014,323,,,Toaster,Schalter verdreckt,ja
 20.09.2014,324,,,Fahrrad,Gangschaltung,ja
 20.09.2014,325,,,CD-Spieler,Linse dreckig,ja
-<<<<<<< HEAD
+<<<<<<< HEAD,,,,,,
 20.09.2014,326,,,Luftbefeuchter,Luefter gereinigt,ja
 20.09.2014,327,,,Toaster,Kalte Loetstelle,ja
-=======
+Err:510,,,,,,
 20.09.2014,326,,,Luftbefeuchter,Lüfter gereinigt,ja
 20.09.2014,327,,,Toaster,Kalte Lötstelle,ja
->>>>>>> 48af861680629450f51780d98e482841ff6fa275
+>>>>>>> 48af861680629450f51780d98e482841ff6fa275,,,,,,
 20.09.2014,328,,,CD-Spieler,CD Verklemmt,ja
 20.09.2014,329,,,E-Werkzeug,,nein
 20.09.2014,330,,,CD-Spieler,Potentiometer,ja
@@ -698,7 +698,7 @@ datum,nummer,alter,geschlecht,geraeteart,fehlerbeschreibung,erfolgreich
 18.07.2015,582,,,Videorekorder,,ja
 18.07.2015,583,,,CD-Spieler,,ja
 18.07.2015,584,,,Mixer,,ja
-<<<<<<< HEAD
+<<<<<<< HEAD,,,,,,
 05.09.2015,585,,,Radio,Gleichrichter defekt,ja
 05.09.2015,586,,,Staubsauger,Kabel defekt,ja
 05.09.2015,587,,,Plattenspieler,,nein
@@ -771,5 +771,31 @@ datum,nummer,alter,geschlecht,geraeteart,fehlerbeschreibung,erfolgreich
 28.11.2015,654,,,Lampe,Stecker defekt,ja
 28.11.2015,655,,,Lampe,,nein
 28.11.2015,656,,,DVD-Spieler,Laufwerk defekt,nein
-=======
->>>>>>> 48af861680629450f51780d98e482841ff6fa275
+23.01.16,657,,,Kassetten Spieler,Köpfe defekt,nein
+,658,,,Küchengerät,Schalter defekt,ja
+,659,,,Lampe,defekt,ja
+,660,,,Kamera ,Blitz defekt,ja
+,661,,,Kamera ,Linse dreckig,nein
+,662,,,Staubsauger,dreckig,ja
+,663,,,Verstaerker,kontakt probleme,ja
+,664,,,DVD-Spieler,,nein
+,665,,,Verstaerker,,nein
+,666,,,Radio,Stecker defekt,ja
+,667,,,Brotmaschine,Riemen,ja
+,668,,,Küchengerät,Falsch eingestellt,ja
+,669,,,Nähmaschine,Nadel falsch eingestellt,ja
+,670,,,Mixer,Temperaturschalter defekt,ja
+,671,,,Toaster,,nein
+,672,,,Plattenspieler,Andrückrolle abgenutzt,ja
+,673,,,Videorekorder,,nein
+,674,,,Lampe,Leitung defekt,ja
+,675,,,Verstaerker,Sicherung defekt,ja
+,676,,,Funkgerät,Akku defekt,ja
+,677,,,Kaffeemaschine,,ja
+,678,,,Bügeleisen,,ja
+,679,,,Ladegerät,,ja
+,680,,,Fernsehr,,ja
+,681,,,Gartengerät,,nein
+,682,,,Kaffeemaschine,,ja
+,683,,,Videorekorder,Federdefekt,ja
+,684,,,Notebook,,nein
