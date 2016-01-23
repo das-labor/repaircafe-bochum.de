@@ -8,6 +8,6 @@ Trotz des kalten Wetters war das Interesse an der Reparatur liebgewonnener Gerä
 
 ![img1](/assets/pictures/2016-januar-01.jpg)
 ![img2](/assets/pictures/2016-januar-02.jpg)
-![img3](/assets/pictures/2016-januar-02.jpg)
+![img3](/assets/pictures/2016-januar-03.jpg)
 ![img4](/assets/pictures/2016-januar-04.jpg)
 
