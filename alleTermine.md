@@ -19,20 +19,20 @@ Terminübersicht
 
 Wohnzimmer Alsenstraße e.V.
 ---------------------------
-Alsenstraße 27 // 44789 Bochum
-repaircafe@das-labor.org
+Alsenstraße 27 // 44789 Bochum<br>
+repaircafe@das-labor.org<br>
 
 
 Labor e.V.
 ----------
-Alleestraße 50
-44793 Bochum
-repaircafe@das-labor.org
+Alleestraße 50 <br>
+44793 Bochum <br>
+repaircafe@das-labor.org<br>
 
 
 Senioren-Begegnungsstätte "Haus der Caritas"
 -------------------------------------------
-Caritas-Zentrum Wattenscheid
-An der Papenburg 23
-44866 Bochum
-Telefon: 02327. 9461-26
+Caritas-Zentrum Wattenscheid <br>
+An der Papenburg 23<br>
+44866 Bochum<br>
+Telefon: 02327. 9461-26<br>
