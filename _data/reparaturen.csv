@@ -1,680 +1,746 @@
-datum,nummer,alter,geschlecht,geraeteart,fehlerbeschreibung,erfolgreich
-23.11.2013,2,,,Staubsauger,Stecker defekt,ja
-23.11.2013,4,,,Kassetten Spieler,,nein
-23.11.2013,6,,,Lampe,Kontakt verbogen,ja
-23.11.2013,7,,,Radio,Beleuchtung defekt,ja
-23.11.2013,8,,,Lampe,Wackelkontakt,ja
-23.11.2013,9,,,,,nein
-25.01.2014,10,,,E-Werkzeug,Motor defekt,ja
-23.11.2013,10,,,Verstaerker,Motor defekt,nein
-23.11.2013,11,,,Lampe,Kabel defekt,ja
-23.11.2013,12,,,Staubsauger,Schalter defekt,nein
-23.11.2013,13,,,Lampe,Wackelkontakt,ja
-23.11.2013,14,,,Elektroroller,Laed nicht,nein
-23.11.2013,15,,,Lampe,Lampenarm abgebrochen,ja
-23.11.2013,16,,,Videorekorder,Bandsalat,ja
-23.11.2013,17,,,Lampe,Wackelkontakt,ja
-23.11.2013,18,,,E-Werkzeug,Laeuft nicht,ja
-23.11.2013,19,,,Stereoanlage,CD geht nicht,ja
-23.11.2013,20,,,Buegeleisen,Kabel Poroes,ja
-20.01.2014,22,,,Schallplattenspieler,Geht nicht,nein
-20.01.2014,23,,,CD-Spieler,Linse dreckig,ja
-20.01.2014,24,,,Lampe,klappert,ja
-20.01.2014,26,,,CD-Spieler,Linse dreckig,ja
-20.01.2014,27,,,Verstaerker,Wackelkontakt,nein
-25.01.2014,28,,,Toaster,,ja
-25.01.2014,29,,,Mixer,Kondensator,ja
-25.01.2014,30,,,Sportgeraet,Kabel lose,ja
-25.01.2014,31,,,CD-Spieler,Schublade defekt,ja
-25.01.2014,32,,,Fernsehr,,nein
-25.01.2014,33,,,Messgeraet,kontakte dreckig,ja
-25.01.2014,34,,,Lederjacke,Riss im Dremel,ja
-25.01.2014,35,,,CD-Spieler,Mechanik verdreckt,ja
-25.01.2014,36,,,Radio,Skalenband,ja
-25.01.2014,37,,,Fernsehr,Display gebrochen,nein
-25.01.2014,38,,,Ladestation,Kabel defekt,ja
-25.01.2014,39,,,,Kondensator,nein
-25.01.2014,40,,,Drucker,Schalter defekt,nein
-25.01.2014,41,,,Verstaerker,Transistor defekt,ja
-25.01.2014,42,,,Radio,Kurbel abgerissen,nein
-25.01.2014,43,,,DVD-Spieler,Wackelkontakt,ja
-25.01.2014,44,,,E-Werkzeug,Motor defekt,nein
-25.01.2014,45,,,Ladestation,Kurzschluss,nein
-25.01.2014,46,,,Mixer,Motor defekt,nein
-25.01.2014,47,,,Kaffeevollautomat,Verstopft,ja
-25.01.2014,49,,,Radio,Wackelkontakt,ja
-25.01.2014,50,,,Gasgriff,keine funktion,nein
-25.01.2014,51,,,Verstarrker,,nein
-25.01.2014,51,,,Verstärker,,nein
-25.01.2014,52,,,Haartrockner,,ja
-25.01.2014,53,,,Staubsauger,Kabelbruch,ja
-25.01.2014,54,,,Mixer,Sicherung defekt,ja
-25.01.2014,55,,,,,nein
-25.01.2014,56,,,Lampe,Schalter defekt,ja
-25.01.2014,57,,,E-Werkzeug,Schalter defekt,ja
-25.01.2014,58,,,Laptop,Bildschirm defekt,nein
-25.01.2014,59,,,,,nein
-25.01.2014,60,,,Taschenlampe,Wackelkontakt,ja
-25.01.2014,61,,,Staubsauger,Saugt nicht richtig,ja
-25.01.2014,62,,,Wetterstation,,ja
-25.01.2014,63,,,Laptop,W-Lan defekt,ja
-25.01.2014,64,,,Staubsauger,Kabelbruch,ja
-25.01.2014,65,,,Verstaerker,Potentiometer,ja
-25.01.2014,66,,,Lautsprecher,,ja
-25.01.2014,67,,,Ladestation,verbrand,nein
-25.01.2014,68,,,Kopfhoerer,Wackelkontakt,ja
-25.01.2014,69,,,Lautsprecher,Wackelkontakt,ja
-25.01.2014,70,,,Staubsauger,Schlauch gebrochen,ja
-25.01.2014,71,,,Verstarrker,Schutzrellai dreckig,ja
-25.01.2014,72,,,Radio,Kondensator,ja
-25.01.2014,73,,,Videorekorder,Geht nicht,nein
-29.03.2014,74,,,Fahrrad,,nein
-29.03.2014,75,,,Lampe,Leuchtmittel,nein
-29.03.2014,76,,,Drucker,,nein
-29.03.2014,77,,,Kassetten Spieler,Antriebsriemen defekt,nein
-29.03.2014,78,,,Rassierer,,ja
-29.03.2014,79,,,Wasserkocher,,nein
-29.03.2014,80,,,Fahrrad,Gangschaltung,ja
-29.03.2014,81,,,Kassetten Spieler,Fach geht nicht auf,ja
-29.03.2014,82,,,Mixer,keine funktion,ja
-29.03.2014,83,,,Mixer,Schalter defekt,ja
-29.03.2014,84,,,Fahrrad,Platten,ja
-29.03.2014,86,,,CD-Spieler,,ja
-29.03.2014,87,,,Kassetten Spieler,,ja
-29.03.2014,88,,,Lampe,Flackert,ja
-29.03.2014,89,,,Kassetten Spieler,,ja
-29.03.2014,90,,,Lampe,,nein
-29.03.2014,91,,,Fahrrad,Platten,ja
-29.03.2014,92,,,Wasserkocher,verbrand,nein
-29.03.2014,93,,,Fernsehr,Kondensator,nein
-29.03.2014,94,,,E-Spielzeug,,nein
-29.03.2014,95,,,Fahrrad,Ruecklicht,ja
-29.03.2014,95,,,Fahrrad,Rücklicht,ja
-29.03.2014,96,,,Wasserkocher,Heizelement defekt,nein
-29.03.2014,97,,,Fahrrad,Gangschaltung,ja
-29.03.2014,98,,,Fahrrad,Gangschaltung,ja
-29.03.2014,99,,,Lampe,Fassung defekt,nein
-29.03.2014,100,,,E-Werkzeug,Motor defekt,ja
-29.03.2014,101,,,Fahrrad,Gangschaltung,ja
-29.03.2014,102,,,Lampe,Arme abgebrochen,nein
-29.03.2014,103,,,Verstaerker,Leitung defekt,ja
-26.04.2014,104,,,Videorekorder,,ja
-29.04.2014,105,,,Radio,Kabel abgefallen,ja
-29.03.2014,106,,,E-Werkzeug,Kabel defekt,nein
-29.03.2014,107,,,Trockenhaube,Endstoerkondensator,ja
-29.03.2014,108,,,Handy,Steuerknopf defekt,nein
-29.03.2014,109,,,Fahrrad,Reifen platt,ja
-29.03.2014,110,,,E-Werkzeug,,ja
-29.03.2014,111,,,Tonbandgeraet,Riemen defekt,nein
-29.03.2014,112,,,Kaffeevollautomat,Pumpt nicht,ja
-29.03.2014,113,,,Kassetten Spieler,Riemen dereckig,ja
-29.03.2014,114,,,Mikrowelle,Sicherung defekt,ja
-29.03.2014,115,,,Fahrrad,Bremsen,ja
-29.03.2014,116,,,Tonbandgerät,Brummen,nein
-29.03.2014,117,,,Radio,Motor defekt,Ja
-29.03.2014,118,,,Uhr,Zeiger gebrochen,nein
-29.03.2014,119,,,Elektroroller,Reifen platt,ja
-29.03.2014,120,,,Mixer,Wackelkontakt,ja
-29.03.2014,121,,,Jeanshose,,ja
-29.03.2014,122,,,Jeanshose,,ja
-29.03.2014,123,,,Bettbezug,,nein
-29.03.2014,124,,,Lampe,Kabel defekt,ja
-29.03.2014,125,,,Kassetten Spieler,Batterie leer,ja
-29.03.2014,126,,,Gitarrenstaender,loch zu klein,ja
-26.04.2014,127,,,Gitarrenstaender,Bindung gebrochen,ja
-26.04.2014,128,,,Gameboy,Tasten defekt,ja
-26.04.2014,129,,,Mixer,Schalter defekt,ja
-26.04.2014,130,,,Zitronenpresse,Feder defekt,ja
-26.04.2014,131,,,Verstaerker,Kondensator,ja
-26.04.2014,132,,,Uhr,Feder defekt,nein
-26.04.2014,133,,,Handy,Ladebuchse defekt,ja
-26.04.2014,134,,,Netzteil,Gleichrichter defekt,nein
-26.04.2014,135,,,Uhr,Funkuhr zeigt falsche zeit,ja
-26.04.2014,136,,,Nähmaschine,Kondensator,ja
-26.04.2014,137,,,Fernsehr,,nein
-26.04.2014,138,,,Tacker,,ja
-26.04.2014,139,,,Laptop,Laufwerk defekt,nein
-26.04.2014,140,,,,,nein
-26.04.2014,141,,,CD-Spieler,Motor defekt,ja
-26.04.2014,142,,,Laptop,Startet nicht,nein
-26.04.2014,143,,,Laptop,Startet nicht,nein
-26.04.2014,144,,,Fernsehr,Kondensator,ja
-26.04.2014,145,,,Handy,,nein
-26.04.2014,146,,,Kaffeevollautomat,Schalter defekt,ja
-26.04.2014,147,,,Lampe,Sicherung defekt,ja
-26.04.2014,148,,,Foehn,klappert,ja
-26.04.2014,149,,,Reisverschluss,,nein
-26.04.2014,150,,,Tasche ,Naht genaeht,ja
-26.04.2014,151,,,Kopfhoerer,Kabelbruch,ja
-26.04.2014,152,,,Fahrrad,Platten,ja
-26.04.2014,153,,,Fahrrad,Platten,ja
-26.04.2014,154,,,Fahrrad,Lampe defekt,ja
-26.04.2014,155,,,Buegeleisen,Verkalkt,nein
-26.04.2014,156,,,Rucksack,,ja
-26.04.2014,157,,,Maus,Wackelkontakt,ja
-26.04.2014,158,,,Fahrrad,Ruecktritt,ja
-26.04.2014,159,,,Jeanshose,loch in der hose,ja
-26.04.2014,160,,,Radio,Schalter defekt,nein
-26.04.2014,161,,,Schallplattenspieler,,nein
-26.04.2014,162,,,Toaster,,ja
-26.04.2014,163,,,CD-Spieler,Kabel gebrochen,ja
-26.04.2014,164,,,Kaffeemaschine,,nein
-24.05.2014,165,,,Foehn,Kohlen abgenutzt,ja
-24.05.2014,166,,,,Akku getauscht,ja
-24.05.2014,167,,,Videorekorder,Andrueckrolle abgenutzt,nein
-24.05.2014,168,,,Kaffeemuehle,Mahlwerk verdreckt,ja
-24.05.2014,169,,,Kaffeemuehle,auseinander gefallen,ja
-24.05.2014,170,,,Toaster,,nein
-24.05.2014,171,,,Rassierer,Schalter defekt,nein
-24.05.2014,172,,,Wasserkocher,,nein
-24.05.2014,173,,,CD-Spieler,Motor defekt,nein
-24.05.2014,174,,,Verstaerker,Stecker defekt,ja
-24.05.2014,175,,,Kassetten Spieler,Kabel abgefallen,ja
-24.05.2014,176,,,Schallplattenspieler,Riemen defekt,ja
-24.05.2014,177,,,Kassetten Spieler,Riemen defekt,nein
-24.05.2014,178,,,Anrufbeantworter,Lautsprecher defekt,ja
-24.05.2014,179,,,Kopfhoerer,Buegel gebrochen,nein
-24.05.2014,180,,,Kopfhoerer,Kabel gebrochen,nein
-24.05.2014,181,,,Drucker,,nein
-24.05.2014,182,,,Toaster,Tasten defekt,ja
-24.05.2014,183,,,Waesche-Trockner,Platienenfehler,ja
-24.05.2014,184,,,Fahrrad,Pedal nicht gaengig,ja
-24.05.2014,185,,,CD-Spieler,Potentiometer,ja
-24.05.2014,186,,,Lampe,Wackelkontakt,ja
-24.05.2014,187,,,DVD-Spieler,Wackelkontakt,ja
-24.05.2014,188,,,Kleidung,,ja
-24.05.2014,189,,,Funkschluessel,Akkutasche gebrochen,nein
-24.05.2014,190,,,Laptop,Display gebrochen,nein
-24.05.2014,191,,,Fahrrad,,nein
-24.05.2014,192,,,Lampe,Stecker defekt,ja
-24.05.2014,193,,,Fahrrad,Staender defekt,ja
-24.05.2014,194,,,Fotokamera,Display defekt,nein
-24.05.2014,195,,,Navigationsgeraet,,ja
-24.05.2014,196,,,CD-Spieler,Wackelkontakt,nein
-24.05.2014,197,,,Radio,Nur Rauschen,ja
-24.05.2014,198,,,Toaster,Mechanik verklemmt,ja
-24.05.2014,199,,,Laptop,Stromversorgung,nein
-24.05.2014,200,,,Kaffeemaschine,Magnetschalter,ja
-24.05.2014,201,,,Fahrrad,Bremsen,ja
-24.05.2014,202,,,Lampe,Schalter defekt,ja
-24.05.2014,203,,,Fahrrad,Gangschaltung,ja
-24.05.2014,204,,,Kleidung,gerissen,ja
-24.05.2014,205,,,Fahrrad,,nein
-24.05.2014,206,,,CD-Spieler,Rauscht,ja
-24.05.2014,207,,,Kleidung,,ja
-24.05.2014,208,,,Fahrrad,,ja
-24.05.2014,209,,,CD-Spieler,Linse dreckig,ja
-24.05.2014,210,,,Schallplattenspieler,Riemen defekt,ja
-24.05.2014,211,,,Fahrrad,,ja
-24.05.2014,212,,,Fernsehr,Spule nachgelötet,ja
-24.05.2014,213,,,Fernsehr,Kein Bild,nein
-24.05.2014,214,,,Wasserkocher,nicht alle teile mitgebracht,nein
-24.05.2014,215,,,Bügeleisen,Kontakt verdreckt,ja
-24.05.2014,216,,,Fahrrad,Bremsen,ja
-24.05.2014,217,,,Fahrrad,Bremsen,ja
-24.05.2014,218,,,Fahrrad,Sattelgestänge klemmt,ja
-24.05.2014,219,,,Lampe,Schalter defekt,nein
-14.06.2014,220,,,CD-Spieler,,nein
-14.06.2014,221,,,E-Spielzeug,,ja
-14.06.2014,222,,,Mikrowelle,,nein
-14.06.2014,223,,,Beamer,Alles nachgelötet,nein
-14.06.2014,224,,,Kleidung,Knopf ab,ja
-14.06.2014,225,,,Kleidung,Mütze ab,ja
-14.06.2014,226,,,CD-Spieler,Motor defekt,nein
-14.06.2014,227,,,Drucker,Papiereinzug defekt,nein
-14.06.2014,228,,,Kassetten Spieler,,nein
-14.06.2014,229,,,Kleidung,Tasche,ja
-14.06.2014,230,,,Radio,Lautsprecher defekt,ja
-14.06.2014,231,,,CD-Spieler,,nein
-14.06.2014,232,,,CD-Spieler,,nein
-14.06.2014,233,,,Lampe,Kontakt defekt,ja
-14.06.2014,234,,,Kopfhörer,Kabelbruch,ja
-14.06.2014,235,,,Fotokamera,Getriebe defekt,nein
-14.06.2014,236,,,Navigationsgerät,Stecker defekt,nein
-14.06.2014,237,,,Verstärker,Kalte Lötstelle,ja
-14.06.2014,238,,,CD-Spieler,,nein
-14.06.2014,239,,,Lautsprecher,Frequensweiche gebrochen,ja
-26.07.2014,240,,,E-Werkzeug,Kabel gebrochen,ja
-26.07.2014,241,,,CD-Spieler,,ja
-26.07.2014,242,,,Fotokamera,Halterung abgebrochen,ja
-26.07.2014,243,,,Kopfhörer,Kabelbruch,ja
-26.07.2014,244,,,Fotokamera,kontakte dreckig,ja
-26.07.2014,245,,,Kaffeemaschine,Siebträger verbogen,ja
-26.07.2014,246,,,Blutdruckmessgerät,Batterien ausgelaufen,ja
-26.07.2014,247,,,Drucker,Einzugsrolle,ja
-26.07.2014,248,,,Fahrrad,Tasche,ja
-26.07.2014,249,,,Fernbedienung,,ja
-26.07.2014,250,,,Drucker,,nein
-26.07.2014,251,,,Toaster,Verschmutzt,ja
-26.07.2014,252,,,Radio,Schalter defekt,ja
-26.07.2014,253,,,E-Werkzeug,,ja
-26.07.2014,254,,,Navigationsgerät,,ja
-26.07.2014,255,,,Fernsehr,,nein
-26.07.2014,256,,,Oberfräse,,ja
-26.07.2014,257,,,Videorekorder,,nein
-26.07.2014,258,,,Laptop,Dateisystem defekt,ja
-26.07.2014,259,,,Kaffeemaschine,Wackelkontakt,ja
-26.07.2014,260,,,Kaffeemaschine,Heizelement defekt,nein
-26.07.2014,261,,,Mixer,Dichtung defekt,ja
-26.07.2014,262,,,Tonbandgerät,Riemen defekt,ja
-26.07.2014,263,,,Navigationsgerät,Stecker defekt,ja
-26.07.2014,264,,,Fernsehr,Verstärker macht kurzschluss,ja
-26.07.2014,265,,,Fernsehr,Mainboard defekt,nein
-26.07.2014,266,,,Verlängerungskabel,,ja
-26.07.2014,267,,,DVD-Spieler,Fach geht nicht auf,ja
-26.07.2014,268,,,Faxgerät,,ja
-26.07.2014,269,,,,,ja
-26.07.2014,270,,,Radio,,ja
-26.07.2014,271,,,Netzteil,,ja
-26.07.2014,272,,,Roller,Lenker defekt,nein
-26.07.2014,273,,,E-Grill,Erdschluss,nein
-26.07.2014,274,,,Mixer,kontakte dreckig,ja
-26.07.2014,275,,,Wasserkocher,Kabel abgefallen,ja
-26.07.2014,276,,,E-Zahnbürste,Akku defekt,nein
-26.07.2014,277,,,Ventilator,Motor defekt,ja
-26.07.2014,278,,,Herd,Schalter defekt,nein
-26.07.2014,279,,,MP3-Player,,ja
-26.07.2014,280,,,Verstärker,Transistor defekt,nein
-26.07.2014,281,,,Computer,Leitung defekt,nein
-26.07.2014,282,,,Mixer,Kabelbruch,ja
-26.07.2014,283,,,Telefon,Wasserschaden,ja
-26.07.2014,284,,,Laptop,Software neu installiert,ja
-26.07.2014,285,,,Rassierer,Akkus defekt,nein
-26.07.2014,286,,,Laptop,Langsames internet,ja
-20.09.2014,287,,,Kleidung,Mantel,ja
-20.09.2014,288,,,Mixer,Rührwerkt,nein
-20.09.2014,289,,,Navigationsgerät,,ja
-20.09.2014,290,,,Klingel,geölt,ja
-20.09.2014,291,,,Radio,Kabel abgefallen,ja
-20.09.2014,292,,,Kaffeemaschine,,ja
-20.09.2014,293,,,Laptop,Festplatte defekt,nein
-20.09.2014,294,,,Radio,kein Ton,nein
-20.09.2014,295,,,Drucker,Edelstein im Drucker,nein
-20.09.2014,296,,,Tonbandgerät,Riemen defekt,nein
-20.09.2014,297,,,CD-Spieler,Leaser zu weit weg von CD,ja
-20.09.2014,298,,,CD-Spieler,Fach geht nicht auf,ja
-20.09.2014,299,,,Videorekorder,,nein
-20.09.2014,301,,,CD-Spieler,,nein
-20.09.2014,302,,,Mixer,Schalter defekt,ja
-20.09.2014,303,,,Toaster,Heizelement defekt,nein
-20.09.2014,304,,,Lampe,,nein
-20.09.2014,305,,,Verstärker,,nein
-20.09.2014,306,,,E-Werkzeug,Wackelkontakt,ja
-20.09.2014,307,,,CD-Spieler,Linse dreckig,ja
-20.09.2014,308,,,Staubsauger,Kabelbruch,ja
-20.09.2014,309,,,Tonbandgerät,Riemen defekt,nein
-20.09.2014,310,,,Radio,Kondensator,nein
-20.09.2014,311,,,Kaffeevollautomat,,nein
-20.09.2014,312,,,CD-Spieler,,nein
-20.09.2014,313,,,CD-Spieler,nicht zu öffnen,nein
-20.09.2014,314,,,Lampe,Schalter defekt,ja
-20.09.2014,315,,,Reciever,Display beleuchtung ,nein
-20.09.2014,316,,,Kassetten Spieler,,ja
-20.09.2014,317,,,Fahrrad,Gangschaltung,nein
-20.09.2014,318,,,Lampe,Wackelkontakt,ja
-20.09.2014,319,,,Radio,Motor defekt,nein
-20.09.2014,320,,,CD-Spieler,,ja
-20.09.2014,321,,,Uhr,,nein
-20.09.2014,322,,,CD-Spieler,,nein
-20.09.2014,323,,,Toaster,Schalter verdreckt,ja
-20.09.2014,324,,,Fahrrad,Gangschaltung,ja
-20.09.2014,325,,,CD-Spieler,Linse dreckig,ja
-20.09.2014,326,,,Luftbefeuchter,Luefter gereinigt,ja
-20.09.2014,327,,,Toaster,Kalte Loetstelle,ja
-20.09.2014,328,,,CD-Spieler,CD Verklemmt,ja
-20.09.2014,329,,,E-Werkzeug,,nein
-20.09.2014,330,,,CD-Spieler,Potentiometer,ja
-20.09.2014,331,,,Kaffeemaschine,Schalter defekt,ja
-20.09.2014,332,,,Uhr,,ja
-20.09.2014,333,,,Rassierer,Kabel abgefallen,ja
-20.09.2014,334,,,Netzteil,,ja
-20.09.2014,335,,,Kaffeevollautomat,Display gerissen,nein
-20.09.2014,336,,,Nähmaschine,Läuft nicht mit voller leistung,nein
-20.09.2014,336,,,Kaffeemaschine,Heizelement defekt,nein
-20.09.2014,337,,,Fernsehr,Verstärker getauscht,ja
-22.11.2014,338,,,Fahrrad,Kette abgesprungen,ja
-22.11.2014,339,,,Kassetten Spieler,Getriebe defekt,nein
-22.11.2014,340,,,Kaffeevollautomat,Ausrufezeichen,nein
-22.11.2014,341,,,Kassetten Spieler,Kopf verdreckt,ja
-22.11.2014,342,,,Fernsehr,,nein
-22.11.2014,343,,,DVD-Spieler,Linse dreckig,ja
-22.11.2014,344,,,Fahrrad,Gangschaltung,nein
-22.11.2014,345,,,Laptop,Ladeelektronik defekt,nein
-22.11.2014,346,,,Kopfhörer,Kabelbruch,ja
-22.11.2014,347,,,Fotokamera,Error,nein
-22.11.2014,348,,,Verstärker,Krazende Potis,ja
-22.11.2014,349,,,Kaffeevollautomat,Sensor und Pumpe defekt,ja
-22.11.2014,350,,,Radio,Resete notwendig,ja
-22.11.2014,351,,,Fahrrad,Lampe,ja
-22.11.2014,352,,,Navigationsgerät,,ja
-22.11.2014,353,,,Nähmaschine,Fuápedal defekt,nein
-22.11.2014,354,,,Tonbandgerät,Riemen defekt,ja
-22.11.2014,355,,,Videorekorder,,nein
-22.11.2014,356,,,Videorekorder,Verbogene mechanik,nein
-22.11.2014,357,,,Kassetten Spieler,,nein
-22.11.2014,358,,,Kassetten Spieler,Reimen defekt,ja
-22.11.2014,359,,,Fotokamera,,nein
-22.11.2014,360,,,Projektor,Lampenkontakte gereinigt,ja
-22.11.2014,361,,,Lampe,Wackelkontakt,ja
-22.11.2014,362,,,Festplatte,kein fehler,ja
-22.11.2014,363,,,Drucker,,nein
-22.11.2014,364,,,CD-Spieler,Linse dreckig,ja
-22.11.2014,365,,,Laptop,Buchse nachgelötet,ja
-22.11.2014,366,,,E-Werkzeug,Lagerschaden,ja
-22.11.2014,367,,,Fahrrad,Gangschaltung,nein
-22.11.2014,368,,,Kaffeevollautomat,Mahlwerk verdreckt,nein
-22.11.2014,369,,,Waffeleisen,Stecker defekt,ja
-22.11.2014,370,,,Navigationsgerät,Netzteil defekt,ja
-22.11.2014,371,,,Poolsteuerung,Kondensator,ja
-22.11.2014,372,,,Radio,,nein
-22.11.2014,373,,,Kaffeemaschine,Heizelement defekt,nein
-22.11.2014,374,,,Wäsche-Trockner,nicht vorort,nein
-22.11.2014,375,,,Rassierer,,ja
-17.01.2015,376,,,KFZ- Steckdose,Ladegerät defekt,nein
-17.01.2015,377,,,Navigationsgerät,Buchse defekt,nein
-17.01.2015,378,,,Plattenspieler,Stecker defekt,ja
-17.01.2015,379,,,Filmprojektor,Lampenfassung defekt,nein
-17.01.2015,380,,,Radio,Drossel defekt,ja
-17.01.2015,381,,,Drucker,Sicherung defekt,ja
-17.01.2015,382,,,Staubsauger,,nein
-17.01.2015,383,,,Rassierer,Akku defekt,nein
-17.01.2015,384,,,Microwelle,wird aus sicherheit nicht repariert,nein
-17.01.2015,385,,,Microwelle,wird aus sicherheit nicht repariert,nein
-17.01.2015,386,,,PC,Kondensator,nein
-17.01.2015,387,,,Filmprojektor,riemen zu locker,ja
-17.01.2015,388,,,Radio,Uhrzeit stellt sich manchmal um,nein
-17.01.2015,389,,,CD-Spieler,,nein
-17.01.2015,390,,,Radio,Schalter defekt,ja
-17.01.2015,391,,,Kaffeemaschine,Erdschluss,nein
-17.01.2015,392,,,Radio,Display defekt,ja
-17.01.2015,393,,,Staubsauger,Kabel defekt,ja
-17.01.2015,394,,,Nähmaschine,Fadenführung defekt,nein
-17.01.2015,395,,,Kaffeemaschine,Heizelement defekt,nein
-17.01.2015,396,,,Deckenlampe,einzelne LEDs defekt,ja
-17.01.2015,397,,,Kaffeemaschine,Temperaturschalter defekt,ja
-17.01.2015,398,,,Eierkocher,Kabelbruch,ja
-17.01.2015,399,,,Wasserkocher,Schalter defekt,ja
-17.01.2015,400,,,Küchengerät,Schalter defekt,nein
-17.01.2015,401,,,Kaffeemaschine,Heizelement defekt,nein
-17.01.2015,402,,,Lampe,,nein
-17.01.2015,403,,,Tischleuchte,Fassung defekt,ja
-17.01.2015,404,,,Staubsauger,Schalter defekt,nein
-17.01.2015,405,,,Radio,Linse dreckig,ja
-17.01.2015,406,,,Kaffeevollautomat,Brühgruppe gereinigt,ja
-17.01.2015,407,,,Kassetten Spieler,Riemen defekt,ja
-17.01.2015,408,,,Laptop,Bootet nicht,ja
-17.01.2015,409,,,CD-Spieler,CD Verklemmt,ja
-17.01.2015,410,,,Fernsehr,Kein Bild,nein
-17.01.2015,411,,,CD-Spieler,schalter nicht wechselbar,nein
-17.01.2015,412,,,Lampe,Dimmer defekt,ja
-17.01.2015,413,,,DVD-Spieler,DVD Verklemmt,ja
-17.01.2015,414,,,LED Lampe,Touchplatine defekt,nein
-17.01.2015,415,,,Fahrrad,Bremse gerissen,ja
-17.01.2015,416,,,Laptop,Startet nicht,nein
-17.01.2015,417,,,CD-Spieler,Fach geht nicht auf,ja
-17.01.2015,418,,,Staubsauger,Katzenhaare entfernt,ja
-17.01.2015,419,,,Kaffeemaschine,Ovalschrauben konnten nicht geöffnet werden,nein
-17.01.2015,420,,,Laptop,Anleitung fehlt,ja
-17.01.2015,421,,,Steckerleiste,Schalter defekt,nein
-17.01.2015,422,,,E-Werkzeug,Schalter defekt,nein
-17.01.2015,423,,,Bildschirm,SNT Defekt,nein
-17.01.2015,424,,,CD-Spieler,,ja
-17.01.2015,425,,,DVD-Spieler,Kurzschluss,nein
-17.01.2015,426,,,Radio,Geht nicht,nein
-17.01.2015,427,,,Staubsauger,Motor defekt,nein
-17.01.2015,428,,,Rechenmaschiene,Antrieb defekt,nein
-17.01.2015,429,,,Zigaretten Spieluhr,auseinander gefallen,ja
-17.01.2015,430,,,Mercedes Schreiben,,ja
-17.01.2015,431,,,Lampe,Gleichrichter defekt,nein
-17.01.2015,432,,,Fernsehr,Hat Streifen,nein
-17.01.2015,433,,,Munddusche,Undicht,nein
-17.01.2015,434,,,TCM Datenbank,,nein
-17.01.2015,435,,,Drucker,Papierstau,nein
-17.01.2015,436,,,Kaffeemaschine,Wasserschaden,ja
-17.01.2015,437,,,Alarmanlage,Kurzschluss,nein
-21.03.2015,438,,,Videorekorder,Auswurf defekt,ja
-21.03.2015,439,,,Kaffeemaschine,Heizelement defekt,ja
-21.03.2015,440,,,Fernsehr,Kondensator,ja
-21.03.2015,441,,,Brotmaschine,,nein
-21.03.2015,442,,,Lampe,Transistor defekt,ja
-21.03.2015,443,,,Kinderspielzeug,Dauerton,ja
-21.03.2015,444,,,Lampe,Dimmer defekt,nein
-21.03.2015,445,,,CD-Spieler,Riemen,ja
-21.03.2015,446,,,Kaffeemaschine,Kalkprogramm beendet nicht,ja
-21.03.2015,447,,,Kassetten Spieler,Riemen,ja
-21.03.2015,448,,,Fernsehr,Farbe fehlt,nein
-21.03.2015,449,,,Föhn,Heizelement defekt,nein
-21.03.2015,450,,,Föhn,Kabel defekt,ja
-21.03.2015,451,,,Verstärker,Sicherung defekt,ja
-21.03.2015,452,,,Steuergerät,Schalter defekt,nein
-21.03.2015,453,,,Staubsauger,Kohlen abgenutzt,nein
-21.03.2015,454,,,Körperwage,Fehler nicht gefunden,nein
-21.03.2015,455,,,Kassetten Spieler,Riemen ,nein
-21.03.2015,456,,,Rassierer,Akku defekt,ja
-21.03.2015,457,,,Fernsehr,Kalte Lötstelle,ja
-21.03.2015,458,,,Kaffeemaschine,Tasten defekt,ja
-21.03.2015,459,,,Verstärker,Wackelkontakt,ja
-21.03.2015,460,,,Plattenspieler,Tonabnehmer defekt,nein
-21.03.2015,461,,,Telefon,Kabel defekt,ja
-21.03.2015,462,,,Fernsehr,Tasten defekt,ja
-21.03.2015,463,,,Staubsauger,Motor defekt,ja
-21.03.2015,464,,,Staubsauger,Filter Verstopft,ja
-21.03.2015,465,,,Fernsehr,Bild zu breit,ja
-21.03.2015,466,,,Radio,Display defekt,nein
-21.03.2015,467,,,CD-Spieler,Tasten defekt,ja
-21.03.2015,468,,,Videorekorder,Kurzschluss,nein
-21.03.2015,469,,,Lampe,kein Schalter,ja
-21.03.2015,470,,,Zahnbürste,IC defekt,nein
-21.03.2015,471,,,Handy,Display defekt,nein
-21.03.2015,472,,,Wage,Kabel lose,ja
-21.03.2015,473,,,Staubsauger,Kein kabel,ja
-21.03.2015,474,,,Lichterkette,Wackelkontakt,ja
-21.03.2015,475,,,Taschenlampe,Schalter defekt,ja
-21.03.2015,476,,,CD-Spieler,Linse dreckig,ja
-21.03.2015,477,,,Küchengerät,Getriebe defekt,nein
-21.03.2015,478,,,Lampe,Leuchtmittel,ja
-30.05.2015,479,,,Nähmaschine,Spule defekt,ja
-30.05.2015,480,,,Projektor,Riemen defekt,ja
-30.05.2015,481,,,Kassetten Spieler,Mechanik verklemmt,ja
-30.05.2015,482,,,Tonbandgerät,Riemen defekt,ja
-30.05.2015,483,,,Kassetten Spieler,Schalter defekt,ja
-30.05.2015,484,,,Verstärker,Spannungsregler defekt,ja
-30.05.2015,485,,,CD-Spieler,Motor defekt,nein
-30.05.2015,486,,,Kaffeemaschine,Heizelement defekt,nein
-30.05.2015,487,,,Toaster,Magnet defekt,nein
-30.05.2015,488,,,Nähmaschine,Nadel bewegt sich nicht,ja
-30.05.2015,489,,,Ladegerät,Trafo defekt,nein
-30.05.2015,490,,,CD-Spieler,Motor defekt,nein
-30.05.2015,491,,,Kamera ,Mechanik defekt,nein
-30.05.2015,492,,,Fahrrad,Kabelzug defekt,ja
-30.05.2015,493,,,Espressomaschine,Entkalkung,ja
-30.05.2015,494,,,Kaffeevollautomat,allgemeine Störunf,nein
-30.05.2015,495,,,Kassetten Spieler,Kein Bild,ja
-30.05.2015,496,,,DVD-Spieler,Schalter defekt,ja
-30.05.2015,497,,,Fernsehr,Kein Bild,nein
-30.05.2015,498,,,Radio,Lautstärkeregler defekt,ja
-30.05.2015,499,,,Videorekorder,Riemen plus weitere Defekte,nein
-30.05.2015,500,,,Verstärker,Sicherung defekt,ja
-30.05.2015,501,,,CD-Spieler,Riemen defekt,ja
-30.05.2015,502,,,Staubsauger,Leitung defekt,ja
-30.05.2015,503,,,Stromsuchgerät,Deuerpiepen,nein
-30.05.2015,504,,,Bügeleisen,Kurzschluss,ja
-30.05.2015,505,,,DVD-Spieler,Platienenfehler,nein
-30.05.2015,506,,,Fernsehr,Kondensator,ja
-30.05.2015,507,,,Kamera ,Mechanik defekt,nein
-30.05.2015,508,,,Uhr,Mechanik defekt,nein
-30.05.2015,509,,,Verstärker,Sicherung defekt,ja
-30.05.2015,510,,,Kassetten Spieler,Mechanik defekt,ja
-30.05.2015,511,,,Drucker,Scannt nicht,nein
-30.05.2015,512,,,Kamera ,,ja
-30.05.2015,513,,,Mixer,Motor defekt,nein
-30.05.2015,514,,,Kassetten Spieler,Kein Bild,nein
-30.05.2015,515,,,Mixer,defekte kohlebürste,nein
-30.05.2015,516,,,Nähmaschine,Niete neu gemacht werden,ja
-30.05.2015,517,,,Fernsehr,Kabelbuchse anlöten,ja
-30.05.2015,518,,,Fernsehr,Kondensator,ja
-30.05.2015,519,,,Kassetten Spieler,Antrieb defekt,nein
-30.05.2015,520,,,Kassetten Spieler,Falsch eingestellt,ja
-30.05.2015,521,,,CD-Spieler,Linse dreckig,ja
-30.05.2015,522,,,Nähmaschine,neu geölt,ja
-30.05.2015,523,,,Fernsehr,,nein
-30.05.2015,524,,,Lampe,Kabel+ fassung defekt,nein
-30.05.2015,525,,,Kassetten Spieler,Schalter und Zahnräder defekt,nein
-30.05.2015,526,,,Mixer,Motor defekt,nein
-30.05.2015,527,,,Mixer,,nein
-30.05.2015,528,,,Mixer,Motor defekt,nein
-30.05.2015,529,,,Winkelschleifer,Entstörkonensator defekt,nein
-30.05.2015,530,,,Fahrrad,Schaltung defekt,ja
-30.05.2015,531,,,Fahrrad,kaputt,ja
-30.05.2015,532,,,Fahrrad,Beleuchtung defekt,ja
-30.05.2015,533,,,Kassetten Spieler,Kein Bild,ja
-30.05.2015,534,,,Kaffeevollautomat,Fehler nicht gefunden,nein
-30.05.2015,535,,,E Spielzeug,,nein
-30.05.2015,536,,,Drucker,Papierstau,nein
-30.05.2015,537,,,Verstärker,Platienenfehler,nein
-30.05.2015,538,,,CD-Spieler,Motor defekt,ja
-30.05.2015,539,,,CD-Spieler,Leaser zu weit weg von CD,nein
-30.05.2015,540,,,Nähmaschine,,nein
-12.06.2015,541,,,Bohrmaschine,,ja
-12.06.2015,542,,,Kabel,,ja
-12.06.2015,543,,,DVD-Spieler,,nein
-18.07.2015,544,,,Radio,,ja
-18.07.2015,545,,,Nähmaschine,,nein
-18.07.2015,546,,,Bohrmaschine,,ja
-18.07.2015,547,,,Kassetten Spieler,,ja
-18.07.2015,548,,,Verstärker,,nein
-18.07.2015,549,,,Radio,,nein
-18.07.2015,550,,,Verstärker,,ja
-18.07.2015,551,,,Camcorder,,nein
-18.07.2015,552,,,Tonbandgerät,,ja
-18.07.2015,553,,,Kaffeemühle,,ja
-18.07.2015,554,,,DVD-Spieler,,ja
-18.07.2015,555,,,Mixer,,ja
-18.07.2015,556,,,Lampe,,ja
-18.07.2015,557,,,Ladegerät,,ja
-18.07.2015,558,,,Laptop,,ja
-18.07.2015,559,,,Staubsauger,,nein
-18.07.2015,560,,,Stromsuchgerät,,nein
-18.07.2015,561,,,CD-Spieler,,ja
-18.07.2015,562,,,Fahrrad,,nein
-18.07.2015,563,,,Staubsauger,,ja
-18.07.2015,564,,,DVD-Spieler,,nein
-18.07.2015,565,,,E-Grill,,ja
-18.07.2015,566,,,Bohrmaschine,,ja
-18.07.2015,567,,,Lampe,,ja
-18.07.2015,568,,,Mixer,,ja
-18.07.2015,569,,,Kassetten Spieler,,ja
-18.07.2015,570,,,Laptop,,nein
-18.07.2015,571,,,Plattenspieler,,ja
-18.07.2015,572,,,Radio,,ja
-18.07.2015,573,,,Verstärker,,ja
-18.07.2015,574,,,CD-Spieler,,ja
-18.07.2015,575,,,Drucker,,ja
-18.07.2015,576,,,Kaffeemaschine,,ja
-18.07.2015,577,,,CD-Spieler,,ja
-18.07.2015,579,,,DVD-Spieler,,ja
-18.07.2015,580,,,Verstärker,,ja
-18.07.2015,581,,,Kaffeevollautomat,,ja
-18.07.2015,582,,,Videorekorder,,ja
-18.07.2015,583,,,CD-Spieler,,ja
-18.07.2015,584,,,Mixer,,ja
-05.09.2015,585,,,Radio,Gleichrichter defekt,ja
-05.09.2015,586,,,Staubsauger,Kabel defekt,ja
-05.09.2015,587,,,Plattenspieler,,nein
-05.09.2015,588,,,CD-Spieler,,nein
-05.09.2015,589,,,Plattenspieler,neuer Verstärker eingebaut,ja
-05.09.2015,590,,,Fernsehr,Platienenfehler,nein
-05.09.2015,591,,,Fernsehr,Transistor defekt,nein
-05.09.2015,592,,,DVD-Spieler,,ja
-05.09.2015,593,,,Plattenspieler,,ja
-05.09.2015,594,,,Verstaerker,,nein
-05.09.2015,595,,,Handy,,ja
-05.09.2015,596,,,Lampe,Kabel defekt,ja
-05.09.2015,597,,,Radio,Trafo defekt,nein
-05.09.2015,598,,,CD-Spieler,,ja
-05.09.2015,599,,,Verstaerker,Schalter defekt,ja
-05.09.2015,600,,,PC,,ja
-05.09.2015,601,,,Kaffeemaschine,Kondensator,ja
-05.09.2015,602,,,Zahnbürste,,nein
-28.11.2015,603,,,uhr,Motor defekt,nein
-28.11.2015,604,,,Reciever,Rellais defekt,ja
-28.11.2015,605,,,Videorekorder,,nein
-28.11.2015,606,,,Tonbandgeraet,Sicherung defekt,ja
-28.11.2015,607,,,Reciever,microcontroller defekt,nein
-28.11.2015,608,,,Verstaerker,Riemen,ja
-28.11.2015,609,,,Kaffeevollautomat,Triac defekt,nein
-28.11.2015,610,,,CD-Spieler,Riemen,ja
-28.11.2015,611,,,Küchengerät,Bauteil bestellt,nein
-28.11.2015,612,,,Taoaster,,nein
-28.11.2015,613,,,Videorekorder,Reimen defekt,nein
-28.11.2015,614,,,Verstaerker,Lautstärkeregler defekt,ja
-28.11.2015,615,,,Kaffeemaschine,Rückschlagventil,ja
-28.11.2015,616,,,Lampe,Wackelkontakt,ja
-28.11.2015,617,,,CD-Spieler,Linse dreckig,ja
-28.11.2015,618,,,Videorekorder,Gereinigt,ja
-28.11.2015,619,,,Beamer,,ja
-28.11.2015,620,,,Lampe,Kabel gebrochen,ja
-28.11.2015,621,,,Videorekorder,,ja
-28.11.2015,622,,,Laptop,Schalter defekt,ja
-28.11.2015,623,,,Faxgeraet,Mechanik defekt,ja
-28.11.2015,624,,,Zeitschaltuhr,Neuen akku eingelötet,ja
-28.11.2015,625,,,Kaffeemaschine,,ja
-28.11.2015,626,,,Videorekorder,Antrieb defekt,nein
-28.11.2015,627,,,Kassetten Spieler,,ja
-28.11.2015,628,,,Radio,Diode getausch,ja
-28.11.2015,629,,,Spielekonsole,,nein
-28.11.2015,630,,,DVD-Spieler,,ja
-28.11.2015,631,,,Lampe,Wackelkontakt,ja
-28.11.2015,632,,,Kassetten Spieler,Bedienfehler,ja
-28.11.2015,633,,,Fernsehr,Wackelkontakt,ja
-28.11.2015,634,,,Fernsehr,Ersatzteil benötigt,nein
-28.11.2015,635,,,Ofen,Heizelement defekt,ja
-28.11.2015,636,,,Bohrmaschine,Motor defekt,nein
-28.11.2015,637,,,Staubsauger,Bedienfehler,ja
-28.11.2015,638,,,Staubsauger,,ja
-28.11.2015,639,,,Lampe,,ja
-28.11.2015,640,,,Kaffeemaschine,,ja
-28.11.2015,641,,,Radio,Sicherung defekt,ja
-28.11.2015,642,,,Messgeraet,,ja
-28.11.2015,643,,,Netzteil,,nein
-28.11.2015,644,,,Spielzeug,Akku defekt,ja
-28.11.2015,645,,,Staubsauger,Wackelkontakt,ja
-28.11.2015,646,,,Navigationsgeraet,,nein
-28.11.2015,647,,,Lampe,Schalter defekt,ja
-28.11.2015,648,,,Bohrmaschine,Akku defekt,ja
-28.11.2015,649,,,Handy,,ja
-28.11.2015,650,,,Staubsauger,Motor defekt,nein
-28.11.2015,651,,,Reciever,,ja
-28.11.2015,652,,,Handy,USB buchse defekt,ja
-28.11.2015,653,,,Kühlbox,,nein
-28.11.2015,654,,,Lampe,Stecker defekt,ja
-28.11.2015,655,,,Lampe,,nein
-28.11.2015,656,,,DVD-Spieler,Laufwerk defekt,nein
-23.01.2016,657,,,Kassetten Spieler,Köpfe defekt,nein
-23.01.2016,658,,,Küchengerät,Schalter defekt,ja
-23.01.2016,659,,,Lampe,defekt,ja
-23.01.2016,660,,,Kamera ,Blitz defekt,ja
-23.01.2016,661,,,Kamera ,Linse dreckig,nein
-23.01.2016,662,,,Staubsauger,dreckig,ja
-23.01.2016,663,,,Verstaerker,kontakt probleme,ja
-23.01.2016,664,,,DVD-Spieler,,nein
-23.01.2016,665,,,Verstaerker,,nein
-23.01.2016,666,,,Radio,Stecker defekt,ja
-23.01.2016,667,,,Brotmaschine,Riemen,ja
-23.01.2016,668,,,Küchengerät,Falsch eingestellt,ja
-23.01.2016,669,,,Nähmaschine,Nadel falsch eingestellt,ja
-23.01.2016,670,,,Mixer,Temperaturschalter defekt,ja
-23.01.2016,671,,,Toaster,,nein
-23.01.2016,672,,,Plattenspieler,Andrückrolle abgenutzt,ja
-23.01.2016,673,,,Videorekorder,,nein
-23.01.2016,674,,,Lampe,Leitung defekt,ja
-23.01.2016,675,,,Verstaerker,Sicherung defekt,ja
-23.01.2016,676,,,Funkgerät,Akku defekt,ja
-23.01.2016,677,,,Kaffeemaschine,,ja
-23.01.2016,678,,,Bügeleisen,,ja
-23.01.2016,679,,,Ladegerät,,ja
-23.01.2016,680,,,Fernsehr,,ja
-23.01.2016,681,,,Gartengerät,,nein
-23.01.2016,682,,,Kaffeemaschine,,ja
-23.01.2016,683,,,Videorekorder,Federdefekt,ja
-23.01.2016,684,,,Notebook,,nein
+datum,nummer,alter,geschlecht,geraeteart,fehlerbeschreibung,erfolgreich,
+23.11.2013,2,,,Staubsauger,Stecker defekt,ja,
+23.11.2013,4,,,Kassetten Spieler,,nein,
+23.11.2013,6,,,Lampe,Kontakt verbogen,ja,
+23.11.2013,7,,,Radio,Beleuchtung defekt,ja,
+23.11.2013,8,,,Lampe,Wackelkontakt,ja,
+23.11.2013,9,,,,,nein,
+25.01.2014,10,,,E-Werkzeug,Motor defekt,ja,
+23.11.2013,10,,,Verstaerker,Motor defekt,nein,
+23.11.2013,11,,,Lampe,Kabel defekt,ja,
+23.11.2013,12,,,Staubsauger,Schalter defekt,nein,
+23.11.2013,13,,,Lampe,Wackelkontakt,ja,
+23.11.2013,14,,,Elektroroller,Laed nicht,nein,
+23.11.2013,15,,,Lampe,Lampenarm abgebrochen,ja,
+23.11.2013,16,,,Videorekorder,Bandsalat,ja,
+23.11.2013,17,,,Lampe,Wackelkontakt,ja,
+23.11.2013,18,,,E-Werkzeug,Laeuft nicht,ja,
+23.11.2013,19,,,Stereoanlage,CD geht nicht,ja,
+23.11.2013,20,,,Buegeleisen,Kabel Poroes,ja,
+20.01.2014,22,,,Schallplattenspieler,Geht nicht,nein,
+20.01.2014,23,,,CD-Spieler,Linse dreckig,ja,
+20.01.2014,24,,,Lampe,klappert,ja,
+20.01.2014,26,,,CD-Spieler,Linse dreckig,ja,
+20.01.2014,27,,,Verstaerker,Wackelkontakt,nein,
+25.01.2014,28,,,Toaster,,ja,
+25.01.2014,29,,,Mixer,Kondensator,ja,
+25.01.2014,30,,,Sportgeraet,Kabel lose,ja,
+25.01.2014,31,,,CD-Spieler,Schublade defekt,ja,
+25.01.2014,32,,,Fernsehr,,nein,
+25.01.2014,33,,,Messgeraet,kontakte dreckig,ja,
+25.01.2014,34,,,Lederjacke,Riss im Dremel,ja,
+25.01.2014,35,,,CD-Spieler,Mechanik verdreckt,ja,
+25.01.2014,36,,,Radio,Skalenband,ja,
+25.01.2014,37,,,Fernsehr,Display gebrochen,nein,
+25.01.2014,38,,,Ladestation,Kabel defekt,ja,
+25.01.2014,39,,,,Kondensator,nein,
+25.01.2014,40,,,Drucker,Schalter defekt,nein,
+25.01.2014,41,,,Verstaerker,Transistor defekt,ja,
+25.01.2014,42,,,Radio,Kurbel abgerissen,nein,
+25.01.2014,43,,,DVD-Spieler,Wackelkontakt,ja,
+25.01.2014,44,,,E-Werkzeug,Motor defekt,nein,
+25.01.2014,45,,,Ladestation,Kurzschluss,nein,
+25.01.2014,46,,,Mixer,Motor defekt,nein,
+25.01.2014,47,,,Kaffeevollautomat,Verstopft,ja,
+25.01.2014,49,,,Radio,Wackelkontakt,ja,
+25.01.2014,50,,,Gasgriff,keine funktion,nein,
+25.01.2014,51,,,Verstarrker,,nein,
+25.01.2014,51,,,Verstärker,,nein,
+25.01.2014,52,,,Haartrockner,,ja,
+25.01.2014,53,,,Staubsauger,Kabelbruch,ja,
+25.01.2014,54,,,Mixer,Sicherung defekt,ja,
+25.01.2014,55,,,,,nein,
+25.01.2014,56,,,Lampe,Schalter defekt,ja,
+25.01.2014,57,,,E-Werkzeug,Schalter defekt,ja,
+25.01.2014,58,,,Laptop,Bildschirm defekt,nein,
+25.01.2014,59,,,,,nein,
+25.01.2014,60,,,Taschenlampe,Wackelkontakt,ja,
+25.01.2014,61,,,Staubsauger,Saugt nicht richtig,ja,
+25.01.2014,62,,,Wetterstation,,ja,
+25.01.2014,63,,,Laptop,W-Lan defekt,ja,
+25.01.2014,64,,,Staubsauger,Kabelbruch,ja,
+25.01.2014,65,,,Verstaerker,Potentiometer,ja,
+25.01.2014,66,,,Lautsprecher,,ja,
+25.01.2014,67,,,Ladestation,verbrand,nein,
+25.01.2014,68,,,Kopfhoerer,Wackelkontakt,ja,
+25.01.2014,69,,,Lautsprecher,Wackelkontakt,ja,
+25.01.2014,70,,,Staubsauger,Schlauch gebrochen,ja,
+25.01.2014,71,,,Verstarrker,Schutzrellai dreckig,ja,
+25.01.2014,72,,,Radio,Kondensator,ja,
+25.01.2014,73,,,Videorekorder,Geht nicht,nein,
+29.03.2014,74,,,Fahrrad,,nein,
+29.03.2014,75,,,Lampe,Leuchtmittel,nein,
+29.03.2014,76,,,Drucker,,nein,
+29.03.2014,77,,,Kassetten Spieler,Antriebsriemen defekt,nein,
+29.03.2014,78,,,Rassierer,,ja,
+29.03.2014,79,,,Wasserkocher,,nein,
+29.03.2014,80,,,Fahrrad,Gangschaltung,ja,
+29.03.2014,81,,,Kassetten Spieler,Fach geht nicht auf,ja,
+29.03.2014,82,,,Mixer,keine funktion,ja,
+29.03.2014,83,,,Mixer,Schalter defekt,ja,
+29.03.2014,84,,,Fahrrad,Platten,ja,
+29.03.2014,86,,,CD-Spieler,,ja,
+29.03.2014,87,,,Kassetten Spieler,,ja,
+29.03.2014,88,,,Lampe,Flackert,ja,
+29.03.2014,89,,,Kassetten Spieler,,ja,
+29.03.2014,90,,,Lampe,,nein,
+29.03.2014,91,,,Fahrrad,Platten,ja,
+29.03.2014,92,,,Wasserkocher,verbrand,nein,
+29.03.2014,93,,,Fernsehr,Kondensator,nein,
+29.03.2014,94,,,E-Spielzeug,,nein,
+29.03.2014,95,,,Fahrrad,Ruecklicht,ja,
+29.03.2014,95,,,Fahrrad,Rücklicht,ja,
+29.03.2014,96,,,Wasserkocher,Heizelement defekt,nein,
+29.03.2014,97,,,Fahrrad,Gangschaltung,ja,
+29.03.2014,98,,,Fahrrad,Gangschaltung,ja,
+29.03.2014,99,,,Lampe,Fassung defekt,nein,
+29.03.2014,100,,,E-Werkzeug,Motor defekt,ja,
+29.03.2014,101,,,Fahrrad,Gangschaltung,ja,
+29.03.2014,102,,,Lampe,Arme abgebrochen,nein,
+29.03.2014,103,,,Verstaerker,Leitung defekt,ja,
+26.04.2014,104,,,Videorekorder,,ja,
+29.04.2014,105,,,Radio,Kabel abgefallen,ja,
+29.03.2014,106,,,E-Werkzeug,Kabel defekt,nein,
+29.03.2014,107,,,Trockenhaube,Endstoerkondensator,ja,
+29.03.2014,108,,,Handy,Steuerknopf defekt,nein,
+29.03.2014,109,,,Fahrrad,Reifen platt,ja,
+29.03.2014,110,,,E-Werkzeug,,ja,
+29.03.2014,111,,,Tonbandgeraet,Riemen defekt,nein,
+29.03.2014,112,,,Kaffeevollautomat,Pumpt nicht,ja,
+29.03.2014,113,,,Kassetten Spieler,Riemen dereckig,ja,
+29.03.2014,114,,,Mikrowelle,Sicherung defekt,ja,
+29.03.2014,115,,,Fahrrad,Bremsen,ja,
+29.03.2014,116,,,Tonbandgerät,Brummen,nein,
+29.03.2014,117,,,Radio,Motor defekt,Ja,
+29.03.2014,118,,,Uhr,Zeiger gebrochen,nein,
+29.03.2014,119,,,Elektroroller,Reifen platt,ja,
+29.03.2014,120,,,Mixer,Wackelkontakt,ja,
+29.03.2014,121,,,Jeanshose,,ja,
+29.03.2014,122,,,Jeanshose,,ja,
+29.03.2014,123,,,Bettbezug,,nein,
+29.03.2014,124,,,Lampe,Kabel defekt,ja,
+29.03.2014,125,,,Kassetten Spieler,Batterie leer,ja,
+29.03.2014,126,,,Gitarrenstaender,loch zu klein,ja,
+26.04.2014,127,,,Gitarrenstaender,Bindung gebrochen,ja,
+26.04.2014,128,,,Gameboy,Tasten defekt,ja,
+26.04.2014,129,,,Mixer,Schalter defekt,ja,
+26.04.2014,130,,,Zitronenpresse,Feder defekt,ja,
+26.04.2014,131,,,Verstaerker,Kondensator,ja,
+26.04.2014,132,,,Uhr,Feder defekt,nein,
+26.04.2014,133,,,Handy,Ladebuchse defekt,ja,
+26.04.2014,134,,,Netzteil,Gleichrichter defekt,nein,
+26.04.2014,135,,,Uhr,Funkuhr zeigt falsche zeit,ja,
+26.04.2014,136,,,Nähmaschine,Kondensator,ja,
+26.04.2014,137,,,Fernsehr,,nein,
+26.04.2014,138,,,Tacker,,ja,
+26.04.2014,139,,,Laptop,Laufwerk defekt,nein,
+26.04.2014,140,,,,,nein,
+26.04.2014,141,,,CD-Spieler,Motor defekt,ja,
+26.04.2014,142,,,Laptop,Startet nicht,nein,
+26.04.2014,143,,,Laptop,Startet nicht,nein,
+26.04.2014,144,,,Fernsehr,Kondensator,ja,
+26.04.2014,145,,,Handy,,nein,
+26.04.2014,146,,,Kaffeevollautomat,Schalter defekt,ja,
+26.04.2014,147,,,Lampe,Sicherung defekt,ja,
+26.04.2014,148,,,Foehn,klappert,ja,
+26.04.2014,149,,,Reisverschluss,,nein,
+26.04.2014,150,,,Tasche ,Naht genaeht,ja,
+26.04.2014,151,,,Kopfhoerer,Kabelbruch,ja,
+26.04.2014,152,,,Fahrrad,Platten,ja,
+26.04.2014,153,,,Fahrrad,Platten,ja,
+26.04.2014,154,,,Fahrrad,Lampe defekt,ja,
+26.04.2014,155,,,Buegeleisen,Verkalkt,nein,
+26.04.2014,156,,,Rucksack,,ja,
+26.04.2014,157,,,Maus,Wackelkontakt,ja,
+26.04.2014,158,,,Fahrrad,Ruecktritt,ja,
+26.04.2014,159,,,Jeanshose,loch in der hose,ja,
+26.04.2014,160,,,Radio,Schalter defekt,nein,
+26.04.2014,161,,,Schallplattenspieler,,nein,
+26.04.2014,162,,,Toaster,,ja,
+26.04.2014,163,,,CD-Spieler,Kabel gebrochen,ja,
+26.04.2014,164,,,Kaffeemaschine,,nein,
+24.05.2014,165,,,Foehn,Kohlen abgenutzt,ja,
+24.05.2014,166,,,,Akku getauscht,ja,
+24.05.2014,167,,,Videorekorder,Andrueckrolle abgenutzt,nein,
+24.05.2014,168,,,Kaffeemuehle,Mahlwerk verdreckt,ja,
+24.05.2014,169,,,Kaffeemuehle,auseinander gefallen,ja,
+24.05.2014,170,,,Toaster,,nein,
+24.05.2014,171,,,Rassierer,Schalter defekt,nein,
+24.05.2014,172,,,Wasserkocher,,nein,
+24.05.2014,173,,,CD-Spieler,Motor defekt,nein,
+24.05.2014,174,,,Verstaerker,Stecker defekt,ja,
+24.05.2014,175,,,Kassetten Spieler,Kabel abgefallen,ja,
+24.05.2014,176,,,Schallplattenspieler,Riemen defekt,ja,
+24.05.2014,177,,,Kassetten Spieler,Riemen defekt,nein,
+24.05.2014,178,,,Anrufbeantworter,Lautsprecher defekt,ja,
+24.05.2014,179,,,Kopfhoerer,Buegel gebrochen,nein,
+24.05.2014,180,,,Kopfhoerer,Kabel gebrochen,nein,
+24.05.2014,181,,,Drucker,,nein,
+24.05.2014,182,,,Toaster,Tasten defekt,ja,
+24.05.2014,183,,,Waesche-Trockner,Platienenfehler,ja,
+24.05.2014,184,,,Fahrrad,Pedal nicht gaengig,ja,
+24.05.2014,185,,,CD-Spieler,Potentiometer,ja,
+24.05.2014,186,,,Lampe,Wackelkontakt,ja,
+24.05.2014,187,,,DVD-Spieler,Wackelkontakt,ja,
+24.05.2014,188,,,Kleidung,,ja,
+24.05.2014,189,,,Funkschluessel,Akkutasche gebrochen,nein,
+24.05.2014,190,,,Laptop,Display gebrochen,nein,
+24.05.2014,191,,,Fahrrad,,nein,
+24.05.2014,192,,,Lampe,Stecker defekt,ja,
+24.05.2014,193,,,Fahrrad,Staender defekt,ja,
+24.05.2014,194,,,Fotokamera,Display defekt,nein,
+24.05.2014,195,,,Navigationsgeraet,,ja,
+24.05.2014,196,,,CD-Spieler,Wackelkontakt,nein,
+24.05.2014,197,,,Radio,Nur Rauschen,ja,
+24.05.2014,198,,,Toaster,Mechanik verklemmt,ja,
+24.05.2014,199,,,Laptop,Stromversorgung,nein,
+24.05.2014,200,,,Kaffeemaschine,Magnetschalter,ja,
+24.05.2014,201,,,Fahrrad,Bremsen,ja,
+24.05.2014,202,,,Lampe,Schalter defekt,ja,
+24.05.2014,203,,,Fahrrad,Gangschaltung,ja,
+24.05.2014,204,,,Kleidung,gerissen,ja,
+24.05.2014,205,,,Fahrrad,,nein,
+24.05.2014,206,,,CD-Spieler,Rauscht,ja,
+24.05.2014,207,,,Kleidung,,ja,
+24.05.2014,208,,,Fahrrad,,ja,
+24.05.2014,209,,,CD-Spieler,Linse dreckig,ja,
+24.05.2014,210,,,Schallplattenspieler,Riemen defekt,ja,
+24.05.2014,211,,,Fahrrad,,ja,
+24.05.2014,212,,,Fernsehr,Spule nachgelötet,ja,
+24.05.2014,213,,,Fernsehr,Kein Bild,nein,
+24.05.2014,214,,,Wasserkocher,nicht alle teile mitgebracht,nein,
+24.05.2014,215,,,Bügeleisen,Kontakt verdreckt,ja,
+24.05.2014,216,,,Fahrrad,Bremsen,ja,
+24.05.2014,217,,,Fahrrad,Bremsen,ja,
+24.05.2014,218,,,Fahrrad,Sattelgestänge klemmt,ja,
+24.05.2014,219,,,Lampe,Schalter defekt,nein,
+14.06.2014,220,,,CD-Spieler,,nein,
+14.06.2014,221,,,E-Spielzeug,,ja,
+14.06.2014,222,,,Mikrowelle,,nein,
+14.06.2014,223,,,Beamer,Alles nachgelötet,nein,
+14.06.2014,224,,,Kleidung,Knopf ab,ja,
+14.06.2014,225,,,Kleidung,Mütze ab,ja,
+14.06.2014,226,,,CD-Spieler,Motor defekt,nein,
+14.06.2014,227,,,Drucker,Papiereinzug defekt,nein,
+14.06.2014,228,,,Kassetten Spieler,,nein,
+14.06.2014,229,,,Kleidung,Tasche,ja,
+14.06.2014,230,,,Radio,Lautsprecher defekt,ja,
+14.06.2014,231,,,CD-Spieler,,nein,
+14.06.2014,232,,,CD-Spieler,,nein,
+14.06.2014,233,,,Lampe,Kontakt defekt,ja,
+14.06.2014,234,,,Kopfhörer,Kabelbruch,ja,
+14.06.2014,235,,,Fotokamera,Getriebe defekt,nein,
+14.06.2014,236,,,Navigationsgerät,Stecker defekt,nein,
+14.06.2014,237,,,Verstärker,Kalte Lötstelle,ja,
+14.06.2014,238,,,CD-Spieler,,nein,
+14.06.2014,239,,,Lautsprecher,Frequensweiche gebrochen,ja,
+26.07.2014,240,,,E-Werkzeug,Kabel gebrochen,ja,
+26.07.2014,241,,,CD-Spieler,,ja,
+26.07.2014,242,,,Fotokamera,Halterung abgebrochen,ja,
+26.07.2014,243,,,Kopfhörer,Kabelbruch,ja,
+26.07.2014,244,,,Fotokamera,kontakte dreckig,ja,
+26.07.2014,245,,,Kaffeemaschine,Siebträger verbogen,ja,
+26.07.2014,246,,,Blutdruckmessgerät,Batterien ausgelaufen,ja,
+26.07.2014,247,,,Drucker,Einzugsrolle,ja,
+26.07.2014,248,,,Fahrrad,Tasche,ja,
+26.07.2014,249,,,Fernbedienung,,ja,
+26.07.2014,250,,,Drucker,,nein,
+26.07.2014,251,,,Toaster,Verschmutzt,ja,
+26.07.2014,252,,,Radio,Schalter defekt,ja,
+26.07.2014,253,,,E-Werkzeug,,ja,
+26.07.2014,254,,,Navigationsgerät,,ja,
+26.07.2014,255,,,Fernsehr,,nein,
+26.07.2014,256,,,Oberfräse,,ja,
+26.07.2014,257,,,Videorekorder,,nein,
+26.07.2014,258,,,Laptop,Dateisystem defekt,ja,
+26.07.2014,259,,,Kaffeemaschine,Wackelkontakt,ja,
+26.07.2014,260,,,Kaffeemaschine,Heizelement defekt,nein,
+26.07.2014,261,,,Mixer,Dichtung defekt,ja,
+26.07.2014,262,,,Tonbandgerät,Riemen defekt,ja,
+26.07.2014,263,,,Navigationsgerät,Stecker defekt,ja,
+26.07.2014,264,,,Fernsehr,Verstärker macht kurzschluss,ja,
+26.07.2014,265,,,Fernsehr,Mainboard defekt,nein,
+26.07.2014,266,,,Verlängerungskabel,,ja,
+26.07.2014,267,,,DVD-Spieler,Fach geht nicht auf,ja,
+26.07.2014,268,,,Faxgerät,,ja,
+26.07.2014,269,,,,,ja,
+26.07.2014,270,,,Radio,,ja,
+26.07.2014,271,,,Netzteil,,ja,
+26.07.2014,272,,,Roller,Lenker defekt,nein,
+26.07.2014,273,,,E-Grill,Erdschluss,nein,
+26.07.2014,274,,,Mixer,kontakte dreckig,ja,
+26.07.2014,275,,,Wasserkocher,Kabel abgefallen,ja,
+26.07.2014,276,,,E-Zahnbürste,Akku defekt,nein,
+26.07.2014,277,,,Ventilator,Motor defekt,ja,
+26.07.2014,278,,,Herd,Schalter defekt,nein,
+26.07.2014,279,,,MP3-Player,,ja,
+26.07.2014,280,,,Verstärker,Transistor defekt,nein,
+26.07.2014,281,,,Computer,Leitung defekt,nein,
+26.07.2014,282,,,Mixer,Kabelbruch,ja,
+26.07.2014,283,,,Telefon,Wasserschaden,ja,
+26.07.2014,284,,,Laptop,Software neu installiert,ja,
+26.07.2014,285,,,Rassierer,Akkus defekt,nein,
+26.07.2014,286,,,Laptop,Langsames internet,ja,
+20.09.2014,287,,,Kleidung,Mantel,ja,
+20.09.2014,288,,,Mixer,Rührwerkt,nein,
+20.09.2014,289,,,Navigationsgerät,,ja,
+20.09.2014,290,,,Klingel,geölt,ja,
+20.09.2014,291,,,Radio,Kabel abgefallen,ja,
+20.09.2014,292,,,Kaffeemaschine,,ja,
+20.09.2014,293,,,Laptop,Festplatte defekt,nein,
+20.09.2014,294,,,Radio,kein Ton,nein,
+20.09.2014,295,,,Drucker,Edelstein im Drucker,nein,
+20.09.2014,296,,,Tonbandgerät,Riemen defekt,nein,
+20.09.2014,297,,,CD-Spieler,Leaser zu weit weg von CD,ja,
+20.09.2014,298,,,CD-Spieler,Fach geht nicht auf,ja,
+20.09.2014,299,,,Videorekorder,,nein,
+20.09.2014,301,,,CD-Spieler,,nein,
+20.09.2014,302,,,Mixer,Schalter defekt,ja,
+20.09.2014,303,,,Toaster,Heizelement defekt,nein,
+20.09.2014,304,,,Lampe,,nein,
+20.09.2014,305,,,Verstärker,,nein,
+20.09.2014,306,,,E-Werkzeug,Wackelkontakt,ja,
+20.09.2014,307,,,CD-Spieler,Linse dreckig,ja,
+20.09.2014,308,,,Staubsauger,Kabelbruch,ja,
+20.09.2014,309,,,Tonbandgerät,Riemen defekt,nein,
+20.09.2014,310,,,Radio,Kondensator,nein,
+20.09.2014,311,,,Kaffeevollautomat,,nein,
+20.09.2014,312,,,CD-Spieler,,nein,
+20.09.2014,313,,,CD-Spieler,nicht zu öffnen,nein,
+20.09.2014,314,,,Lampe,Schalter defekt,ja,
+20.09.2014,315,,,Reciever,Display beleuchtung ,nein,
+20.09.2014,316,,,Kassetten Spieler,,ja,
+20.09.2014,317,,,Fahrrad,Gangschaltung,nein,
+20.09.2014,318,,,Lampe,Wackelkontakt,ja,
+20.09.2014,319,,,Radio,Motor defekt,nein,
+20.09.2014,320,,,CD-Spieler,,ja,
+20.09.2014,321,,,Uhr,,nein,
+20.09.2014,322,,,CD-Spieler,,nein,
+20.09.2014,323,,,Toaster,Schalter verdreckt,ja,
+20.09.2014,324,,,Fahrrad,Gangschaltung,ja,
+20.09.2014,325,,,CD-Spieler,Linse dreckig,ja,
+20.09.2014,326,,,Luftbefeuchter,Luefter gereinigt,ja,
+20.09.2014,327,,,Toaster,Kalte Loetstelle,ja,
+20.09.2014,328,,,CD-Spieler,CD Verklemmt,ja,
+20.09.2014,329,,,E-Werkzeug,,nein,
+20.09.2014,330,,,CD-Spieler,Potentiometer,ja,
+20.09.2014,331,,,Kaffeemaschine,Schalter defekt,ja,
+20.09.2014,332,,,Uhr,,ja,
+20.09.2014,333,,,Rassierer,Kabel abgefallen,ja,
+20.09.2014,334,,,Netzteil,,ja,
+20.09.2014,335,,,Kaffeevollautomat,Display gerissen,nein,
+20.09.2014,336,,,Nähmaschine,Läuft nicht mit voller leistung,nein,
+20.09.2014,336,,,Kaffeemaschine,Heizelement defekt,nein,
+20.09.2014,337,,,Fernsehr,Verstärker getauscht,ja,
+22.11.2014,338,,,Fahrrad,Kette abgesprungen,ja,
+22.11.2014,339,,,Kassetten Spieler,Getriebe defekt,nein,
+22.11.2014,340,,,Kaffeevollautomat,Ausrufezeichen,nein,
+22.11.2014,341,,,Kassetten Spieler,Kopf verdreckt,ja,
+22.11.2014,342,,,Fernsehr,,nein,
+22.11.2014,343,,,DVD-Spieler,Linse dreckig,ja,
+22.11.2014,344,,,Fahrrad,Gangschaltung,nein,
+22.11.2014,345,,,Laptop,Ladeelektronik defekt,nein,
+22.11.2014,346,,,Kopfhörer,Kabelbruch,ja,
+22.11.2014,347,,,Fotokamera,Error,nein,
+22.11.2014,348,,,Verstärker,Krazende Potis,ja,
+22.11.2014,349,,,Kaffeevollautomat,Sensor und Pumpe defekt,ja,
+22.11.2014,350,,,Radio,Resete notwendig,ja,
+22.11.2014,351,,,Fahrrad,Lampe,ja,
+22.11.2014,352,,,Navigationsgerät,,ja,
+22.11.2014,353,,,Nähmaschine,Fuápedal defekt,nein,
+22.11.2014,354,,,Tonbandgerät,Riemen defekt,ja,
+22.11.2014,355,,,Videorekorder,,nein,
+22.11.2014,356,,,Videorekorder,Verbogene mechanik,nein,
+22.11.2014,357,,,Kassetten Spieler,,nein,
+22.11.2014,358,,,Kassetten Spieler,Reimen defekt,ja,
+22.11.2014,359,,,Fotokamera,,nein,
+22.11.2014,360,,,Projektor,Lampenkontakte gereinigt,ja,
+22.11.2014,361,,,Lampe,Wackelkontakt,ja,
+22.11.2014,362,,,Festplatte,kein fehler,ja,
+22.11.2014,363,,,Drucker,,nein,
+22.11.2014,364,,,CD-Spieler,Linse dreckig,ja,
+22.11.2014,365,,,Laptop,Buchse nachgelötet,ja,
+22.11.2014,366,,,E-Werkzeug,Lagerschaden,ja,
+22.11.2014,367,,,Fahrrad,Gangschaltung,nein,
+22.11.2014,368,,,Kaffeevollautomat,Mahlwerk verdreckt,nein,
+22.11.2014,369,,,Waffeleisen,Stecker defekt,ja,
+22.11.2014,370,,,Navigationsgerät,Netzteil defekt,ja,
+22.11.2014,371,,,Poolsteuerung,Kondensator,ja,
+22.11.2014,372,,,Radio,,nein,
+22.11.2014,373,,,Kaffeemaschine,Heizelement defekt,nein,
+22.11.2014,374,,,Wäsche-Trockner,nicht vorort,nein,
+22.11.2014,375,,,Rassierer,,ja,
+17.01.2015,376,,,KFZ- Steckdose,Ladegerät defekt,nein,
+17.01.2015,377,,,Navigationsgerät,Buchse defekt,nein,
+17.01.2015,378,,,Plattenspieler,Stecker defekt,ja,
+17.01.2015,379,,,Filmprojektor,Lampenfassung defekt,nein,
+17.01.2015,380,,,Radio,Drossel defekt,ja,
+17.01.2015,381,,,Drucker,Sicherung defekt,ja,
+17.01.2015,382,,,Staubsauger,,nein,
+17.01.2015,383,,,Rassierer,Akku defekt,nein,
+17.01.2015,384,,,Microwelle,wird aus sicherheit nicht repariert,nein,
+17.01.2015,385,,,Microwelle,wird aus sicherheit nicht repariert,nein,
+17.01.2015,386,,,PC,Kondensator,nein,
+17.01.2015,387,,,Filmprojektor,riemen zu locker,ja,
+17.01.2015,388,,,Radio,Uhrzeit stellt sich manchmal um,nein,
+17.01.2015,389,,,CD-Spieler,,nein,
+17.01.2015,390,,,Radio,Schalter defekt,ja,
+17.01.2015,391,,,Kaffeemaschine,Erdschluss,nein,111
+17.01.2015,392,,,Radio,Display defekt,ja,
+17.01.2015,393,,,Staubsauger,Kabel defekt,ja,
+17.01.2015,394,,,Nähmaschine,Fadenführung defekt,nein,111
+17.01.2015,395,,,Kaffeemaschine,Heizelement defekt,nein,
+17.01.2015,396,,,Deckenlampe,einzelne LEDs defekt,ja,
+17.01.2015,397,,,Kaffeemaschine,Temperaturschalter defekt,ja,
+17.01.2015,398,,,Eierkocher,Kabelbruch,ja,
+17.01.2015,399,,,Wasserkocher,Schalter defekt,ja,
+17.01.2015,400,,,Küchengerät,Schalter defekt,nein,
+17.01.2015,401,,,Kaffeemaschine,Heizelement defekt,nein,
+17.01.2015,402,,,Lampe,,nein,
+17.01.2015,403,,,Tischleuchte,Fassung defekt,ja,
+17.01.2015,404,,,Staubsauger,Schalter defekt,nein,
+17.01.2015,405,,,Radio,Linse dreckig,ja,
+17.01.2015,406,,,Kaffeevollautomat,Brühgruppe gereinigt,ja,
+17.01.2015,407,,,Kassetten Spieler,Riemen defekt,ja,
+17.01.2015,408,,,Laptop,Bootet nicht,ja,
+17.01.2015,409,,,CD-Spieler,CD Verklemmt,ja,
+17.01.2015,410,,,Fernsehr,Kein Bild,nein,
+17.01.2015,411,,,CD-Spieler,schalter nicht wechselbar,nein,
+17.01.2015,412,,,Lampe,Dimmer defekt,ja,
+17.01.2015,413,,,DVD-Spieler,DVD Verklemmt,ja,
+17.01.2015,414,,,LED Lampe,Touchplatine defekt,nein,
+17.01.2015,415,,,Fahrrad,Bremse gerissen,ja,
+17.01.2015,416,,,Laptop,Startet nicht,nein,
+17.01.2015,417,,,CD-Spieler,Fach geht nicht auf,ja,
+17.01.2015,418,,,Staubsauger,Katzenhaare entfernt,ja,
+17.01.2015,419,,,Kaffeemaschine,Ovalschrauben konnten nicht geöffnet werden,nein,
+17.01.2015,420,,,Laptop,Anleitung fehlt,ja,
+17.01.2015,421,,,Steckerleiste,Schalter defekt,nein,
+17.01.2015,422,,,E-Werkzeug,Schalter defekt,nein,
+17.01.2015,423,,,Bildschirm,SNT Defekt,nein,
+17.01.2015,424,,,CD-Spieler,,ja,
+17.01.2015,425,,,DVD-Spieler,Kurzschluss,nein,
+17.01.2015,426,,,Radio,Geht nicht,nein,
+17.01.2015,427,,,Staubsauger,Motor defekt,nein,
+17.01.2015,428,,,Rechenmaschiene,Antrieb defekt,nein,
+17.01.2015,429,,,Zigaretten Spieluhr,auseinander gefallen,ja,
+17.01.2015,430,,,Mercedes Schreiben,,ja,
+17.01.2015,431,,,Lampe,Gleichrichter defekt,nein,
+17.01.2015,432,,,Fernsehr,Hat Streifen,nein,
+17.01.2015,433,,,Munddusche,Undicht,nein,
+17.01.2015,434,,,TCM Datenbank,,nein,
+17.01.2015,435,,,Drucker,Papierstau,nein,
+17.01.2015,436,,,Kaffeemaschine,Wasserschaden,ja,
+17.01.2015,437,,,Alarmanlage,Kurzschluss,nein,
+21.03.2015,438,,,Videorekorder,Auswurf defekt,ja,
+21.03.2015,439,,,Kaffeemaschine,Heizelement defekt,ja,
+21.03.2015,440,,,Fernsehr,Kondensator,ja,
+21.03.2015,441,,,Brotmaschine,,nein,
+21.03.2015,442,,,Lampe,Transistor defekt,ja,
+21.03.2015,443,,,Kinderspielzeug,Dauerton,ja,
+21.03.2015,444,,,Lampe,Dimmer defekt,nein,
+21.03.2015,445,,,CD-Spieler,Riemen,ja,
+21.03.2015,446,,,Kaffeemaschine,Kalkprogramm beendet nicht,ja,
+21.03.2015,447,,,Kassetten Spieler,Riemen,ja,
+21.03.2015,448,,,Fernsehr,Farbe fehlt,nein,
+21.03.2015,449,,,Föhn,Heizelement defekt,nein,
+21.03.2015,450,,,Föhn,Kabel defekt,ja,
+21.03.2015,451,,,Verstärker,Sicherung defekt,ja,
+21.03.2015,452,,,Steuergerät,Schalter defekt,nein,
+21.03.2015,453,,,Staubsauger,Kohlen abgenutzt,nein,
+21.03.2015,454,,,Körperwage,Fehler nicht gefunden,nein,
+21.03.2015,455,,,Kassetten Spieler,Riemen ,nein,
+21.03.2015,456,,,Rassierer,Akku defekt,ja,
+21.03.2015,457,,,Fernsehr,Kalte Lötstelle,ja,
+21.03.2015,458,,,Kaffeemaschine,Tasten defekt,ja,
+21.03.2015,459,,,Verstärker,Wackelkontakt,ja,
+21.03.2015,460,,,Plattenspieler,Tonabnehmer defekt,nein,
+21.03.2015,461,,,Telefon,Kabel defekt,ja,
+21.03.2015,462,,,Fernsehr,Tasten defekt,ja,
+21.03.2015,463,,,Staubsauger,Motor defekt,ja,
+21.03.2015,464,,,Staubsauger,Filter Verstopft,ja,
+21.03.2015,465,,,Fernsehr,Bild zu breit,ja,
+21.03.2015,466,,,Radio,Display defekt,nein,
+21.03.2015,467,,,CD-Spieler,Tasten defekt,ja,
+21.03.2015,468,,,Videorekorder,Kurzschluss,nein,
+21.03.2015,469,,,Lampe,kein Schalter,ja,
+21.03.2015,470,,,Zahnbürste,IC defekt,nein,
+21.03.2015,471,,,Handy,Display defekt,nein,
+21.03.2015,472,,,Wage,Kabel lose,ja,
+21.03.2015,473,,,Staubsauger,Kein kabel,ja,
+21.03.2015,474,,,Lichterkette,Wackelkontakt,ja,
+21.03.2015,475,,,Taschenlampe,Schalter defekt,ja,
+21.03.2015,476,,,CD-Spieler,Linse dreckig,ja,
+21.03.2015,477,,,Küchengerät,Getriebe defekt,nein,
+21.03.2015,478,,,Lampe,Leuchtmittel,ja,
+30.05.2015,479,,,Nähmaschine,Spule defekt,ja,
+30.05.2015,480,,,Projektor,Riemen defekt,ja,
+30.05.2015,481,,,Kassetten Spieler,Mechanik verklemmt,ja,
+30.05.2015,482,,,Tonbandgerät,Riemen defekt,ja,
+30.05.2015,483,,,Kassetten Spieler,Schalter defekt,ja,
+30.05.2015,484,,,Verstärker,Spannungsregler defekt,ja,
+30.05.2015,485,,,CD-Spieler,Motor defekt,nein,
+30.05.2015,486,,,Kaffeemaschine,Heizelement defekt,nein,
+30.05.2015,487,,,Toaster,Magnet defekt,nein,
+30.05.2015,488,,,Nähmaschine,Nadel bewegt sich nicht,ja,
+30.05.2015,489,,,Ladegerät,Trafo defekt,nein,
+30.05.2015,490,,,CD-Spieler,Motor defekt,nein,
+30.05.2015,491,,,Kamera ,Mechanik defekt,nein,
+30.05.2015,492,,,Fahrrad,Kabelzug defekt,ja,
+30.05.2015,493,,,Espressomaschine,Entkalkung,ja,
+30.05.2015,494,,,Kaffeevollautomat,allgemeine Störunf,nein,
+30.05.2015,495,,,Kassetten Spieler,Kein Bild,ja,
+30.05.2015,496,,,DVD-Spieler,Schalter defekt,ja,
+30.05.2015,497,,,Fernsehr,Kein Bild,nein,
+30.05.2015,498,,,Radio,Lautstärkeregler defekt,ja,
+30.05.2015,499,,,Videorekorder,Riemen plus weitere Defekte,nein,
+30.05.2015,500,,,Verstärker,Sicherung defekt,ja,
+30.05.2015,501,,,CD-Spieler,Riemen defekt,ja,
+30.05.2015,502,,,Staubsauger,Leitung defekt,ja,
+30.05.2015,503,,,Stromsuchgerät,Deuerpiepen,nein,
+30.05.2015,504,,,Bügeleisen,Kurzschluss,ja,
+30.05.2015,505,,,DVD-Spieler,Platienenfehler,nein,
+30.05.2015,506,,,Fernsehr,Kondensator,ja,
+30.05.2015,507,,,Kamera ,Mechanik defekt,nein,
+30.05.2015,508,,,Uhr,Mechanik defekt,nein,
+30.05.2015,509,,,Verstärker,Sicherung defekt,ja,
+30.05.2015,510,,,Kassetten Spieler,Mechanik defekt,ja,
+30.05.2015,511,,,Drucker,Scannt nicht,nein,
+30.05.2015,512,,,Kamera ,,ja,
+30.05.2015,513,,,Mixer,Motor defekt,nein,
+30.05.2015,514,,,Kassetten Spieler,Kein Bild,nein,
+30.05.2015,515,,,Mixer,defekte kohlebürste,nein,
+30.05.2015,516,,,Nähmaschine,Niete neu gemacht werden,ja,
+30.05.2015,517,,,Fernsehr,Kabelbuchse anlöten,ja,
+30.05.2015,518,,,Fernsehr,Kondensator,ja,
+30.05.2015,519,,,Kassetten Spieler,Antrieb defekt,nein,
+30.05.2015,520,,,Kassetten Spieler,Falsch eingestellt,ja,
+30.05.2015,521,,,CD-Spieler,Linse dreckig,ja,
+30.05.2015,522,,,Nähmaschine,neu geölt,ja,
+30.05.2015,523,,,Fernsehr,,nein,
+30.05.2015,524,,,Lampe,Kabel+ fassung defekt,nein,
+30.05.2015,525,,,Kassetten Spieler,Schalter und Zahnräder defekt,nein,
+30.05.2015,526,,,Mixer,Motor defekt,nein,
+30.05.2015,527,,,Mixer,,nein,
+30.05.2015,528,,,Mixer,Motor defekt,nein,
+30.05.2015,529,,,Winkelschleifer,Entstörkonensator defekt,nein,
+30.05.2015,530,,,Fahrrad,Schaltung defekt,ja,
+30.05.2015,531,,,Fahrrad,kaputt,ja,
+30.05.2015,532,,,Fahrrad,Beleuchtung defekt,ja,
+30.05.2015,533,,,Kassetten Spieler,Kein Bild,ja,
+30.05.2015,534,,,Kaffeevollautomat,Fehler nicht gefunden,nein,
+30.05.2015,535,,,E Spielzeug,,nein,
+30.05.2015,536,,,Drucker,Papierstau,nein,
+30.05.2015,537,,,Verstärker,Platienenfehler,nein,
+30.05.2015,538,,,CD-Spieler,Motor defekt,ja,
+30.05.2015,539,,,CD-Spieler,Leaser zu weit weg von CD,nein,
+30.05.2015,540,,,Nähmaschine,,nein,
+12.06.2015,541,,,Bohrmaschine,,ja,
+12.06.2015,542,,,Kabel,,ja,
+12.06.2015,543,,,DVD-Spieler,,nein,
+18.07.2015,544,,,Radio,,ja,
+18.07.2015,545,,,Nähmaschine,,nein,
+18.07.2015,546,,,Bohrmaschine,,ja,
+18.07.2015,547,,,Kassetten Spieler,,ja,
+18.07.2015,548,,,Verstärker,,nein,
+18.07.2015,549,,,Radio,,nein,
+18.07.2015,550,,,Verstärker,,ja,
+18.07.2015,551,,,Camcorder,,nein,
+18.07.2015,552,,,Tonbandgerät,,ja,
+18.07.2015,553,,,Kaffeemühle,,ja,
+18.07.2015,554,,,DVD-Spieler,,ja,
+18.07.2015,555,,,Mixer,,ja,
+18.07.2015,556,,,Lampe,,ja,
+18.07.2015,557,,,Ladegerät,,ja,
+18.07.2015,558,,,Laptop,,ja,
+18.07.2015,559,,,Staubsauger,,nein,
+18.07.2015,560,,,Stromsuchgerät,,nein,
+18.07.2015,561,,,CD-Spieler,,ja,
+18.07.2015,562,,,Fahrrad,,nein,
+18.07.2015,563,,,Staubsauger,,ja,
+18.07.2015,564,,,DVD-Spieler,,nein,
+18.07.2015,565,,,E-Grill,,ja,
+18.07.2015,566,,,Bohrmaschine,,ja,
+18.07.2015,567,,,Lampe,,ja,
+18.07.2015,568,,,Mixer,,ja,
+18.07.2015,569,,,Kassetten Spieler,,ja,
+18.07.2015,570,,,Laptop,,nein,
+18.07.2015,571,,,Plattenspieler,,ja,
+18.07.2015,572,,,Radio,,ja,
+18.07.2015,573,,,Verstärker,,ja,
+18.07.2015,574,,,CD-Spieler,,ja,
+18.07.2015,575,,,Drucker,,ja,
+18.07.2015,576,,,Kaffeemaschine,,ja,
+18.07.2015,577,,,CD-Spieler,,ja,
+18.07.2015,579,,,DVD-Spieler,,ja,
+18.07.2015,580,,,Verstärker,,ja,
+18.07.2015,581,,,Kaffeevollautomat,,ja,
+18.07.2015,582,,,Videorekorder,,ja,
+18.07.2015,583,,,CD-Spieler,,ja,
+18.07.2015,584,,,Mixer,,ja,
+05.09.2015,585,,,Radio,Gleichrichter defekt,ja,
+05.09.2015,586,,,Staubsauger,Kabel defekt,ja,
+05.09.2015,587,,,Plattenspieler,,nein,
+05.09.2015,588,,,CD-Spieler,,nein,
+05.09.2015,589,,,Plattenspieler,neuer Verstärker eingebaut,ja,
+05.09.2015,590,,,Fernsehr,Platienenfehler,nein,
+05.09.2015,591,,,Fernsehr,Transistor defekt,nein,
+05.09.2015,592,,,DVD-Spieler,,ja,
+05.09.2015,593,,,Plattenspieler,,ja,
+05.09.2015,594,,,Verstaerker,,nein,
+05.09.2015,595,,,Handy,,ja,
+05.09.2015,596,,,Lampe,Kabel defekt,ja,
+05.09.2015,597,,,Radio,Trafo defekt,nein,
+05.09.2015,598,,,CD-Spieler,,ja,
+05.09.2015,599,,,Verstaerker,Schalter defekt,ja,
+05.09.2015,600,,,PC,,ja,
+05.09.2015,601,,,Kaffeemaschine,Kondensator,ja,
+05.09.2015,602,,,Zahnbürste,,nein,
+28.11.2015,603,,,uhr,Motor defekt,nein,
+28.11.2015,604,,,Reciever,Rellais defekt,ja,
+28.11.2015,605,,,Videorekorder,,nein,
+28.11.2015,606,,,Tonbandgeraet,Sicherung defekt,ja,
+28.11.2015,607,,,Reciever,microcontroller defekt,nein,
+28.11.2015,608,,,Verstaerker,Riemen,ja,
+28.11.2015,609,,,Kaffeevollautomat,Triac defekt,nein,
+28.11.2015,610,,,CD-Spieler,Riemen,ja,
+28.11.2015,611,,,Küchengerät,Bauteil bestellt,nein,
+28.11.2015,612,,,Taoaster,,nein,
+28.11.2015,613,,,Videorekorder,Reimen defekt,nein,
+28.11.2015,614,,,Verstaerker,Lautstärkeregler defekt,ja,
+28.11.2015,615,,,Kaffeemaschine,Rückschlagventil,ja,
+28.11.2015,616,,,Lampe,Wackelkontakt,ja,
+28.11.2015,617,,,CD-Spieler,Linse dreckig,ja,
+28.11.2015,618,,,Videorekorder,Gereinigt,ja,
+28.11.2015,619,,,Beamer,,ja,
+28.11.2015,620,,,Lampe,Kabel gebrochen,ja,
+28.11.2015,621,,,Videorekorder,,ja,
+28.11.2015,622,,,Laptop,Schalter defekt,ja,
+28.11.2015,623,,,Faxgeraet,Mechanik defekt,ja,
+28.11.2015,624,,,Zeitschaltuhr,Neuen akku eingelötet,ja,
+28.11.2015,625,,,Kaffeemaschine,,ja,
+28.11.2015,626,,,Videorekorder,Antrieb defekt,nein,
+28.11.2015,627,,,Kassetten Spieler,,ja,
+28.11.2015,628,,,Radio,Diode getausch,ja,
+28.11.2015,629,,,Spielekonsole,,nein,
+28.11.2015,630,,,DVD-Spieler,,ja,
+28.11.2015,631,,,Lampe,Wackelkontakt,ja,
+28.11.2015,632,,,Kassetten Spieler,Bedienfehler,ja,
+28.11.2015,633,,,Fernsehr,Wackelkontakt,ja,
+28.11.2015,634,,,Fernsehr,Ersatzteil benötigt,nein,
+28.11.2015,635,,,Ofen,Heizelement defekt,ja,
+28.11.2015,636,,,Bohrmaschine,Motor defekt,nein,
+28.11.2015,637,,,Staubsauger,Bedienfehler,ja,
+28.11.2015,638,,,Staubsauger,,ja,
+28.11.2015,639,,,Lampe,,ja,
+28.11.2015,640,,,Kaffeemaschine,,ja,
+28.11.2015,641,,,Radio,Sicherung defekt,ja,
+28.11.2015,642,,,Messgeraet,,ja,
+28.11.2015,643,,,Netzteil,,nein,
+28.11.2015,644,,,Spielzeug,Akku defekt,ja,
+28.11.2015,645,,,Staubsauger,Wackelkontakt,ja,
+28.11.2015,646,,,Navigationsgeraet,,nein,
+28.11.2015,647,,,Lampe,Schalter defekt,ja,
+28.11.2015,648,,,Bohrmaschine,Akku defekt,ja,
+28.11.2015,649,,,Handy,,ja,
+28.11.2015,650,,,Staubsauger,Motor defekt,nein,
+28.11.2015,651,,,Reciever,,ja,
+28.11.2015,652,,,Handy,USB buchse defekt,ja,
+28.11.2015,653,,,Kühlbox,,nein,
+28.11.2015,654,,,Lampe,Stecker defekt,ja,
+28.11.2015,655,,,Lampe,,nein,
+28.11.2015,656,,,DVD-Spieler,Laufwerk defekt,nein,
+23.01.2016,657,,,Kassetten Spieler,Köpfe defekt,nein,
+23.01.2016,658,,,Küchengerät,Schalter defekt,ja,
+23.01.2016,659,,,Lampe,defekt,ja,
+23.01.2016,660,,,Kamera ,Blitz defekt,ja,
+23.01.2016,661,,,Kamera ,Linse dreckig,nein,
+23.01.2016,662,,,Staubsauger,dreckig,ja,
+23.01.2016,663,,,Verstaerker,kontakt probleme,ja,
+23.01.2016,664,,,DVD-Spieler,,nein,
+23.01.2016,665,,,Verstaerker,,nein,
+23.01.2016,666,,,Radio,Stecker defekt,ja,
+23.01.2016,667,,,Brotmaschine,Riemen,ja,
+23.01.2016,668,,,Küchengerät,Falsch eingestellt,ja,
+23.01.2016,669,,,Nähmaschine,Nadel falsch eingestellt,ja,
+23.01.2016,670,,,Mixer,Temperaturschalter defekt,ja,
+23.01.2016,671,,,Toaster,,nein,
+23.01.2016,672,,,Plattenspieler,Andrückrolle abgenutzt,ja,
+23.01.2016,673,,,Videorekorder,,nein,
+23.01.2016,674,,,Lampe,Leitung defekt,ja,
+23.01.2016,675,,,Verstaerker,Sicherung defekt,ja,
+23.01.2016,676,,,Funkgerät,Akku defekt,ja,
+23.01.2016,677,,,Kaffeemaschine,,ja,
+23.01.2016,678,,,Bügeleisen,,ja,
+23.01.2016,679,,,Ladegerät,,ja,
+23.01.2016,680,,,Fernsehr,,ja,
+23.01.2016,681,,,Gartengerät,,nein,
+23.01.2016,682,,,Kaffeemaschine,,ja,
+23.01.2016,683,,,Videorekorder,Federdefekt,ja,
+23.01.2016,684,,,Notebook,,nein,
+19.03.2016,685,,,Eieruhr,Federdefekt,nein,
+19.03.2016,686,,,CD-Spieler,Linse dreckig,ja,
+19.03.2016,687,,,E-Werkzeug,Trafo defekt,nein,
+19.03.2016,688,,,Fahrrad,,ja,
+19.03.2016,689,,,Videorekorder,köpfe verdreckt,ja,
+19.03.2016,690,,,Toaster,,ja,
+19.03.2016,691,,,Lampe,Fassung defekt,ja,
+19.03.2016,692,,,Radio,Wackelkontakt,ja,
+19.03.2016,693,,,Verstaerker,Trafo defekt,ja,
+19.03.2016,694,,,Laptop,Geht nicht,nein,
+19.03.2016,695,,,Haartrockner,Heizelement defekt,ja,
+19.03.2016,696,,,Lampe,Fassung defekt,ja,
+19.03.2016,697,,,Radio,Tasten defekt,nein,
+19.03.2016,698,,,Verstaerker,dreckig,ja,
+19.03.2016,699,,,uhr,Wackelkontakt,ja,
+19.03.2016,700,,,Kuechenmaschine,,ja,
+19.03.2016,701,,,Kaffeemaschine,Konstruktionsfehler,nein,
+19.03.2016,702,,,Lampe,,ja,
+19.03.2016,703,,,Schreibmaschine,Federdefekt,ja,
+19.03.2016,704,,,Videorekorder,,nein,
+19.03.2016,705,,,E-Werkzeug,kein fehler,ja,
+19.03.2016,706,,,Nähmaschine,Kondensator,ja,
+19.03.2016,707,,,CD-Spieler,,nein,
+19.03.2016,708,,,Laptop,Geht nicht,ja,
+19.03.2016,709,,,Kamera ,Akku defekt,ja,
+19.03.2016,710,,,Kuechenmaschine,Lagerschaden,ja,
+19.03.2016,711,,,Staubsauger,Geht nicht,ja,
+19.03.2016,712,,,Heizplatte,Sicherung fliegt raus,nein,
+19.03.2016,713,,,E Spielzeug,Akku defekt,ja,
+19.03.2016,714,,,Buegeleisen,Geht nicht,ja,
+19.03.2016,715,,,Videorekorder,,nein,
+19.03.2016,716,,,Wasserkocher,Wackelkontakt,ja,
+19.03.2016,717,,,CD-Spieler,,ja,
+19.03.2016,718,,,E-Grill,Erdschluss,nein,
+19.03.2016,719,,,Laptop,Wackelkontakt,ja,
+19.03.2016,720,,,Kassetten Spieler,Rauscht,ja,
+19.03.2016,721,,,Reciever,Kabel abgefallen,ja,
+19.03.2016,722,,,CD-Spieler,Antrieb defekt,ja,
+19.03.2016,723,,,Wasserkocher,Wackelkontakt,ja,
+19.03.2016,724,,,PC,Schalter defekt,ja,
+19.03.2016,725,,,Radio,Batterien ausgelaufen,ja,
+19.03.2016,726,,,Naehmaschine,Schalter defekt,ja,
+19.03.2016,727,,,Staubsauger,Wackelkontakt,ja,
+19.03.2016,728,,,Lampe,Schalter defekt,ja,
+19.03.2016,729,,,Fernsehr,Netzteil defekt,nein,
+19.03.2016,730,,,Fahrrad,Reifen Platt,ja,
+19.03.2016,731,,,Drucker,Einzugsrolle,nein,
+19.03.2016,732,,,Lampe,,ja,
+19.03.2016,733,,,Drucker,Geht nicht,nein,
+19.03.2016,734,,,Fernsehr,Netzteil defekt,ja,
+19.03.2016,735,,,Handy,USB buchse defekt,nein,
+19.03.2016,736,,,Kaffeemaschine,Undicht,nein,
+19.03.2016,737,,,Lampe,Schalter defekt,nein,
+19.03.2016,738,,,CD-Spieler,Linse dreckig,ja,
+19.03.2016,739,,,CD-Spieler,Linse blind,nein,
+19.03.2016,740,,,Fahrrad,Bremse gerissen,ja,
+19.03.2016,741,,,Schallplattenspieler,Aufhaengung defekt,ja,
+19.03.2016,742,,,CD-Spieler,Linse blind,nein,
+19.03.2016,743,,,Verstaerker,,ja,
+19.03.2016,744,,,Laptop,Wackelkontakt,ja,
+19.03.2016,745,,,Drucker,,nein,
+19.03.2016,746,,,Wasserkocher,Rellais defekt,nein,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,, ,,,,
