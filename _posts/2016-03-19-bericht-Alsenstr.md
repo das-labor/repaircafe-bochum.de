@@ -1,5 +1,5 @@
 ---
-title: Repair Café vom 19.03.16 Rekord 61 Geräte!
+title: Repair Café vom 19.03.16 Rekord: 61 Geräte!
 layout: default
 author: mati
 ---
