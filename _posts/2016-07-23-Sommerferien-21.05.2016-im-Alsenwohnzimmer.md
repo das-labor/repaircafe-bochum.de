@@ -1,5 +1,5 @@
 ---
-title: Sommerferien: 23.07.2016 im Alsenwohnzimmer
+title: "Sommerferien: 23.07.2016 im Alsenwohnzimmer"
 layout: default
 autor: Matthias
 ---
