@@ -19,16 +19,17 @@ Terminübersicht
 
 Wohnzimmer Alsenstraße e.V.
 ---------------------------
-Alsenstraße 27 // 44789 Bochum<br>
+Alsenstraße 27 <br>
+44789 Bochum<br>
 repaircafe@das-labor.org<br>
-
+Termine finden alle zwei Monate abwecheslnd in der Alsenstraße und im Labor statt.
 
 Labor e.V.
 ----------
 Alleestraße 50 <br>
 44793 Bochum <br>
 repaircafe@das-labor.org<br>
-
+Termine finden alle zwei Monate abwecheslnd in der Alsenstraße und im Labor statt.
 
 Senioren-Begegnungsstätte "Haus der Caritas"
 -------------------------------------------
@@ -36,3 +37,4 @@ Caritas-Zentrum Wattenscheid <br>
 An der Papenburg 23<br>
 44866 Bochum<br>
 Telefon: 02327. 9461-26<br>
+Termine Finden jeden ersten Freitag im Monat statt. Bei Feiertagen verschiebt sich der Termin um eine Woche.
