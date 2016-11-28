@@ -14,11 +14,9 @@ Auch für die Unterhaltung der wartenden Besucher war gesorgt. Mit Zeitungen, Bu
 
 Zum Abschluss wurde gemeinsam gegessen, was die fleißigen Helfer wieder aus geretteten Lebensmitteln zubereitet hatten, unter anderem einen Salat aus saisonalen Früchten. 
 
-![img1](/assets/pictures/2016-Mai-02.jpg)
-![img1](/assets/pictures/2016-Mai-03.jpg)
-![img1](/assets/pictures/2016-Mai-04.jpg)
-![img1](/assets/pictures/2016-Mai-05.jpg)
-![img1](/assets/pictures/2016-Mai-06.jpg)
-![img1](/assets/pictures/2016-Mai-07.jpg)
-![img1](/assets/pictures/2016-Mai-08.jpg)
-
+![img1](/assets/pictures/2016-mai/2016-mai-02.jpg)
+![img1](/assets/pictures/2016-mai/2016-mai-03.jpg)
+![img1](/assets/pictures/2016-mai/2016-mai-04.jpg)
+![img1](/assets/pictures/2016-mai/2016-mai-05.jpg)
+![img1](/assets/pictures/2016-mai/2016-mai-06.jpg)
+![img1](/assets/pictures/2016-mai/2016-mai-01.jpg)
