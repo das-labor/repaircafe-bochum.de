@@ -2,8 +2,8 @@
 title: alle Termine
 layout: default
 ---
-Terminübersicht
-===============
+Terminübersicht Bochum Zentrum
+==============================
 <ul>
  {% for ent in site.data.termine %}
 	{% capture d1 %}{{ ent.datum | date: '%F' }}{% endcapture %}
@@ -16,6 +16,7 @@ Terminübersicht
 </ul>
 
 
+<a id="alsenstraße"></a>
 
 Wohnzimmer Alsenstraße e.V.
 ---------------------------
@@ -24,6 +25,8 @@ Alsenstraße 27 <br>
 repaircafe@das-labor.org<br>
 Termine finden alle zwei Monate abwecheslnd in der Alsenstraße und im Labor statt.
 
+<a id="labor"></a>
+
 Labor e.V.
 ----------
 Alleestraße 50 <br>
@@ -31,10 +34,24 @@ Alleestraße 50 <br>
 repaircafe@das-labor.org<br>
 Termine finden alle zwei Monate abwecheslnd in der Alsenstraße und im Labor statt.
 
+<a id="wattenscheid"></a>
+
 Senioren-Begegnungsstätte "Haus der Caritas"
 -------------------------------------------
 Caritas-Zentrum Wattenscheid <br>
 An der Papenburg 23<br>
 44866 Bochum<br>
 Telefon: 02327. 9461-26<br>
-Termine Finden jeden ersten Freitag im Monat statt. Bei Feiertagen verschiebt sich der Termin um eine Woche.
+Termine: Jeden ersten Freitag im Monat. Bei Feiertagen verschiebt sich der Termin um eine Woche.
+
+<a id="gerthe"></a>
+
+Repair Café Bochum Gerthe
+-------------------------
+Im Quartierstreff 55 +<br>
+Gerther Straße 20<br>
+44805 Bochum<br>
+Termine: Jeden letzten Freitag im Monat 14 bis 17 Uhr.
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
