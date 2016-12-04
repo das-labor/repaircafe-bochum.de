@@ -1,4 +1,5 @@
 <h2>Nächste Termine</h2>
+<b>Bochum Mitte:</b><br>
 <ul>
 	{% for ent in site.data.termine %}
 	{% capture d1 %}{{ ent.datum | date: '%F' }}{% endcapture %}<!-- Datum des Eintrags in termine.csv-->
@@ -11,8 +12,16 @@
 	        <li><b>Am {{ ent.datum | localize:"%d. %b %Y" }} {{ ent.ort }}</b></li>
 	{%endif%}
 	{% endfor %}
-</ul> 
-<h4><a href="{{site.url}}/alleTermine.html">weitere Repaircafes in Bochum</a></h4>
+</ul>
+<b>Repair Café Gerthe:</b><br>
+<a href='http://repaircafe-bochum.de/alleTermine.html#gerthe'>letzter Freitag im Monat, 14-17 Uhr </a><br><br>
+
+<b>Repair Café Wattenscheid:</b><br>
+<a href='http://repaircafe-bochum.de/alleTermine.html#wattenscheid'> erster Freitag im Monat, 14-17 Uhr</a><br><br>
+
+<!-- <h4><a href="{{site.url}}/alleTermine.html">weitere Repaircafes in Bochum</a></h4> -->
+
+
 <div class="repaircounter">Reparaturversuche: <a href="{{ site.url }}/reparaturen.html"><em>{{ site.data.reparaturen | size }}</em></a></div>
 	<h2><a href='mailto:repaircafe@das-labor.org'>repaircafe@das-labor.org</a></h2>
 </div>
