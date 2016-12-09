@@ -1,5 +1,5 @@
 ---
-title: "Hohe Erfolgsquote beim Repair Café am 26.11.2016"
+title: "Hohe Erfolgsquote beim Repair Café am 1.10.2016"
 layout: default
 author: Yago
 ---
