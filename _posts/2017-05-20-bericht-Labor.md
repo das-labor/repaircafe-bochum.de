@@ -15,10 +15,9 @@ Und um das Ganze perfekt zu machen gab es Spargel zum gemeinsamen Abendessen.
 
 
 
-![img1](/assets/pictures/2017-juli-01.jpg)
-![img1](/assets/pictures/2017-juli-02.jpg)
-![img1](/assets/pictures/2017-juli-03.jpg)
-![img1](/assets/pictures/2017-juli-04.jpg)
-![img1](/assets/pictures/2017-juli-05.jpg)
-![img1](/assets/pictures/2017-juli-06.jpg)
+![img1](/assets/pictures/2017-Mai-01.jpg)
+![img1](/assets/pictures/2017-Mai-02.jpg)
+![img1](/assets/pictures/2017-Mai-03.jpg)
+![img1](/assets/pictures/2017-Mai-04.jpg)
+
 
