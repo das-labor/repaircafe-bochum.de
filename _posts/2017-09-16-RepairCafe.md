@@ -14,6 +14,6 @@ Wir freuen uns schon aufs nächste Mal in der Alsenstraße, wenn wir unseren vie
 
 
 
-![img1](/assets/pictures/2017-September-01.jpg)
+![img1](/assets/pictures/2017-september-16.jpg)
 
 
