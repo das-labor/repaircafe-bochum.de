@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Repair Café vom 24.03.18: Staubsauger, Plattenspieler und die guten alten Röhrenradios:"
 layout: default
 author: Wolfgang, Sophia
