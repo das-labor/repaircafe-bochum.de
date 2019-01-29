@@ -9,15 +9,16 @@ Neue Geräte können ganz im Sinne der Wegwerf-Mentalität oftmals ohne Zerstör
 Das Team des Repair Cafés hat allerdings inzwischen nachgerüstet und Spezialwerkzeug angeschafft, um alle reparaturwilligen Besucher zu unterstützen.
 Genau aus diesem Grund beteiligen wir uns auch an der Initiative Runder Tisch Reparatur. Diese Initiative sammelt Unterschriften, um die Politik aufzufordern, reparaturfreundliches Design gesetzlich zu verankern.
 Hier die konkreten Forderungen:
-1.	Zugang zu (erschwinglichen) Ersatzteilen 
-2.	Zugang zu Ersatzteilen aus Altgeräten
-3.	Deutschland braucht einen reduzierten Mehrwertsteuersatz für Reparaturdienstleistungen und Gebrauchtwaren
-4.	Reparaturfreundliches Produktdesign
-5.	VerbraucherInnen aufklären
-6.	Bereitstellung von technischen Daten und Diagnosesoftware
-7.	Reparatur-Autorisierung für mehr Fachbetriebe auch während der Garantiezeit
-Mehr Informationen und unterstützen unter 
-http://runder-tisch-reparatur.de/unterstuetzen/ 
+
+1. Zugang zu (erschwinglichen) Ersatzteilen 
+2. Zugang zu Ersatzteilen aus Altgeräten
+3. Deutschland braucht einen reduzierten Mehrwertsteuersatz für Reparaturdienstleistungen und Gebrauchtwaren
+4. Reparaturfreundliches Produktdesign
+5. VerbraucherInnen aufklären
+6. Bereitstellung von technischen Daten und Diagnosesoftware
+7. Reparatur-Autorisierung für mehr Fachbetriebe auch während der Garantiezeit
+
+Mehr Informationen und unterstützen unter [http://runder-tisch-reparatur.de/unterstuetzen/](http://runder-tisch-reparatur.de/unterstuetzen/)
 
 
 ![img1](/assets/pictures/2018-März-01.jpg)
