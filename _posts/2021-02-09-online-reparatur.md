@@ -8,3 +8,5 @@ Da sich die Wiedereröffnung noch etwas verzögert, möchten wir die Gelegenheit
 Es gab bereits in der ersten Februarwoche jeden Tag Online-Termine. Über weitere Termine können Sie sich auf folgender Seite informieren: [https://www.reparatur-initiativen.de/seite/online-reparaturcafe](https://www.reparatur-initiativen.de/seite/online-reparaturcafe)
 
 Dort wird auch beschrieben, wie Sie am Reparaturcafé teilnehmen könne.
+
+![Online reparieren](/assets/pictures/2021-02-09_online.jpg)
