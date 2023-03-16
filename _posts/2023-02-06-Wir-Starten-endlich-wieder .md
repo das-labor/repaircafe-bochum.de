@@ -1,5 +1,5 @@
 ---
-title: "Wir Starten endlich wieder! "
+title: "Wir starten endlich wieder! "
 layout: default
 author: Mati
 ---
