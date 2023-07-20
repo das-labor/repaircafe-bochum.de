@@ -1,8 +1,1 @@
----
-title: "RepairCafe am 22.Juli fällt leider aus "
-layout: default
-author: Mati
----
 
-
-Leider müssen wir mitteilen, dass das RepairCafe am 22.Juli 2023 leider ausfällt. Unsere Erfahrungen der letzten Jahre, das ein Teil der Reperaturhelfer in den Ferien anwedend ist, bestätigt sich dieses Jahr leider nicht, so das wir dieses Jahr zu wenige sind. 
